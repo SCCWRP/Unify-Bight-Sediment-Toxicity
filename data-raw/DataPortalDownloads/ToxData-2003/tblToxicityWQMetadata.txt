@@ -1,0 +1,1387 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        Southern California Coastal Water Research Project
+        (SCCWRP)
+      Publication_Date: 20040402
+      Publication_Time: 20040402
+      Title:
+        2003 Bight03 Coastal Ecology Sediment Toxicity
+        Water Quality
+      Edition: 1.0
+      Publication_Information:
+        Publication_Place: Westminster, California
+        Publisher:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+       Online_Linkage:
+      http://www.sccwrp.org:8000/query.php?project=20%2b2003 Bight 03 &parameter=6%2bToxicity [View a Map of this Data] 
+      http://www.sccwrp.org:8000/toolbox/php/csv/csv.php?star_project=20&star_parameter=6 [Download this Data as an Excel Friendly File] 
+      ftp://ftp.sccwrp.org/pub/download/BIGHT03/TOXICITY/ToxData.zip
+  Description:
+    Abstract:
+      The Southern California Bight (SCB; Figure I-1),
+      an open embayment in the coast between Point
+      Conception and Cape Colnett (south of Ensenada),
+      Baja California, is an important and unique
+      ecological resource.  The SCB is a transitional
+      area that is influenced by currents from cold,
+      temperate ocean waters from the north and warm,
+      tropical waters from the south.  In addition, the
+      SCB has a complex topography, with offshore
+      islands, submarine canyons, ridges and basins,
+      which provide a variety of habitats.  The mixing
+      of currents and the diverse habitats in the SCB
+      allow for the coexistence of a broad spectrum of
+      species, including more than 500 species of fish
+      and several thousand species of invertebrates.
+      The SCB is also a major migration route, with
+      marine bird and mammal populations ranking among
+      the most diverse in north temperate waters.  The
+      coastal zone of the SCB is a substantial economic
+      resource.  Los Angeles/Long Beach Harbor is the
+      largest commercial port in the United States, and
+      San Diego Harbor is home to one of the largest US
+      Naval facilities in the country.  More than 100
+      million people visit southern California beaches
+      and coastal areas annually, bringing an estimated
+      $9B into the economy.  Recreational activities
+      include diving, swimming, surfing, and boating,
+      with about 40,000 pleasure boats docked in 13
+      coastal marinas within the region (NRC 1990).
+      Recreational fishing brings in more than $500M per
+      year.  The SCB is one of the most densely
+      populated coastal regions in the country, which
+      creates stress upon its marine environment.
+      Nearly 20 million people inhabit coastal Southern
+      California, a number that is expected to increase
+      another 20% by 2010 (NRC 1990).  Population growth
+      generally results in conversion of open land into
+      non-permeable surfaces.  More than 75% of southern
+      Californian bays and estuaries have already been
+      dredged and filled for conversion into harbors and
+      marinas (Horn and Allen 1985).  This “hardening of
+      the coast” increases the rate of runoff and can
+      impact water quality through addition of sediment,
+      toxic chemicals, pathogens and nutrients to the
+      ocean.  Besides the impacts of land conversion,
+      the SCB is already home to fifteen municipal
+      wastewater treatment facilities, eight power
+      generating stations, 10 industrial treatment
+      facilities, and 18 oil platforms that discharge to
+      the open coast.  Each year, local, state, and
+      federal agencies spend in excess of $31M to
+      monitor the environmental quality of natural
+      resources in the SCB (Schiff et al 2001).  At
+      least 75% of this monitoring is associated with
+      National Pollutant Discharge Elimination System
+      (NPDES) permits and is intended to assess
+      compliance of waste discharge with the California
+      Ocean Plan and the federal Clean Water Act, which
+      set water quality standards for effluent and
+      receiving waters.  Some of this information has
+      played a significant role in management decisions
+      in the SCB.  While these monitoring programs have
+      provided important information, they were designed
+      to evaluate impacts near individual discharges.
+      Today, resource managers are being encouraged to
+      develop management strategies for the entire SCB.
+      To accomplish this task, they need
+      regionally-based information to assess cumulative
+      impacts of contaminant inputs and to evaluate
+      relative risk among different types of stresses.
+      It is difficult to use existing data to evaluate
+      regional issues because the monitoring was
+      designed to be site-specific and is limited to
+      specific geographic areas.  The monitoring
+      provides substantial data for some areas, but
+      there is little or no data for the areas in
+      between.  Beyond the spatial limitations, data
+      from these programs are not easily merged to
+      examine relative risk.  The parameters measured
+      often differ among programs.  Even when the same
+      parameters are measured, the methodologies used to
+      collect the data often differ and interlaboratory
+      quality assurance (QA) exercises to assess data
+      comparability are rare.  Previous Regional
+      Monitoring Studies  To begin addressing these
+      concerns, there have been two previous regional
+      monitoring efforts.  The first regional monitoring
+      survey in 1994, called the Southern California
+      Bight Pilot Project (SCBPP), was a compilation of
+      12 agencies that cooperatively sampled 261 sites
+      along the continental shelf between Point
+      Conception and the United States/Mexico border.
+      The second regional monitoring survey, called the
+      Southern California Bight 1998 Regional Monitoring
+      Project (Bight’98), was comprised of 64 agencies
+      that cooperatively sampled 416 sites between Point
+      Conception and Punta Banda, Mexico.  In both
+      surveys, assessments were made of water quality,
+      sediment contamination, the status of biological
+      resources and species diversity, and the presence
+      of marine debris in depths of 10 to 200m, with
+      some special emphasis in areas of anthropogenic
+      inputs such as large publicly owned treatment
+      works (POTWs) or large river and creek mouths.
+      However, Bight’98 extended what was done in 1994
+      by adding additional habitats such as offshore
+      islands and inshore areas like bays/harbors, as
+      well as additional areas of anthropogenic inputs
+      such as marinas, ports, and small POTWs.
+      Moreover, a regional evaluation of shoreline water
+      quality was added in 1998 that provided our first
+      evaluation of the swimmability of southern
+      California beaches during dry and wet weather.
+      Benefits derived from both the SCBPP and Bight’98
+      also included the development of new useful
+      technical tools that could only be developed with
+      regional data sets and participation by multiple
+      organizations.   For example, the project produced
+      iron-normalization curves for the SCB, allowing
+      distinction between natural and anthropogenic
+      contributions of metals in sediments (Schiff and
+      Weisberg 1998).  A Benthic Response Index was
+      developed that integrates complex benthic infaunal
+      data into an easily interpreted form that
+      describes the degree of perturbation at a site
+      (Bergen et al. 1998).  Newer, cheaper
+      microbiological methods were tested and evaluated
+      alongside traditional microbial measurement
+      methods and now have been accepted by both the
+      state health agencies for routine shoreline
+      monitoring (ref).  Bight’98 also improved the
+      comparability among the major laboratories in the
+      SCB as a result of the quality assurance and
+      quality control (QA/QC) laboratory
+      intercalibration exercises for chemistry and
+      microbiology.  The project also produced a series
+      of manuals containing standardized field,
+      laboratory and data management activities that
+      increased continuity of data and data reporting
+      among participants, even after the regional
+      monitoring surveys were completed.  2003 Survey
+      The proposed Southern California Bight 2003
+      Regional Monitoring Project (Bight’03) is a
+      continuation of the successful cooperative
+      regional-scale monitoring begun in southern
+      California during the 1990’s.  Bight’03 builds
+      upon the previous successes and expands on the
+      1998 survey by including new participants,
+      sampling more habitats, and measuring more
+      parameters or using new methods.  [Number]
+      organizations, including international and
+      volunteer organizations, have agreed to
+      participate (Table I-1).  The inclusion of
+      multiple participants, many of them new to
+      regional monitoring, provides several benefits.
+      Cooperative interactions among many organizations
+      with different perspectives and interests,
+      including a combination of regulators and
+      dischargers, ensures that an appropriate set of
+      regional-scale questions will be addressed by the
+      study.  The additional resources brought by
+      numerous participants also expands the number of
+      habitats and indicators that will be sampled.
+      Sampling for Bight’03 will include all of the
+      areas sampled in 1998, plus a new focus on
+      nearshore habitats (coastal lagoons) and offshore
+      habitats (inner continental slopes and basins).
+      Several new technologies will be brought to bear
+      in Bight’03 including remote sensing from
+      satellite, aerial, and land-based platforms, new
+      microbial genetic and phenotypic source tracking
+      techniques, and radiodating of sediments to
+      determine age and accumulation of chemicals in
+      sediments.
+    Purpose:
+      The goal of this study was to answer two
+      questions: 1) What percent of area in the SCB
+      contains sediments toxic to marine organisms?; and
+      2) How does sediment toxicity compare among
+      specific areas of interest?  The batch information
+      file provides data on the conduct of individual
+      test batches, such as laboratory, date and quality
+      assurance information.
+    Supplemental_Information:
+      The full text of the Field Methods Document may be
+      obtained from
+      http://www.sccwrp.org/regional/03bight/03docs.html
+      Sediment toxicity:  Toxicity tests provide a
+      direct measure of the effect of contamination on
+      benthic organisms.  These tests complement
+      sediment chemistry measurements by providing a
+      measure of the combined toxic effect of the
+      complex mixture of contaminants present in
+      sediment or in the water in the pores between
+      sediment grains (interstitial water).  Sediment
+      samples will be collected from the top 2 cm of a
+      Van Veen grab sample.  The toxicity of bulk
+      sediments will be assessed using an amphipod
+      survival test conducted according to USEPA
+      methods.  Amphipods will be exposed to a 2 cm
+      layer of test sediment for 10 days and then
+      examined to determine the percent survival.  The
+      amphipod Eohaustorius estuarius was selected for
+      this study because of its wide tolerance to
+      variations in habitat characteristics and to
+      provide comparability with recent toxicity
+      information from other monitoring programs in
+      California.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20030725
+        Ending_Date: 20030819
+    Currentness_Reference: ground condition
+  Status:
+    Progress: COMPLETE
+    Maintenance_and_Update_Frequency: As Needed
+  Spatial_Domain:
+    Description_of_Geographic_Extent: Southern California Bight
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -120.45623
+      East_Bounding_Coordinate: -117.11608
+      North_Bounding_Coordinate: 34.46532
+      South_Bounding_Coordinate: 32.55048
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: None
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Southern California Bight
+  Access_Constraints: None
+  Use_Constraints: None
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Cooper or Information Manager
+        Contact_Organization:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: physical address
+        Address: 7171 Fenwick Lane
+        City: Westminster
+        State_or_Province: California
+        Postal_Code: 92683
+        Country: USA
+      Contact_Voice_Telephone: 714.894.2222
+      Contact_Facsimile_Telephone: 714.894.9699
+      Contact_Electronic_Mail_Address: larryc@sccwrp.org
+      Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+      Contact_Instructions: email preferred
+  Data_Set_Credit: Bight03 Participants
+  Native_Data_Set_Environment: Microsoft Access Version 2000
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Coordinates accurate to within 100 ft
+  Logical_Consistency_Report:
+    The tables may be related by the StationID field
+    or the SampleID field where applicable.
+  Completeness_Report:
+    The Following Stations were abandoned: StationID
+    FailureReason Comments 4013 Comment Required No
+    Access 4014 Poor Closure Rocks & hard clay
+    prevented jaw from closing correctly. 4016 Comment
+    Required Permission not granted by Camp Pendleton
+    to sample in harbor 4044 Comment Required Inside
+    sub base can't access 4046 Comment Required
+    Salinity < 19 PSU.  Equipment type used - YSI 4054
+    Rocky Bottom Penetration could not be obtained.
+    4078 Comment Required Salinity < 19 PSU.
+    Equipment type used - YSI 4081 Comment Required On
+    Land 4082 Rocky Bottom Cobble & rocks interfered
+    with the proper closure to the jaw. 4112 Comment
+    Required Target coordinates on land, closest water
+    is 0.1 mile away 4114 Comment Required Too shallow
+    to reach by boat, within shallow water habitat
+    4136 Comment Required Salinity <19 ppt 4139
+    Obstructions Site located on the inside of the
+    south Ventura Harbor jetty.Both grabs and trawls
+    unsafe due to boat traffic and public recreation.
+    4174 Comment Required Salinity < 19 PSU.
+    Equipment type used - YSI 4175 Kelp Bed Kelp Bed,
+    heavy oil slick 4176 Comment Required Salinity <19
+    ppt 4180 Comment Required To shallow (2.5 m) depth
+    at abandonment.  Could not get closer than 0.337
+    nm (624 m)  to site 4225 No Failure Coordinates on
+    land, offset 8 m. Station abandoned due to
+    salinity less than 19 psu 4226 Obstructions Cannot
+    sample station. Navagation hazard. Cable and
+    pipeline crossing area. 4245 Comment Required No
+    Access 4247 Rocky Bottom Reef in all locations.
+    Past experience with lost trawl nets on same
+    tracks. Total of 6 grabs attempted with no luck.
+    4289 Comment Required No Access 4292 Kelp Bed Kelp
+    bed w/in 1/2 mile radius of site. 4293 Rocky
+    Bottom Entire channel is rocky bottom, unable to
+    sample 4302 Comment Required Salinity < 19 PSU.
+    Equipment type used - YSI 4310 Poor Closure Hard
+    clay prevented the jaw from penetrating and/or
+    closing. 4334 Rocky Bottom Poor or no penetration
+    occurred at all sites. 4353 Comment Required
+    Harbor seal sanctuary; access limited to canoes
+    4372 Comment Required Too shallow. Closest to site
+    2.365 nm (491 m). Depth at abandonment 3.0 m (edge
+    of channel) 4373 Comment Required No Access 4375
+    Poor Closure 7 grabs attempted. None good. Reef,
+    cobble and rock in all locations. Trawl tracks no
+    good either, nets lost in area on previous
+    occasions. 4382 Comment Required Site outside
+    depth limit of stratum.  Unable to reoccupy within
+    100 m of target coordinates and within 10% of the
+    500 m stratum depth limit 4387 No Failure Site
+    located on land. Closest possible sampling site
+    over 100m from nominal location. 4388 Rocky Bottom
+    Rocky bottom 4389 Comment Required steep angle
+    rocky bottom 96 m nominal  Abandoned: met grab
+    attempt requirement 4422 Comment Required Salinity
+    <19 ppt 4442 Comment Required Station depth at a
+    +1.3 m tide is 2.1 m. A 3.0 m depth within 100 m
+    of station could not be found. Also station is
+    located app. 50m into a no power boat zone. 4468
+    Comment Required Salinity < 19 PSU.  Equipment
+    type used - YSI 4508 Rocky Bottom Station on land.
+    Rocks and terrestrial debris prevented the jaw
+    from closing. 4528 Rocky Bottom No penetration
+    occurred at all sites.  Station on land. 4532 >
+    200m Station >140 meters out of water 4564 Comment
+    Required Salinity < 19 PSU.  Equipment type used -
+    YSI 4728 Rocky Bottom 9 attempts across channel in
+    vicinity, none successful due to poor closure.
+    4948 Rocky Bottom Rocky bottom caused constant
+    poor closure/zero recovery 4999 Comment Required
+    Salinity <19 ppt 5336 Comment Required Salinity
+    <19 ppt 5723 No Failure Salinity below 20psu 5731
+    No Failure Salinity below 20psu 5763 No Failure
+    Upstream of 5731, salinity below 20psu
+  Lineage:
+    Methodology:
+      Methodology_Type: Lab
+      Methodology_Identifier:
+        Methodology_Keyword_Thesaurus: None
+      Methodology_Description: http://www.sccwrp.org/regional/03bight/03docs.html
+      Methodology_Type: Lab
+      Methodology_Description:
+        VII.   SEDIMENT TOXICITY TESTING A.   Overview
+        This section describes QA/QC procedures that will
+        be used for the assessment of sediment toxicity
+        during the Bight’03 Survey.  Only one toxicity
+        test will be used for assessment of the sediment.
+        The toxicity of whole sediment will be measured
+        using an amphipod (Eohaustorius estuarius)
+        survival test.   B.   Laboratory Capability
+        Prior to participating in the Bight 03 survey,
+        the test laboratory must document their ability to
+        conduct the tests with the selected test species.
+        This should consist of a record of at least three
+        prior tests in which test acceptability was
+        attained.  In addition, the laboratory should have
+        conducted at least three prior reference toxicant
+        tests so that a control chart can be constructed.
+        A written description of the test method used must
+        also be provided to the Steering Committee prior
+        to the analysis of samples.   C.   Interlaboratory
+        Comparability  	All laboratories conducting the
+        amphipod survival tests must participate in an
+        interlaboratory comparison exercise prior to
+        sample testing.  This exercise will include the
+        analysis of field collected sediments and a
+        reference toxicant test.  Successful completion of
+        this exercise by a laboratory will be evaluated
+        using two criteria: 1) attainment of test
+        acceptability criteria, and 2) agreement of
+        results between laboratories.  The criteria for
+        establishing agreement of results will be
+        determined by the Toxicology Committee.
+        Laboratories unable to successfully complete the
+        interlaboratory comparison exercise will be asked
+        to examine their test procedures, make suggested
+        changes, and retest the comparison samples.
+        Failure to meet the interlaboratory comparison
+        criteria will result in the addition of a
+        cautionary data qualifier flag to that
+        laboratory’s data.  	In additon to the
+        intercalibration before sample testing, additonal
+        split samples will be tested by the laboratories
+        during the project.  These samples will be used to
+        verify that the results remain comparable during
+        the course of testing.  The results of these
+        additional samples will be for informational
+        purposes only.  D.   Sample Collection  	Methods
+        for collection of sediment are described in the
+        Field Operations Manual.  Surface sediment (top 2
+        cm) will be collected from Van Veen grabs and
+        stored in precleaned polyethylene jars.  Samples
+        may be stored in the dark at 4 ?C  for up to two
+        weeks before testing.  Sediment samples should be
+        press sieved through a 2 mm screen and homogenized
+        in the laboratory before testing.  	All samples
+        shall be accompanied by chain of custody and
+        sample tracking forms.  These forms should include
+        dates of receipt, homogenization, and testing of
+        each sample, as well as storage conditions.  E.
+        Amphipod Survival Test  	An amphipod survival test
+        will be conducted according to (EPA 1994)
+        guidelines.  This test consists of a 10-day
+        exposure of Eohaustorius estuarius to sediment
+        under static conditions.  Amphipods are placed in
+        glass chambers containing seawater and a 2 cm
+        layer of test sediment.  The number of surviving
+        amphipods is measured at the end of the test and
+        used to calculate the percentage survival.
+        Quality of test organisms  	All test organisms
+        will be obtained from a common source during the
+        survey.  Species identification should be verified
+        through consultation with a taxonomist, if
+        necessary.  Individuals selected for testing
+        should be visually inspected to confirm that they
+        are the proper size and in good condition (i.e.,
+        no external damage).  Holding time prior to
+        testing should be 10 days or less.  Accuracy and
+        precision  	The accuracy of sediment toxicity
+        tests of field samples cannot be determined since
+        a reference material of known toxicity is not
+        available.  A reference toxicant test will be run
+        with every batch of test samples in order to
+        document amphipod relative sensitivity and test
+        precision. This test will consist of a 96-hour
+        exposure to five different concentrations of
+        cadmium dissolved in seawater.  Cadmium
+        concentrations will be selected to provide an
+        estimate of the LC50 and will be verified by
+        chemical analysis of one of the exposure
+        treatments (e.g., the median test concentration).
+        Reference toxicant test results that fall outside
+        of control chart limits (2 sd of mean) will
+        trigger a review of test procedures and a possible
+        retest of the corresponding sediment samples.
+        Test conditions  	Water quality of the overlying
+        water and pore water will be measured for each
+        sample type at the beginning and end of the
+        exposure.  Temperature will be measured
+        continuously in the exposure room.  Instruments
+        will be calibrated daily.  Deviations in water
+        quality will be noted on the data files.
+        Interference by ammonia  	The presence of high
+        concentrations of ammonia in pore water may be a
+        confounding factor for sediment toxicity tests
+        with Eohaustorius.  Laboratories will be required
+        to measure the concentration of un-ionized ammonia
+        in the pore water from each station, prior to the
+        start of toxicity testing.  If the pore water
+        concentration exceeds the limit of 0.8 mg/L
+        un-ionized ammonia for any station within a batch,
+        the laboratory will be required to perform a
+        similtaneous ammonia reference toxicant test along
+        with that batch.  The results of the ammonia
+        reference toxicant testing will be compared to the
+        concentrations of ammonia in the test samples to
+        determine if the levels are high enough to account
+        for any observed toxicity in the sediment samples.
+        Test acceptability 	 	This toxicity test
+        procedure is considered unacceptable if amphipod
+        survival in "home sediment" is less than 90%, or
+        if survival in any control replicate is less than
+        80%.  Reference toxicant results must also be
+        within two standard deviations of the mean
+        response specific to the laboratory.  Water
+        quality parameters (salinity, temperature, pH, and
+        ammonia) should also be within the tolerance range
+        of the test organism, as specified in EPA (1994)
+        guidance.    	A sediment holding time of no more
+        than two weeks has been established in order to
+        minimize the potential alteration of the  sediment
+        toxicity due to storage; this time period is not a
+        criterion for judging test acceptability.  Tests
+        on samples that are stored from greater than two
+        weeks up to four weeks will also be considered
+        valid, but a data qualifier will be attached to
+        the record to indicate that the desired storage
+        time was been exceeded.   Samples stored for more
+        than four weeks before the start of toxicity
+        testing will be considered unacceptable for
+        testing and the data will not be included in the
+        project database.
+    Process_Step:
+      Process_Description: All data was processed through QA Procedures
+      Process_Date: 20031001
+Spatial_Data_Organization_Information:
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: .00001
+      Longitude_Resolution: .00001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodedic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio:
+        298.257
+        4.2.2.1 Depth Datum Name:
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Comments
+      Attribute_Definition: Additoinal remarks.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Additoinal remarks.
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: StationID
+      Attribute_Definition:
+        A geographic location label from the station
+        table.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: tblStations
+          Enumerated_Domain_Value_Definition: The official station list
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: ValueUnits
+      Attribute_Definition: Any necessary qualifier from luList28_Units
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList28_Units
+          Enumerated_Domain_Value_Definition: A list of units ued in the project
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Percent
+      Attribute_Definition: Percent
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: TimePoint
+      Attribute_Definition: The number of days from the start of the test.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -7
+          Range_Domain_Maximum: 10
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Qualifier
+      Attribute_Definition:
+        Any necessary qualifier from
+        luList11_QualifierCodes.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList11_QualifierCodes
+          Enumerated_Domain_Value_Definition: Qualifier Codes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: <
+      Attribute_Definition: less than
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: <=
+      Attribute_Definition: less than or equal to
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: >
+      Attribute_Definition: greater than
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: >=
+      Attribute_Definition: greater than or equal to
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: AE
+      Attribute_Definition: Analyst Error
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NA
+      Attribute_Definition: Not Analyzed
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: None
+      Attribute_Definition: No Failure
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NS
+      Attribute_Definition: Not Sampled
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Qualifier
+          Enumerated_Domain_Value_Definition:
+            luList11_Qualif
+            ierCodes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: QABatch
+      Attribute_Definition: The batch code for the sample processing batch.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The batch code for the sample processing batch.
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Matrix
+      Attribute_Definition: The test matrix from luList36_ToxicityMatrices.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList36_SedimentToxMatrix
+          Enumerated_Domain_Value_Definition: Matrix
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: BS
+      Attribute_Definition: bulk sediment
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: DW
+      Attribute_Definition: Dilution Water
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: EL
+      Attribute_Definition: elutriate
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: EX
+      Attribute_Definition: extract
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: IW
+      Attribute_Definition: interstitial water
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: OL
+      Attribute_Definition: overlaying water
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: RT
+      Attribute_Definition: reference toxicant
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MatrixCode
+          Enumerated_Domain_Value_Definition:
+            luList36_Sedime
+            ntToxMatrix
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: LabRep
+      Attribute_Definition:
+        The number of the replicate in which the
+        measurement was taken.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -9
+          Range_Domain_Maximum: 5
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: LabCode
+      Attribute_Definition: From luList01_AgencyCodes.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList01_AgencyCodes
+          Enumerated_Domain_Value_Definition: A list of participating agencies
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: ABC
+      Attribute_Definition: Aquatic Bioassay and Consulting Laboratories
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Agency Codes
+          Enumerated_Domain_Value_Definition:
+            list 1 Agency
+            Codes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: MEC
+      Attribute_Definition:
+        Marine Environmental Consulting Analytical Systems
+        Inc.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Agency Codes
+          Enumerated_Domain_Value_Definition:
+            list 1 Agency
+            Codes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: OCSD
+      Attribute_Definition: Orange County Sanitation Districts
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Agency Codes
+          Enumerated_Domain_Value_Definition:
+            list 1 Agency
+            Codes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Dilution
+      Attribute_Definition: The dilution factor expressed as a proportion.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -99
+          Range_Domain_Maximum: -99
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Concentration
+      Attribute_Definition: Concentration expressed in mg/L.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -99
+          Range_Domain_Maximum: 250
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Value
+      Attribute_Definition: The numerical result for the parameter.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -99
+          Range_Domain_Maximum: 393
+    Entity_Type:
+      Entity_Type_Label: tblToxicityWQ
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Parameter
+      Attribute_Definition:
+        The water quality parameter being measured from
+        luList15_ParameterCodes.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList38_SedimentToxWaterQualityParameters
+          Enumerated_Domain_Value_Definition: Water Quality Parameters
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: PH
+      Attribute_Definition: pH
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: SAL
+      Attribute_Definition: Salinity
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: ST
+      Attribute_Definition: Total Sulfide
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: TEMP
+      Attribute_Definition: Temperature
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: H2S
+      Attribute_Definition: Hydrogen Sulfide
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NH3T
+      Attribute_Definition: Total Ammonia
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NH3T-N
+      Attribute_Definition: Total Ammonia as Nitrogen
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NH3U
+      Attribute_Definition: Unionized Ammonia
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NH3U-N
+      Attribute_Definition: Unionized Ammonia as Nitrogen
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: %OUS
+      Attribute_Definition: Percent Oxygen
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: %SAT
+      Attribute_Definition: Percent Saturation
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: COND
+      Attribute_Definition: Conductivity
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: DO
+      Attribute_Definition: Dissolved Oxygen
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: STWQCode
+          Enumerated_Domain_Value_Definition:
+            luList38_Sedime
+            ntToxWaterQualityParameter
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityWQ
+          Codeset_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: ConcentrationUnits
+      Attribute_Definition: Unit of measure
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList28_Units
+          Enumerated_Domain_Value_Definition: Units of Measure
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: MG/L
+      Attribute_Definition: Millam grams per Liter
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NA
+      Attribute_Definition: Not Applicable
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: NR
+      Attribute_Definition: Not Recorded
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Cooper or Information Manager
+        Contact_Organization:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 7171 Fenwick
+        City: Westminster
+        State_or_Province: California
+        Postal_Code: 92683
+        Country: USA
+      Contact_Voice_Telephone: 714.894.2222
+      Contact_Facsimile_Telephone: 714.894.9699
+      Contact_Electronic_Mail_Address: larryc@sccwrp.org
+      Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+      Contact_Instructions: email preferred
+  Distribution_Liability:
+    Although these data have been processed
+    successfully on a computer system at SCCWRP, no
+    warranty expressed or implied is made regarding
+    the accuracy or utility of the data on any other
+    system or for general or scientific purposes, nor
+    shall the act of distribution constitute any such
+    warranty. This disclaimer applies both to
+    individual use of the data and aggregate use with
+    other data.  It is strongly recommended that these
+    data are directly acquired from a MLML server, and
+    not indirectly through other sources which may
+    have changed the data in some way.  It is also
+    strongly recommended that careful attention be
+    paid to the contents of the metadata file
+    associated with these data.  MLML shall not be
+    held liable for improper or incorrect use of the
+    data described and/or contained herein.
+Metadata_Reference_Information:
+  Metadata_Date: 20050214
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Cooper or Information Manager
+        Contact_Organization:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: physical address
+        Address: 7171 Fenwick Lane
+        City: Westminster
+        State_or_Province: California
+        Postal_Code: 92683
+        Country: USA
+      Contact_Voice_Telephone: 714.894.2222
+      Contact_Facsimile_Telephone: 714.894.9699
+      Contact_Electronic_Mail_Address: larryc@sccwrp.org
+      Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+      Contact_Instructions: email preferred
+  Metadata_Standard_Name:
+    NBII Content Standard for National Biological
+    Information Infrastructure Metadata
+  Metadata_Standard_Version: December 1985
+  Metadata_Time_Convention: Local Time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None

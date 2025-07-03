@@ -1,0 +1,127 @@
+bight2023=> \d+ analysis_toxicitysummaryresults
+                                    Table "sde.analysis_toxicitysummaryresults"
+         Column         |       Type       | Collation | Nullable | Default | Storage  | Stats target | Description
+------------------------+------------------+-----------+----------+---------+----------+--------------+-------------
+ objectid               | integer          |           |          |         | plain    |              |
+ stationid              | text             |           |          |         | extended |              |
+ lab                    | text             |           |          |         | extended |              |
+ sampletypecode         | text             |           |          |         | extended |              |
+ toxbatch               | text             |           |          |         | extended |              |
+ fieldreplicate         | integer          |           |          |         | plain    |              |
+ species                | text             |           |          |         | extended |              |
+ endpoint               | text             |           |          |         | extended |              |
+ units                  | text             |           |          |         | extended |              |
+ mean                   | double precision |           |          |         | plain    |              |
+ control_mean           | double precision |           |          |         | plain    |              |
+ adjusted_control_mean  | double precision |           |          |         | plain    |              |
+ stddev                 | double precision |           |          |         | plain    |              |
+ coefficientvariance    | double precision |           |          |         | plain    |              |
+ pvalue                 | double precision |           |          |         | plain    |              |
+ n                      | integer          |           |          |         | plain    |              |
+ sigeffect              | text             |           |          |         | extended |              |
+ qacode                 | text             |           |          |         | extended |              |
+ sqocategory            | text             |           |          |         | extended |              |
+ matrix                 | text             |           |          |         | extended |              |
+ treatment              | text             |           |          |         | extended |              |
+ dilution               | text             |           |          |         | extended |              |
+ comments               | text             |           |          |         | extended |              |
+ latitude               | double precision |           |          |         | plain    |              |
+ longitude              | double precision |           |          |         | plain    |              |
+ stationwaterdepth      | double precision |           |          |         | plain    |              |
+ stationwaterdepthunits | text             |           |          |         | extended |              |
+ stratum                | text             |           |          |         | extended |              |
+ areaweight             | double precision |           |          |         | plain    |              |
+Access method: heap
+
+========== JUST COLUMN NAMES ============
+objectid
+stationid
+lab
+sampletypecode
+toxbatch
+fieldreplicate
+species
+endpoint
+units
+mean
+control_mean
+adjusted_control_mean
+stddev
+coefficientvariance
+pvalue
+n
+sigeffect
+qacode
+sqocategory
+matrix
+treatment
+dilution
+comments
+latitude
+longitude
+stationwaterdepth
+stationwaterdepthunits
+stratum
+areaweight
+
+========= REORDERING =========
+c("objectid", "stationid", "lab", "sampletypecode", "toxbatch", "fieldreplicate", "species", "endpoint", "units", "mean", "control_mean", "adjusted_control_mean", "stddev", "coefficientvariance", "pvalue", "n", "sigeffect", "qacode", "sqocategory", "matrix", "treatment", "dilution", "comments", "latitude", "longitude", "stationwaterdepth", "stationwaterdepthunits", "stratum", "areaweight")
+
+========= RENAMING ==========
+objectid
+stationid
+lab
+sampletypecode
+toxbatch
+fieldreplicate
+species
+endpoint
+units
+mean
+control_mean
+adjusted_control_mean = "Control Adjusted Mean"
+stddev = "Standard Deviation"
+coefficientvariance = "Coefficient of Variance"
+pvalue = "P Value"
+n
+sigeffect = "sigdiff"
+qacode
+sqocategory = "Category"
+matrix
+treatment
+dilution
+comments
+latitude
+longitude
+stationwaterdepth
+stationwaterdepthunits
+stratum
+areaweight
+
+
+========== TOX.SUMMARY PRODUCES ==========
+lab
+stationid
+toxbatch
+species
+endpoint
+fieldrep
+sampletypecode
+matrix
+P Value
+Mean
+control_mean
+Control Adjusted Mean
+Standard Deviation
+Coefficient of Variance
+n
+units
+qacode
+treatment
+comments
+dilution
+sigdiff
+Endpoint Method
+sqo_category_value_initial
+Score
+Category

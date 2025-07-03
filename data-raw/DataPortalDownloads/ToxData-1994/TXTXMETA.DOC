@@ -1,0 +1,96 @@
+Sediment Toxicity Bioassay Metadata
+September 10, 1996
+
+Program:  Southern California Bight Pilot Project (SCBPP)
+
+Source:  Southern California Coastal Water Research Project (SCCWRP)
+
+Contact:  Steven Bay
+
+Phone:  (714) 894-2222,  894-9699 (FAX)
+
+Number of Stations Sampled:  72
+
+Sampling Period:  13 July 1994 -- 22 August 1994
+
+Number Of Variables Measured:  2:  Interstitial water toxicity measured as number of normal embryos and 
+un-ionized ammonia concentrations from those samples.  Measurements are expressed as averages for the 
+station.  Note that all data in this file are for the 25% interstitial water concentration.  Water quality data 
+from the exposures appears in the file TOX_WQ.TXT.  Since the interstitial water tests were affected by 
+interference from ammonia, data from interstitial water tests should not be used without consideration of 
+this factor.  Data presented in this file are the results of a method for factoring out the effect of ammonia 
+toxicity.
+
+Sampling Equipment Used:  Sediment for toxicity sampling was collected with a modified, chain-rigged 
+0.1m2 Van Veen grab.
+
+Analytical Techniques:  Interstitial water toxicity testing was performed at SCCWRP using embryos of the 
+purple sea urchin, Strongylocentrotus purpuratus, following methods of the EPA’s West Coast Manual.  
+Total ammonia measurements were performed using an Orion 95-12 selective ion probe.  Un-ionized 
+ammonia was calculated using the methods of Hampson (1977).
+
+Data Set Verification:  Data set verified by toxicologists from SCCWRP.
+
+General Comments:
+               This data set includes mean percent normal development of embryos, mean concentration of un-
+ionized ammonia, and predicted mean percent normal development and the degree of toxicity for the 
+station after the effect of ammonia is factored out.  All data is for the 25% interstitial water concentration.  
+Each record has the following fields (variables):  Log Number, MeanNH3, ID, MEANNORM and 1%CI.  
+The log number is a 10 digit code in the following form:
+                                            Digit
+                                              1                   -                           P for Pilot Project
+                                             2 & 3                -                           Agency collecting the sediment
+                                             4 & 5                -                           Type of data (ST = Sediment toxicity)
+                                             6 to 9               -                           Station number
+                                               10                 -                           Replicate number.
+
+For agency collecting sediment, EC = Control sediment collected by SCCWRP’s amphipod supplier; SA = 
+Control sediment collected by SAIC in Rhode Island;  SC= Centrifugation blank created in the SCCWRP 
+laboratory;  HY= Hyperion Treatment Plant;  LA= County Sanitation Districts of Los Angeles County;  
+ME= MEC Analytical Systems, Inc. and SD= City of San Diego.  The replicate digit will be 0 in all cases 
+except when a sample has been split between SCCWRP and SAIC for toxicity testing.  In those cases, the 
+replicate value is 0 for the sample tested by SCCWRP and 1 for the sample tested by SAIC.
+
+MeanNH3 is the mean un-ionized ammonia concentration during the interstitial water bioassay.
+
+ID is the designation of the station as indeterminate, toxic or non-toxic (see further explanation in the 
+“Field and Laboratory Techniques” section below .
+
+MEANNORM is the mean percent normal development of embryos for the 25% concentration of 
+interstitial water (see further explanation in the “Field and Laboratory Techniques” section below).
+
+1%CI is the predicted mean percent normal development based on the logistic equation of un-ionized 
+ammonia with percent normal development (see further explanation in the “Field and Laboratory 
+Techniques” section below).
+
+Station locations can be found in the Benthic Master Sample File, except for the following three control 
+sites.  All log numbers having the EC agency code, except station 3002, were a negative control station 
+where the amphipods were collected in Rhode Island (lat:41.443889, long:71.456944).  Station 3002 was a 
+postitive control site for the amphipod test.  This station was located in Wickford Harbor, Rhode Island 
+(lat:41.582222,long:71.425).  All stations with the SA agency code were for the negative control station 
+used by SAIC for there amphipod tests.  This station is located in Long Island Sound (lat:41.1325, 
+long:72.87833).  Descriptive data on sediment color and texture and depth of penetration of the grab for 
+SCBPP stations are available from SCCWRP on request.
+
+Field and Laboratory Techniques:  Sediment for toxicity analysis was collected with a modified 0.1m2 Van 
+Veen grab.  A minimum of three liters of surface (top 2 cm) sediment was collected from each station.  
+Sediment was stored in one liter polyethylene jars at 3-5  C for up to four weeks..  Interstitial water was 
+obtained by centrifuging approximately 400 ml of homogenized, unscreened sediment at 3,000 x g for 30 
+min.  Samples with pH less than 7.5 were adjusted to 7.6-8.0.  Three concentrations of interstitial water 
+(100, 50 and 25%) were prepared if sufficient sample volume was available.  Three replicates of each 
+concentration were tested.  Purple sea urchin embryos were added to the interstitial water and allowed to 
+develop for 72 h at 15  C.  Embryo samples were then preserved and examined microscopically for normal 
+development.
+
+Quality Assurance And Quality Control Evaluation:  Most of the tests met the QA criteria set forth in the 
+SCBPP Quality Assurance Plan.  Some concentrations of interstitial water were not done because of 
+insufficient sample volume.  Many of the interstitial water samples have reduced numbers of replicates.  
+Reduced replication resulted when the lower concentrations exhibited complete toxicity (0% normal).  
+When lower concentrations exhibited complete toxicity, only one replicate of the higher concentration was 
+examined microscopically to confirm toxicity.
+	Reference toxicant tests indicated that the animals were within expected sensitivity ranges for all 
+experiments.
+
+Data Use and Comparability:  The data are appropriate for the comparison between stations at the time of 
+sampling.  The data are appropriate for the use with other data collected during the SCBPP.
+

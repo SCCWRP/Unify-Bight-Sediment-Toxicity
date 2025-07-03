@@ -1,0 +1,6 @@
+SCBPP: Southern California Bight Pilot Project
+POTW: Publicly Owned Treatment Works
+IMS: Information Management System
+IMO: Information Management Officer
+EMAP: Environmental Monitoring and Assessment Program
+ODES: Ocean Data Evaluation System

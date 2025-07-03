@@ -1,0 +1,93 @@
+Sediment Toxicity Bioassay Test Metadata
+August 29, 1996
+
+Program:  Southern California Bight Pilot Project (SCBPP)
+
+Source:  Southern California Coastal Water Research Project (SCCWRP)
+
+Contact:  Steven Bay
+
+Phone:  (714) 894-2222,  894-9699 (FAX)
+
+Number of Stations Sampled:  72
+
+Sampling Period:  13 July 1994 -- 22 August 1994
+
+Number Of Variables Measured:  0.  This file contains information describing each of the bioassays 
+conducted during the SCBPP.  Toxicity data are in the file TOX_DATA.TXT and the associated water 
+quality data are in the file TOX_WQ.TXT.
+
+Sampling Equipment Used:  Sediment for toxicity sampling was collected with a modified, chain-rigged 
+0.1m2 Van Veen grab.
+
+Analytical Techniques:  Interstitial water toxicity testing was performed at SCCWRP using embryos of the 
+purple sea urchin, Strongylocentrotus purpuratus, following methods of the EPA’s West Coast Manual.  
+Whole sediment testing was performed at SCCWRP and SAIC in Rhode Island.  Whole sediment tests used 
+the amphipod Ampelisca abdita by the methods in ASTM, Annual Book of ASTM Standards, Method # E 
+1367.
+
+Data Set Verification:  Data set verified by toxicologists from SCCWRP.
+
+General Comments:  This data set contains information pertaining to the set-up of each of the bioassays performed during the 
+SCBPP.  Each record has the following fields (variables): QA Batch, Lab Code, Species, Protocol, Test 
+date, Phase/TestMaterial, Test duration, Temperature and TestAccept.
+
+QA Batch is the internal experiment designation by either SCCWRP or SAIC.
+
+Lab Code is the 5 letter code for the laboratory that performed the bioassay either CASCC for SCCWRP or 
+RISAI for SAIC in Rhode Island.
+
+Species is for test species, either SP for Strongylocentrotus purpuratus or AB for Ampelisca.
+
+Protocol is the guidance document that was used to perform the bioassay.
+
+Test date is the date that the bioassay was initiated.
+
+Phase/TestMaterial is the type of sample that was tested.  This will either be SP for solid phase (whole 
+sediment) or WP for water phase (interstitial water).
+
+Test duration is the length of time (in days) that the exposure was carried out.
+
+Temperature is the average temperature (in degrees C) during the exposure period.
+
+Test Accept is a letter designation for deviations from the QA parameters set forth for the project.  More 
+than one letter may be present for any given record:
+	A       All QA criteria met
+	C       Reduced number of replicates
+	E       One or more samples stored greater than 30 days
+	G       Reference test missing or outside limits
+	H       Water quality data incomplete
+	J       Minor deviation in test conditions
+
+Station locations can be found in the Benthic Master Sample File.  Descriptive data on sediment color and 
+texture and depth of penetration of the grab are available from SCCWRP on request.
+
+Field and Laboratory Techniques:  Sediment for toxicity analysis was collected with a modified 0.1m2 Van 
+Veen grab.  A minimum of three liter of surface (top 2 cm) sediment was collected from each station.  
+Sediment was stored in one liter polyethylene jars at 3-5  C for up to four weeks.  For the amphipod tests, 
+sediment was homogenized by hand then passed through 1 mm screen for samples tested at SCCWRP or 2 
+mm screen for samples tested at SAIC.  A 2 cm layer of sediment was added to quart-sized canning jars 
+with 600 ml of 30 g/kg seawater on top.  Five replicates from each station were tested.  Twenty amphipods 
+were added the next day and test was carried out for 10 days at 20  C, with survival as the endpoint.  
+Interstitial water was obtained by centrifuging approximately 400 ml of homogenized, unscreened 
+sediment at 3,000 x g for 30 min.  Sample with pH less than 7.5 were adjusted to 7.6-8.0.  Three 
+concentrations of interstitial water (100, 50 and 25%) were prepared if sufficient sample volume was 
+available.  Three replicates of each concentration were tested.  Purple sea urchin embryos were added to 
+the interstitial water and allowed to develop for 72 h at 15  C.  Embryo samples were then preserved and 
+examined microscopically for normal development.
+
+Quality Assurance And Quality Control Evaluation:  Most of the tests met the QA criteria set forth in the 
+SCBPP Quality Assurance Plan.  One amphipod survival test failed to meet the criteria and retesting of 
+these samples resulted in several samples being stored greater than 30 days and having less than 5 
+replicates.  An amphipod test was not performed for station 245 due to not enough sample volume.  Some 
+concentrations of interstitial water were not done because of insufficient sample volume.  Many of the 
+interstitial water samples have reduced numbers of replicates.  This reduced replication was due to a 
+decision not microscopically evaluate all replicates of any concentration if a higher concentration of the 
+same sample was found to be 0% normal.
+	Reference toxicant test for both the urchin and amphipod tests indicated that the animals were 
+within expected sensitivity ranges for all experiments.  An interlaboratory comparison of 16 whole 
+sediment samples between SCCWRP and SAIC showed good agreement.
+
+Data Use and Comparability:  The data in this file are strictly for use in evaluating the bioassay test 
+conditions for exposures conducted during the SCBPP.  Data can be used for evaluating conditions both 
+between tests and between laboratories.

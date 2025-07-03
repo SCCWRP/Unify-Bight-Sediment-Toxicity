@@ -1,0 +1,1133 @@
+"StationID","SampleDate","ArrivalTime","ArrivalTimeUnits","SamplingOrganization","SampleType","Vessel","NavType","Salinity","WeatherCode","WindSpeed","WindSpeedUnits","WindDirection","SwellHeight","SwellHeightUnits","SwellPeriod","SwellDirection","SeaState","StationFailCode","Abandoned","Comments"
+"3001",10/8/2003 0:00:00,"1034","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",4,"KTS","NW",1,"FT",14,"W","Calm","None",0,
+"3001",10/8/2003 0:00:00,"1034","PDT","VRG","WQ","Vantuna","GPS",-99.00,"Partly Cloudy",4,"KTS","NW",1,"FT",14,"W","Calm","None",0,
+"3001",10/16/2003 0:00:00,"0945","PDT","MEC","Grab","Enchanter IV","DGPS",,"Partly Cloudy",2,"KTS","NW",1,"FT",18,"W","Calm","None",0,
+"4000",7/21/2003 0:00:00,"1300","PDT","CSD","Grab","Metro","DGPS",,"Overcast",12,"KTS","W",3,"FT",11,"NW","Choppy","None",0,"Grabs 3 and 7 had transcription errors for the longitude."
+"4000",7/22/2003 0:00:00,"1208","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",8,"KTS","SE",10,"FT",9,"W","Calm","None",0,"Station depth 33 m Lotek time: 13 min"
+"4001",7/19/2003 0:00:00,"1807","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",2,"KTS","NW",3,"FT",4,"NW","Calm","None",0,"in water 18:08; at bottom 18 min; at surface 18:48; total 40 min; slight shell debris"
+"4002",7/29/2003 0:00:00,"1300","PST","MBC","Grab","Portunus","DGPS",33.00,"Clear",7,"KTS","SW",0,"M",0,"XX","Calm","None",0,
+"4003",7/22/2003 0:00:00,"1544","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",9,"KTS","SW",4,"FT",10,"SW","Choppy","None",0,
+"4003",7/22/2003 0:00:00,"1558","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","SW",4,"FT",10,"SW","Choppy","None",0,
+"4004",7/22/2003 0:00:00,"0921","PDT","CSD","Grab","Metro","DGPS",,"Fog",7,"KTS","NW",3,"FT",12,"NW","Calm","None",0,
+"4004",7/25/2003 0:00:00,"0800","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",2,"KTS","SE",1,"FT",7,"W","Calm","None",0,"Stn Depth: 145 m"
+"4005",7/21/2003 0:00:00,"0432","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",10,"KTS","W",3,"FT",4,"W","Calm","None",0,"in water 4:34; at bottom 17 min; at surface 5:15; total 41 min; lots of clay"
+"4006",7/21/2003 0:00:00,"0925","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",4,"KTS","SW",2,"FT",10,"SW","Calm","None",0,"Using GPS for Distance to target due to conflict between CLA WQ and B '03 Stn coordinates"
+"4006",8/11/2003 0:00:00,"0728","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","None",0,
+"4006",8/25/2003 0:00:00,"0900","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",6,"KTS","SW",3,"FT",10,"W","Calm","None",0,
+"4007",8/4/2003 0:00:00,"1617","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",15,"KTS","SW",3,"FT",10,"W","Choppy","None",0,
+"4007",8/24/2003 0:00:00,"1003","PST","MBC","Grab","Alguita","DGPS",,"Fog",5,"KTS","SE",1,"M",4,"W","Calm","None",0,
+"4008",7/28/2003 0:00:00,"1059","PDT","MEC","Grab","MEC Avon","DGPS",32.63,"Partly Cloudy",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Original site coordinates <0.5m depth, offset to deeper water"
+"4009",7/20/2003 0:00:00,"1750","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",9,"KTS","W",2,"FT",3,"W","Calm","None",0,"in water 17:51; at bottom 12 min; at surface 6:21; total 30 min"
+"4010",7/14/2003 0:00:00,"1107","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",4,"KTS","SE",0,"FT",0,"XX","Calm","Q",0,
+"4010",7/25/2003 0:00:00,"0905","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Overcast",3,"KTS","SW",0,"FT",0,"XX","Calm","N",1,"Station is under a marina, we couldn't get within 420 m of the site."
+"4010",8/6/2003 0:00:00,"0919","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",4,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4011",7/22/2003 0:00:00,"1718","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",6,"KTS","W",2,"FT",3,"SW","Calm","S",1,"in water 17:19; at bottom 1 min; at surface 17:21; total 2 min; hard bottom covered w/ coarse sand and coralin algae"
+"4011",7/22/2003 0:00:00,"1718","PDT","CINMS","Trawl","McArthur II","DGPS",,"Partly Cloudy",6,"KTS","W",2,"FT",3,"SW","Calm","S",1,"Rocky Bottom"
+"4012",7/22/2003 0:00:00,"1138","PDT","CSD","Grab","Metro","DGPS",,"Fog",3,"KTS","NW",3,"FT",12,"NW","Calm","None",0,
+"4012",7/25/2003 0:00:00,"0936","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",5,"KTS","SW",1,"FT",7,"W","Calm","None",0,"Lotek time: 12 min"
+"4013",9/16/2003 0:00:00,"1100","PDT","ABC","Grab","NR","DGPS",,"NR",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"No Access"
+"4014",7/30/2003 0:00:00,"0945","PST","MBC","Grab","Portunus","DGPS",,"Thunderstorm",0,"KTS","XX",0,"M",0,"XX","Calm","C",1,"Rocks & hard clay prevented jaw from closing correctly."
+"4015",7/24/2003 0:00:00,"1610","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",10,"KTS","SW",4,"FT",12,"SW","Calm","None",0,
+"4015",7/24/2003 0:00:00,"1642","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",12,"KTS","SW",5,"FT",12,"SW","Calm","None",0,"Station to be resampled, net did not reach bottom."
+"4016",8/8/2003 0:00:00,"2300","PDT","MEC","Grab","JB","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"Permission not granted by Camp Pendleton to sample in harbor"
+"4016",8/8/2003 0:00:00,"2300","PDT","MEC","Trawl","Zephyr","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"Permission not granted by Camp Pendleton to trawl in harbor because of underwater cables"
+"4017",8/19/2003 0:00:00,"0925","PDT","MEC","Grab","MEC Avon","DGPS",25.19,"Overcast",1,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4018",7/25/2003 0:00:00,"1145","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",10,"KTS","SW",0,"FT",0,"XX","Calm","N",1,"Cannot get within 100 m of site it is located under the docks in Alamitos Bay"
+"4018",8/8/2003 0:00:00,"0815","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4019",8/18/2003 0:00:00,"1410","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",6,"KTS","SW",3,"FT",8,"SW","Calm","None",0,
+"4019",8/18/2003 0:00:00,"1444","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",8,"KTS","SW",3,"FT",9,"SW","Calm","None",0,
+"4020",7/25/2003 0:00:00,"1245","PDT","CSD","Grab","Metro","DGPS",,"Overcast",0,"KTS","XX",0,"FT",0,"XX","Calm","None",0,"Mission Bay - Mission Bay drive bridge. Under bridge. Sunset point."
+"4020",7/25/2003 0:00:00,"1256","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",0,"KTS","XX",0,"FT",0,"XX","Calm","Other",1,"Depth along trawl track >10%"
+"4021",7/21/2003 0:00:00,"0812","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",2,"KTS","SW",2,"FT",12,"SW","Calm","None",0,
+"4021",8/11/2003 0:00:00,"1025","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","None",0,"Net torn slightly on wing but catch kept"
+"4021",8/25/2003 0:00:00,"1257","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",6,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4022",7/21/2003 0:00:00,"1221","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",3,"KTS","SW",2,"FT",10,"SW","Choppy","None",0,
+"4022",8/11/2003 0:00:00,"1337","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","S",1,"Too rocky to trawl"
+"4022",8/25/2003 0:00:00,"1055","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",7,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4023",8/24/2003 0:00:00,"1444","PST","MBC","Grab","Alguita","DGPS",,"Clear",0,"KTS","W",1,"M",3,"W","Rough","None",0,
+"4023",8/27/2003 0:00:00,"1145","PST","MBC","Trawl","Alguita","DGPS",,"Clear",0,"KTS","W",1,"M",3,"W","Choppy","S",1,"Three fathometer runs each showed rocky bottom."
+"4024",8/5/2003 0:00:00,"1414","PDT","MEC","Grab","JB","DGPS",,"Clear",4,"KTS","W",2,"FT",14,"SW","Calm","None",0,
+"4024",8/8/2003 0:00:00,"1101","PDT","MEC","Trawl","Zephyr","DGPS",,"Overcast",-99,"KTS","NR",-99,"FT",-99,"NR","Calm","None",1,"site was abandoned because near canyon.  The boat bathymetery was up and down."
+"4025",7/19/2003 0:00:00,"0457","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",7,"KTS","NW",3,"FT",3,"N","Calm","None",0,"in water 4:58; total 24 min; temp 43.3 F"
+"4026",8/19/2003 0:00:00,"1256","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",4,"KTS","SE",1,"FT",6,"W","Calm","None",0,
+"4026",8/27/2003 0:00:00,"0830","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",2,"KTS","E",1,"FT",7,"W","Calm","None",0,
+"4027",8/7/2003 0:00:00,"1218","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",3,"KTS","NW",3,"FT",3,"S","Choppy","None",0,
+"4027",8/15/2003 0:00:00,"0759","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",12,"KTS","W",3,"FT",12,"W","Choppy","None",0,
+"4028",7/16/2003 0:00:00,"1003","PDT","CSD","Grab","Metro","DGPS",,"Fog",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Depth is highly variable around station location."
+"4028",7/17/2003 0:00:00,"1055","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",7,"KTS","E",0,"FT",0,"XX","Calm","None",0,"Absolutely HUGE amount of red and brown filamentous algae. 4 tubs plus more sorted directly from net."
+"4029",7/21/2003 0:00:00,"1001","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",10,"KTS","W",4,"FT",-99,"W","Choppy","None",0,"in water 10:02; at bottom 2 min; at surface 10:06: total 4 min; shallow water; hit bottom at 84 m"
+"4029",8/8/2003 0:00:00,"1020","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",12,"KTS","NW",3,"FT",3,"E","Choppy","None",0,
+"4030",7/24/2003 0:00:00,"0750","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",2,"KTS","E",1,"FT",4,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4030",8/25/2003 0:00:00,"0706","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",6,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4031",8/20/2003 0:00:00,"0800","PDT","CINMS","Grab","Shearwater","DGPS",,"Fog",5,"KTS","NW",3,"FT",10,"NW","Calm","N",1,"Too cloe to shore/rocks to sample"
+"4031",8/20/2003 0:00:00,"0800","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",5,"KTS","NW",3,"FT",10,"NW","Calm","N ",1,"Too close to shore/rocks to sample"
+"4032",7/25/2003 0:00:00,"1656","PDT","MEC","Grab","MEC Avon","DGPS",24.16,"Partly Cloudy",0,"KTS","XX",0,"FT",0,"XX","Calm","None",0,
+"4033",7/25/2003 0:00:00,"0756","PDT","MEC","Grab","MEC Avon","DGPS",28.96,"Overcast",3,"KTS","E",0,"FT",0,"XX","Calm","None",0,
+"4034",8/20/2003 0:00:00,"0810","PST","MBC","Grab","Portunus","DGPS",33.00,"Partly Cloudy",0,"KTS","XX",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4035",8/18/2003 0:00:00,"1155","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",3,"KTS","SW",4,"FT",8,"SW","Calm","None",0,
+"4035",8/18/2003 0:00:00,"1225","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",4,"KTS","SW",4,"FT",8,"SW","Calm","None",0,
+"4036",7/23/2003 0:00:00,"1108","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",8,"KTS","S",1,"FT",14,"SW","Calm","None",0,
+"4036",7/25/2003 0:00:00,"1119","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",8,"KTS","SW",1,"FT",7,"W","Calm","None",0,"Lotek time: 14 min"
+"4037",7/23/2003 0:00:00,"1046","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",0,"KTS","XX",3,"FT",10,"SW","Calm","None",0,
+"4037",8/4/2003 0:00:00,"0910","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",6,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4037",8/13/2003 0:00:00,"0828","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",2,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4038",8/20/2003 0:00:00,"1359","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",5,"KTS","SW",1,"FT",6,"W","Calm","None",0,
+"4038",8/27/2003 0:00:00,"1319","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",6,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4039",8/3/2003 0:00:00,"1654","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",18,"KTS","NW",3,"FT",8,"W","Rough","None",0,
+"4039",8/23/2003 0:00:00,"1041","PST","MBC","Grab","Alguita","DGPS",,"Clear",9,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4040",8/6/2003 0:00:00,"1048","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",3,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"4040",8/8/2003 0:00:00,"0640","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",1,"KTS","NE",2,"FT",12,"SW","Calm","None",0,
+"4041",7/29/2003 0:00:00,"0809","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",3,"KTS","SE",1,"FT",10,"SW","Calm","None",0,
+"4041",8/26/2003 0:00:00,"0656","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",0,"KTS","XX",2,"FT",10,"SW","Calm","None",0,
+"4041",8/28/2003 0:00:00,"1221","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",5,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4042",8/19/2003 0:00:00,"1444","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",2,"KTS","S",1,"FT",6,"W","Calm","None",0,
+"4042",8/27/2003 0:00:00,"0957","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",6,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4043",7/23/2003 0:00:00,"1307","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",3,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4043",7/23/2003 0:00:00,"1324","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",3,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4044",7/18/2003 0:00:00,"1305","PDT","CSD","Grab","Metro","DGPS",,"Fog",10,"KTS","S",0,"FT",0,"XX","Calm","Other",1,"Inside sub base can't access"
+"4044",7/18/2003 0:00:00,"1305","PDT","CSD","Trawl","Metro","DGPS",,"Fog",11,"KTS","S",0,"FT",0,"XX","Calm","N",1,"Inside sub base, Can't access"
+"4045",7/22/2003 0:00:00,"1139","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",4,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4045",8/4/2003 0:00:00,"1123","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4045",8/13/2003 0:00:00,"1238","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",12,"KTS","W",2,"FT",8,"SW","Calm","None",0,
+"4046",7/29/2003 0:00:00,"1411","PST","MBC","Grab","None","DGPS",2.00,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","Other",1,"Salinity < 19 PSU.  Equipment type used - YSI"
+"4047",7/24/2003 0:00:00,"1315","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",12,"SW","Calm","None",0,
+"4047",7/24/2003 0:00:00,"1329","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",6,"KTS","SW",4,"FT",10,"SW","Calm","None",0,
+"4048",8/5/2003 0:00:00,"1232","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","W",2,"FT",14,"SW","Calm","None",0,
+"4048",8/8/2003 0:00:00,"1003","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",5,"KTS","W",3,"FT",11,"W","Calm","None",0,
+"4049",7/21/2003 0:00:00,"1340","PDT","MEC","Grab","MEC Avon","DGPS",33.24,"Overcast",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4050",7/15/2003 0:00:00,"0822","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4050",8/6/2003 0:00:00,"1102","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",6,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4050",8/20/2003 0:00:00,"1013","PDT","CLAEMD","Trawl","Marine Surveyor","DGPS",-99.00,"Clear",2,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"one glass bottle"
+"4051",7/21/2003 0:00:00,"1800","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",15,"KTS","W",4,"FT",3,"W","Choppy","None",0,"in water 18:00; at bottom 2 min; at surface 18:05; total 5 min; did not trip; grab 5 lacked information - data from grab 4 used; see hard copy"
+"4051",8/6/2003 0:00:00,"1130","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",15,"KTS","W",3,"FT",-99,"W","Choppy","None",0,"Trawl caught in rudder on retrieval, net recovered with no apparent damage"
+"4052",7/16/2003 0:00:00,"1243","PDT","CSD","Grab","Metro","DGPS",,"Overcast",3,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4052",7/16/2003 0:00:00,"1243","PDT","CSD","Trawl","Metro","DGPS",,"Overcast",3,"KTS","W",0,"FT",0,"XX","Calm","N",1,"Station located on land in Marina. Can sample benthics within 100 m, however, marina channel is to narrow to safely trawl."
+"4053",9/16/2003 0:00:00,"0827","PDT","ABC","Grab","NR","DGPS",19.00,"Clear",3,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4054",8/4/2003 0:00:00,"0826","PST","MBC","Grab","Portunus","DGPS",,"Clear",3,"KTS","E",0,"M",0,"XX","Calm","S",1,"Penetration could not be obtained."
+"4055",7/29/2003 0:00:00,"0857","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",2,"KTS","SW",4,"FT",9,"W","Calm","None",0,
+"4055",7/29/2003 0:00:00,"0910","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",2,"KTS","SW",4,"FT",9,"W","Calm","None",0,
+"4056",8/19/2003 0:00:00,"1318","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",5,"KTS","NW",3,"FT",10,"NW","Calm","N",1,"Station was located immediately adjacent to Santa Barbara Island; too close to trawl safely; bottom rocky throughout vicinity"
+"4056",8/19/2003 0:00:00,"1318","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",5,"KTS","NW",3,"FT",10,"NW","Calm","N ",1,"Station was located immediately adjacent to Santa Barbara Island; too close to trawl safely; bottom rocky throughout vicinity"
+"4057",7/23/2003 0:00:00,"1205","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",5,"KTS","E",2,"FT",10,"SW","Calm","None",0,
+"4057",8/4/2003 0:00:00,"1005","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",10,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4057",8/13/2003 0:00:00,"1052","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",6,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4058",7/23/2003 0:00:00,"1310","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",7,"KTS","W",1,"FT",10,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4058",8/26/2003 0:00:00,"1145","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",7,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4059",8/22/2003 0:00:00,"0756","PST","MBC","Grab","Alguita","DGPS",,"Overcast",0,"KTS","XX",0,"M",4,"SW","Calm","None",0,
+"4059",8/27/2003 0:00:00,"0908","PST","MBC","Trawl","Alguita","DGPS",,"Clear",1,"KTS","W",0,"M",4,"W","Calm","H",1,"Torn net due to obstructions on ocean floor."
+"4060",7/19/2003 0:00:00,"2325","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",4,"KTS","NW",1,"FT",2,"W","Calm","None",0,"in water 23:26; at bottom 18 min; at surface 0:08; total 42 min; temp: 50 degrees F"
+"4061",7/22/2003 0:00:00,"1021","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",6,"KTS","SW",3,"FT",10,"SW","Confused","None",0,
+"4061",7/22/2003 0:00:00,"1106","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",6,"KTS","SW",4,"FT",10,"SW","Confused","None",0,
+"4062",8/13/2003 0:00:00,"0933","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",3,"KTS","NW",2,"FT",14,"NW","Choppy","None",0,
+"4062",9/3/2003 0:00:00,"1118","PDT","SV","Grab","Early Bird","DGPS",,"Clear",12,"KTS","W",3,"FT",6,"W","Rough","None",0,
+"4063",8/13/2003 0:00:00,"0948","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",20,"KTS","NW",3,"FT",5,"NW","Choppy","S",1,"Pre-trawl survey indicated bottom was rocky"
+"4063",8/13/2003 0:00:00,"0948","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",20,"KTS","NW",3,"FT",5,"NW","Choppy","S",1,"Pre-trawl survey indicated bottom was un-trawlable"
+"4064",8/4/2003 0:00:00,"0854","PDT","MEC","Grab","JB","DGPS",,"Overcast",2,"KTS","NW",2,"FT",12,"SW","Calm","None",0,
+"4064",8/8/2003 0:00:00,"1405","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",5,"KTS","W",2,"FT",8,"SW","Calm","None",0,
+"4065",8/19/2003 0:00:00,"0722","PDT","OCSD","Trawl","Enchanter IV","DGPS",-99.00,"Overcast",8,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4065",9/2/2003 0:00:00,"1059","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",5,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4066",7/24/2003 0:00:00,"0805","PST","MBC","Grab","Portunus","DGPS",32.00,"Overcast",2,"KTS","S",1,"M",10,"S","Calm","None",0,"Station is in the entrance channel to Alamitos Harbor."
+"4067",8/25/2003 0:00:00,"0955","PST","MBC","Grab","Alguita","DGPS",,"Fog",7,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4067",8/27/2003 0:00:00,"1504","PST","MBC","Trawl","Alguita","DGPS",,"Clear",12,"KTS","W",1,"M",3,"W","Choppy","H",1,"Torn net due to obstructions on ocean floor."
+"4068",7/21/2003 0:00:00,"1028","PDT","CSD","Grab","Metro","DGPS",,"Overcast",12,"KTS","W",3,"FT",11,"NW","Choppy","None",0,
+"4068",7/22/2003 0:00:00,"0947","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",5,"KTS","NE",10,"FT",9,"W","Calm","None",0,"Station depth 182 m Lotek time: 11 min"
+"4069",7/31/2003 0:00:00,"1006","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",9,"KTS","W",1,"FT",12,"SW","Calm","None",0,
+"4069",8/21/2003 0:00:00,"1024","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",2,"FT",12,"SW","Calm","M",1,"Due to kelp beds cannot approach within 100m of coords"
+"4069",8/21/2003 0:00:00,"1447","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",15,"KTS","W",1,"FT",12,"SW","Calm","None",0,
+"4070",8/20/2003 0:00:00,"1344","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",5,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4070",8/27/2003 0:00:00,"1121","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Overcast",3,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4071",8/4/2003 0:00:00,"1130","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",20,"KTS","NW",4,"FT",10,"SW","Choppy","None",0,
+"4071",8/23/2003 0:00:00,"1507","PST","MBC","Grab","Alguita","DGPS",,"Clear",24,"KTS","W",1,"M",2,"W","Rough","None",0,
+"4072",7/24/2003 0:00:00,"1235","PDT","MEC","Grab","MEC Avon","DGPS",32.85,"Overcast",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"Original coordinates outside Santa Ana River, offset 60 m"
+"4073",7/29/2003 0:00:00,"0927","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",4,"KTS","E",1,"FT",10,"SW","Calm","None",0,
+"4073",8/27/2003 0:00:00,"0939","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Overcast",0,"KTS","XX",2,"FT",10,"SW","Calm","None",0,
+"4074",7/19/2003 0:00:00,"1246","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",4,"KTS","SW",2,"FT",4,"W","Calm","None",0,"in water 12:47; at bottom 14 min; at surface 13:20; total 33 min; temp 49.1 F - not from full grab; this and preious grab switched then corrected"
+"4075",8/18/2003 0:00:00,"1607","PDT","MEC","Grab","MEC Avon","DGPS",28.80,"Clear",6,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4076",7/18/2003 0:00:00,"1221","PDT","CSD","Grab","Metro","DGPS",,"Fog",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Station located in the San Diego Yacht Club marina"
+"4076",7/18/2003 0:00:00,"1221","PDT","CSD","Trawl","Metro","DGPS",,"Fog",6,"KTS","S",0,"FT",0,"XX","Calm","N",1,"Station within San Diego Yacht Club Marina. Too narrow to trawl"
+"4077",7/22/2003 0:00:00,"1236","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",2,"FT",10,"SE","Calm","None",0,
+"4077",8/4/2003 0:00:00,"1308","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",7,"KTS","W",2,"FT",8,"SE","Calm","None",0,
+"4077",9/4/2003 0:00:00,"0724","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",0,"KTS","XX",2,"FT",12,"S","Calm","None",0,"hard plastic, pvc pipe, rubber gasket"
+"4078",7/29/2003 0:00:00,"1411","PST","MBC","Grab","None","DGPS",5.00,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","Other",1,"Salinity < 19 PSU.  Equipment type used - YSI"
+"4079",7/25/2003 0:00:00,"0806","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",1,"KTS","SE",3,"FT",10,"SW","Calm","None",0,
+"4079",7/25/2003 0:00:00,"0902","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",1,"KTS","SE",3,"FT",10,"SW","Calm","None",0,
+"4080",8/7/2003 0:00:00,"1135","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",3,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4080",8/13/2003 0:00:00,"0638","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",0,"KTS","XX",3,"FT",8,"W","Choppy","None",0,
+"4081",9/5/2003 0:00:00,"1400","PDT","ABC","Grab","None","DGPS",,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"On Land"
+"4082",7/24/2003 0:00:00,"1157","PST","MBC","Grab","Portunus","DGPS",,"Clear",8,"KTS","S",0,"M",0,"XX","Calm","S",1,"Cobble & rocks interfered with the proper closure to the jaw."
+"4083",8/5/2003 0:00:00,"1559","PDT","ABC","Trawl","Yellowfin","DGPS",,"Overcast",18,"KTS","SW",3,"FT",10,"W","Choppy","None",0,
+"4083",8/25/2003 0:00:00,"1321","PST","MBC","Grab","Alguita","DGPS",,"Overcast",14,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4084",7/17/2003 0:00:00,"0915","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",9,"KTS","SE",0,"FT",0,"XX","Calm","Other",0,"Between piers 13 and 14 - within naval security zone. No access"
+"4084",7/31/2003 0:00:00,"0726","PDT","CSD","Grab","Metro","DGPS",,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Off pier 14.behind big navy ship. Navy security area."
+"4084",7/31/2003 0:00:00,"0730","PDT","CSD","Trawl","Metro","DGPS",,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","N",1,"Ships, piers in navy site, no clear track, moving station 100m, still no room for trawl"
+"4085",9/2/2003 0:00:00,"1018","PDT","ABC","Grab","Hey Jude","DGPS",,"Fog",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4086",7/21/2003 0:00:00,"1023","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",10,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4086",8/11/2003 0:00:00,"1429","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","None",0,
+"4086",8/25/2003 0:00:00,"0928","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",6,"KTS","SW",3,"FT",10,"W","Calm","None",0,
+"4087",7/21/2003 0:00:00,"1009","PDT","MEC","Grab","MEC Avon","DGPS",32.53,"Clear",8,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4088",8/6/2003 0:00:00,"0845","PDT","MEC","Grab","JB","DGPS",,"Overcast",2,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"4088",8/12/2003 0:00:00,"1239","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",10,"KTS","NW",5,"FT",8,"NW","Calm","None",0,
+"4089",7/21/2003 0:00:00,"1129","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",13,"KTS","SW",2,"FT",10,"SW","Choppy","None",0,
+"4089",8/11/2003 0:00:00,"1355","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","S",1,"Too rocky to trawl"
+"4089",8/25/2003 0:00:00,"1016","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",6,"KTS","SW",3,"FT",10,"W","Calm","None",0,
+"4090",8/19/2003 0:00:00,"1324","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",2,"KTS","S",1,"FT",7,"W","Calm","None",0,
+"4090",8/26/2003 0:00:00,"1200","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",6,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4091",8/3/2003 0:00:00,"0652","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",18,"KTS","SW",3,"FT",9,"W","Choppy","None",0,
+"4091",8/22/2003 0:00:00,"1832","PST","MBC","Grab","Alguita","DGPS",,"Partly Cloudy",12,"KTS","W",1,"M",4,"W","Choppy","None",0,
+"4092",7/16/2003 0:00:00,"0803","PDT","CSD","Grab","Metro","DGPS",,"Fog",0,"KTS","XX",0,"FT",0,"XX","Calm","None",0,"All grabs had transcription errors for the longitude."
+"4092",7/17/2003 0:00:00,"0850","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",7,"KTS","NW",0,"FT",0,"XX","Calm","None",0,"Trawl right by Coast Guard dock"
+"4093",8/19/2003 0:00:00,"1100","PDT","ABC","Trawl","Yellowfin","DGPS",,"Overcast",5,"KTS","SE",2,"FT",10,"SW","Calm","V",1,"10% depth rule could not be met"
+"4093",8/19/2003 0:00:00,"1206","PDT","ABC","Grab","Yellowfin","DGPS",,"Partly Cloudy",5,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4094",8/13/2003 0:00:00,"1111","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",8,"KTS","NW",3,"FT",10,"NW","Choppy","None",0,
+"4094",9/3/2003 0:00:00,"1259","PDT","SV","Grab","Early Bird","DGPS",,"Clear",16,"KTS","W",4,"FT",6,"W","Rough","None",0,
+"4096",8/7/2003 0:00:00,"1215","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",5,"KTS","S",3,"FT",10,"SW","Calm","None",0,
+"4096",8/14/2003 0:00:00,"0900","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",2,"KTS","NW",3,"FT",10,"NW","Calm","None",0,
+"4097",8/19/2003 0:00:00,"1025","PDT","OCSD","Trawl","Enchanter IV","DGPS",-99.00,"Partly Cloudy",3,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4097",9/2/2003 0:00:00,"1030","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4098",7/16/2003 0:00:00,"0958","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",4,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4098",8/7/2003 0:00:00,"1135","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",6,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4098",8/27/2003 0:00:00,"1017","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",10,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4099",8/18/2003 0:00:00,"0839","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",8,"KTS","S",4,"FT",7,"SW","Calm","None",0,
+"4099",8/18/2003 0:00:00,"0946","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",5,"KTS","SW",4,"FT",8,"SW","Calm","None",0,
+"4100",7/20/2003 0:00:00,"0427","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",2,"KTS","SE",2,"FT",4,"W","Calm","None",0,"in water 4:28; at bottom 12 min; at surface 4:56; total 28 min"
+"4101",7/23/2003 0:00:00,"0911","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",5,"KTS","NW",2,"FT",10,"SW","Calm","None",0,
+"4101",8/4/2003 0:00:00,"0738","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",2,"KTS","N",2,"FT",10,"SW","Calm","None",0,
+"4101",8/14/2003 0:00:00,"1104","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4102",8/20/2003 0:00:00,"1257","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",3,"KTS","SW",1,"FT",7,"W","Calm","None",0,
+"4102",8/28/2003 0:00:00,"1239","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",9,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4103",8/25/2003 0:00:00,"0835","PST","MBC","Grab","Alguita","DGPS",,"Fog",6,"KTS","W",0,"M",3,"W","Choppy","None",0,
+"4103",9/3/2003 0:00:00,"1717","PST","MBC","Trawl","Alguita","DGPS",,"Partly Cloudy",20,"KTS","W",1,"M",3,"W","Choppy","S",1,"Three fathometer runs each showed rocky bottom."
+"4104",8/19/2003 0:00:00,"0828","PDT","MEC","Grab","MEC Avon","DGPS",28.66,"Clear",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4105",7/20/2003 0:00:00,"1442","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",3,"KTS","SW",2,"FT",2,"W","Calm","C",1,"in water 14:45; at bottom 12 min; at surface15:15; total 30 min; all grabs (3) unsuccessful; Abiotics the same"
+"4106",7/20/2003 0:00:00,"2103","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",12,"KTS","W",5,"FT",2,"W","Calm","None",0,"in water 21:05; at bottom 12 min; at surface 21:33; total 28"
+"4107",8/22/2003 0:00:00,"1028","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",2,"KTS","W",1,"FT",6,"NW","Calm","S",1,"Rocky Bottom"
+"4107",8/22/2003 0:00:00,"1030","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",2,"KTS","W",1,"FT",6,"NW","Calm","S",1,"Rocky Bottom"
+"4108",7/18/2003 0:00:00,"0814","PDT","CSD","Grab","Metro","DGPS",,"Fog",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Moved a little within the station to avoid boat traffic - located directly behind harbor cruise boats"
+"4108",7/31/2003 0:00:00,"1107","PDT","CSD","Trawl","Metro","DGPS",,"Overcast",6,"KTS","SW",0,"FT",0,"XX","Calm","N",1,"Next to Broadway pier.  Not enough room to trawl. No clear trawl track. Depth near station varies by more than 10%"
+"4109",7/22/2003 0:00:00,"1306","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Partly Cloudy",3,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4109",8/4/2003 0:00:00,"1412","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4109",8/14/2003 0:00:00,"1345","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4110",7/24/2003 0:00:00,"0900","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",4,"KTS","SW",1,"FT",8,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4110",8/25/2003 0:00:00,"1243","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",5,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4111",8/24/2003 0:00:00,"0552","PST","MBC","Grab","Alguita","DGPS",,"Clear",0,"KTS","XX",0,"M",5,"W","Calm","None",0,
+"4111",9/4/2003 0:00:00,"0818","PST","MBC","Trawl","Alguita","DGPS",,"Clear",0,"KTS","W",0,"M",0,"W","Calm","S",1,"Three fathometer runs each showed rocky bottom."
+"4112",8/18/2003 0:00:00,"1555","PDT","MEC","Grab","MEC Avon","DGPS",,"Clear",6,"KTS","W",0,"FT",0,"XX","Calm","Other",1,"Target coordinates on land, closest water is 0.1 mile away"
+"4113",7/29/2003 0:00:00,"0703","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",3,"KTS","SE",1,"FT",10,"SW","Calm","None",0,
+"4113",8/27/2003 0:00:00,"0730","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Fog",0,"KTS","XX",2,"FT",10,"SW","Calm","None",0,
+"4114",7/14/2003 0:00:00,"1256","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"Too shallow to reach by boat, within shallow water habitat"
+"4115",7/21/2003 0:00:00,"1700","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",11,"KTS","NW",5,"FT",4,"W","Choppy","None",0,"in water 17:05; at bottom 2 min; at surface 17:08; total 3 min"
+"4115",8/6/2003 0:00:00,"1205","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",15,"KTS","W",3,"FT",4,"W","Choppy","None",0,
+"4116",7/16/2003 0:00:00,"1038","PDT","CSD","Grab","Metro","DGPS",,"Fog",10,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4116",7/17/2003 0:00:00,"1325","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",7,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Lots of algae, but only 1 tub full. Naval seal activity near net-over point."
+"4117",9/2/2003 0:00:00,"1348","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",10,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4117",9/3/2003 0:00:00,"0831","PDT","ABC","Trawl","Hey Jude","DGPS",,"Clear",3,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4118",8/4/2003 0:00:00,"1131","PST","MBC","Grab","Portunus","DGPS",30.00,"Clear",4,"KTS","S",0,"M",0,"XX","Calm","None",0,"Station under Studebaker Bridge w/ flooding tide & low clearance."
+"4119",7/29/2003 0:00:00,"1321","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",2,"KTS","W",4,"FT",9,"W","Calm","None",0,
+"4119",7/29/2003 0:00:00,"1333","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",2,"KTS","W",4,"FT",9,"SW","Calm","None",0,
+"4120",7/22/2003 0:00:00,"0831","PDT","CSD","Grab","Metro","DGPS",,"Fog",5,"KTS","NW",3,"FT",12,"NW","Calm","None",0,
+"4120",7/24/2003 0:00:00,"1156","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",3,"KTS","NW",10,"FT",9,"W","Calm","None",0,"Lotek time: 12 min. 30 sec."
+"4121",7/19/2003 0:00:00,"0124","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",10,"KTS","NW",3,"FT",4,"N","Calm","None",0,"arrive 1:24; in water 1:25; total 20 min; temp 42.7 F"
+"4122",8/19/2003 0:00:00,"1208","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",5,"KTS","E",1,"FT",6,"W","Calm","None",0,
+"4122",8/26/2003 0:00:00,"1051","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",5,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4123",7/30/2003 0:00:00,"1252","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",2,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4123",7/30/2003 0:00:00,"1302","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",2,"KTS","W",3,"FT",10,"W","Calm","None",0,
+"4124",7/19/2003 0:00:00,"1550","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",3,"KTS","NW",4,"FT",3,"NW","Calm","None",0,"in water 15:51; at bottom 17 min; at surface 16:29; total 21 min"
+"4125",8/20/2003 0:00:00,"1103","PDT","ABC","Trawl","Yellowfin","DGPS",,"Overcast",5,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4125",8/20/2003 0:00:00,"1321","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",3,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4126",8/14/2003 0:00:00,"1002","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"W","Calm","None",1,"Abandon site due to coral reef."
+"4126",9/3/2003 0:00:00,"0927","PDT","SV","Grab","Early Bird","DGPS",,"Clear",0,"KTS","XX",3,"FT",10,"W","Calm","None",0,
+"4127",8/20/2003 0:00:00,"0700","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",0,"KTS","XX",1,"FT",8,"W","Calm","S",1,"Rocky Bottom"
+"4127",8/20/2003 0:00:00,"0700","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",0,"KTS","XX",1,"FT",8,"W","Calm","S",1,"Rocky Bottom"
+"4128",7/23/2003 0:00:00,"0958","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",3,"KTS","W",1,"FT",14,"W","Calm","None",0,
+"4128",7/29/2003 0:00:00,"1118","PDT","CSD","Trawl","Monitor III","DGPS",,"Clear",7,"KTS","SW",3,"FT",11,"SW","Calm","None",0,"Station depth 24 m"
+"4129",8/19/2003 0:00:00,"0850","PDT","OCSD","Trawl","Enchanter IV","DGPS",-99.00,"Overcast",8,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4129",9/3/2003 0:00:00,"0923","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",5,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4130",7/23/2003 0:00:00,"0820","PST","MBC","Grab","Portunus","DGPS",33.00,"Overcast",3,"KTS","S",0,"M",0,"XX","Calm","None",0,"Station access blocked by trash boom."
+"4131",7/22/2003 0:00:00,"1815","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",10,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4131",7/22/2003 0:00:00,"1844","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4132",8/1/2003 0:00:00,"0845","PDT","CSD","Grab","Monitor III","DGPS",,"Partly Cloudy",4,"KTS","N",1,"FT",7,"W","Choppy","None",0,
+"4132",8/11/2003 0:00:00,"1337","PDT","MEC","Trawl","Zephyr","DGPS",,"Overcast",5,"KTS","W",2,"FT",10,"W","Calm","None",0,
+"4133",8/19/2003 0:00:00,"0839","PDT","ABC","Grab","Yellowfin","DGPS",,"Overcast",5,"KTS","E",2,"FT",10,"SW","Calm","None",0,
+"4133",8/19/2003 0:00:00,"0921","PDT","ABC","Trawl","Yellowfin","DGPS",,"Overcast",5,"KTS","SE",2,"FT",10,"SW","Calm","None",0,
+"4134",8/21/2003 0:00:00,"1112","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",4,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4134",8/29/2003 0:00:00,"0924","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",2,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4135",8/4/2003 0:00:00,"1314","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",20,"KTS","NW",4,"FT",10,"SW","Rough","None",0,
+"4135",8/22/2003 0:00:00,"1139","PST","MBC","Grab","Alguita","DGPS",,"Overcast",6,"KTS","W",1,"M",4,"W","Choppy","None",0,
+"4136",8/26/2003 0:00:00,"1300","PDT","ABC","Grab","None","DGPS",,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"Salinity <19 ppt"
+"4137",7/29/2003 0:00:00,"0816","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",0,"KTS","XX",1,"FT",10,"SW","Calm","None",0,
+"4137",8/26/2003 0:00:00,"0852","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",0,"KTS","XX",2,"FT",10,"SW","Calm","None",0,
+"4137",8/28/2003 0:00:00,"1348","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",6,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4138",7/14/2003 0:00:00,"1222","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",10,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4138",8/6/2003 0:00:00,"1030","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",5,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4138",8/20/2003 0:00:00,"0928","PDT","CLAEMD","Trawl","Marine Surveyor","DGPS",-99.00,"Clear",2,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"fishing line, one hat"
+"4139",7/23/2003 0:00:00,"1546","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","W",4,"FT",10,"SW","Choppy","N",1,"Site located on the inside of the south Ventura Harbor jetty.Both grabs and trawls unsafe due to boat traffic and public recreation."
+"4139",7/23/2003 0:00:00,"1546","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","W",4,"FT",10,"SW","Choppy","N",1,"Site located on the inside of the south Ventura Harbor jetty.Both grabs and trawls unsafe due to boat traffic and public recreation."
+"4140",7/18/2003 0:00:00,"1135","PDT","CSD","Grab","Metro","DGPS",,"Fog",5,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"Station located in the middle of the Bay Club Hotel and Marina"
+"4140",7/18/2003 0:00:00,"1135","PDT","CSD","Trawl","Metro","DGPS",,"Fog",7,"KTS","E",0,"FT",0,"XX","Calm","N",1,"In the middle of the Bay Club Hotel Marina"
+"4141",7/22/2003 0:00:00,"1207","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",6,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4141",8/4/2003 0:00:00,"1323","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",8,"KTS","W",2,"FT",8,"SW","Calm","None",0,
+"4141",9/4/2003 0:00:00,"0920","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",6,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4142",7/24/2003 0:00:00,"1321","PST","MBC","Grab","Portunus","DGPS",20.00,"Clear",8,"KTS","S",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4143",7/25/2003 0:00:00,"1509","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",10,"SW","Calm","None",0,
+"4143",7/25/2003 0:00:00,"1526","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",10,"SW","Calm","None",0,
+"4144",8/7/2003 0:00:00,"1053","PDT","MEC","Grab","JB","DGPS",,"Overcast",3,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4144",8/14/2003 0:00:00,"1330","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",10,"KTS","W",3,"FT",8,"NW","Calm","None",0,"Strong winds blowing against our direction of travel (SE)."
+"4145",7/22/2003 0:00:00,"0750","PDT","MEC","Grab","MEC Avon","DGPS",33.19,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Compacted sand, 5 attempts made in AM, successfully resampled further away in PM"
+"4146",7/15/2003 0:00:00,"1154","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",12,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4146",8/6/2003 0:00:00,"1305","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",10,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4146",8/20/2003 0:00:00,"1144","PDT","CLAEMD","Trawl","Marine Surveyor","DGPS",-99.00,"Clear",0,"KTS","XX",0,"FT",0,"XX","Calm","K",1,"depth differential greater than 10% and hump in trawl line."
+"4147",8/6/2003 0:00:00,"1007","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",18,"KTS","W",4,"FT",10,"SW","Choppy","N",1,"Net torn; board broken on first trawl"
+"4147",8/18/2003 0:00:00,"1604","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",12,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4148",7/16/2003 0:00:00,"1113","PDT","CSD","Grab","Metro","DGPS",,"Fog",8,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4148",7/17/2003 0:00:00,"1220","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",7,"KTS","E",0,"FT",0,"XX","Calm","None",0,"Trawl track in narrow channel with steep sides. Actual station is untrawlable and has nominal depth of 6m. Adjusted trackline within 100m and has constant depth of 12m. Trawl Hung up on retrieval, but let go before reaching the boat."
+"4149",9/2/2003 0:00:00,"0957","PDT","ABC","Grab","Hey Jude","DGPS",,"Fog",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4149",10/2/2003 0:00:00,"1504","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Overcast",5,"KTS","NW",0,"FT",0,"XX","Calm","None",0,"Red Tide"
+"4150",7/21/2003 0:00:00,"0906","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",6,"KTS","S",2,"FT",12,"SW","Calm","None",0,
+"4150",8/11/2003 0:00:00,"0850","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","None",0,
+"4150",8/25/2003 0:00:00,"0738","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",6,"KTS","W",2,"FT",10,"W","Calm","None",0,
+"4151",8/5/2003 0:00:00,"0650","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",8,"KTS","E",2,"FT",10,"SW","Calm","S",0,
+"4151",8/18/2003 0:00:00,"0722","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",8,"KTS","SE",4,"FT",8,"SW","Rough","Other",0,
+"4152",8/5/2003 0:00:00,"1335","PDT","MEC","Grab","JB","DGPS",,"Clear",4,"KTS","W",2,"FT",14,"SW","Calm","None",0,
+"4152",8/7/2003 0:00:00,"0750","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",0,"KTS","XX",2,"FT",8,"NW","Calm","None",0,
+"4153",7/21/2003 0:00:00,"0055","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",9,"KTS","W",4,"FT",2,"W","Calm","None",0,"in water 0:56; at bottom 15 min; at surface 1:29 total 33 min"
+"4154",7/23/2003 0:00:00,"1255","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",6,"KTS","SW",1,"FT",10,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4154",8/26/2003 0:00:00,"0934","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",5,"KTS","W",2,"FT",10,"SW","Calm","I",0,
+"4154",8/26/2003 0:00:00,"1408","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",12,"KTS","SW",2,"FT",2,"SW","Choppy","None",0,
+"4155",8/7/2003 0:00:00,"0900","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",10,"KTS","W",2,"FT",3,"S","Choppy","None",0,
+"4155",8/15/2003 0:00:00,"1052","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",17,"KTS","W",4,"FT",12,"W","Choppy","None",0,
+"4155",8/18/2003 0:00:00,"1200","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",10,"KTS","NW",4,"FT",8,"NW","Choppy","None",0,
+"4156",7/16/2003 0:00:00,"0725","PDT","CSD","Grab","Metro","DGPS",,"Fog",1,"KTS","XX",0,"FT",0,"XX","Calm","None",0,
+"4156",7/17/2003 0:00:00,"0710","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",2,"KTS","E",0,"FT",0,"XX","Calm","None",0,"Small trawl. Not enough scope out."
+"4156",7/17/2003 0:00:00,"0755","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",1,"KTS","NE",0,"FT",0,"XX","Calm","None",0,"Trawl completed just shy of channel heading into fuel dock."
+"4157",8/20/2003 0:00:00,"0800","PDT","ABC","Trawl","Yellowfin","DGPS",,"Overcast",5,"KTS","SW",3,"FT",10,"SW","Calm","V",0,"5 trawl tracks attempted; 10% rule could not be met; Hueneme Canyon"
+"4157",8/20/2003 0:00:00,"0828","PDT","ABC","Grab","Yellowfin","DGPS",,"Overcast",3,"KTS","W",1,"FT",12,"W","Calm","None",0,
+"4158",8/13/2003 0:00:00,"1342","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",4,"KTS","NW",3,"FT",10,"NW","Choppy","None",0,"Inside kelp bed."
+"4158",9/3/2003 0:00:00,"1036","PDT","SV","Grab","Early Bird","DGPS",,"Clear",11,"KTS","W",3,"FT",6,"W","Rough","None",0,
+"4159",8/21/2003 0:00:00,"1240","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",2,"KTS","NW",1,"FT",8,"NW","Calm","None",0,
+"4159",8/21/2003 0:00:00,"1240","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",2,"KTS","NW",1,"FT",8,"NW","Calm","None",0,
+"4160",7/20/2003 0:00:00,"0936","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",3,"KTS","W",2,"FT",3,"W","Calm","None",0,"in water 9:37; at bottom 27 min; at surface 10:37; total 60 min; unsure of depth; reached end of wire at 1200 m; suspect 757 m depth"
+"4161",8/19/2003 0:00:00,"1600","PDT","MEC","Grab","MEC Avon","DGPS",34.02,"Clear",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4162",7/16/2003 0:00:00,"1109","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",10,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4162",8/7/2003 0:00:00,"1117","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",7,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4162",8/27/2003 0:00:00,"0914","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4163",7/21/2003 0:00:00,"1507","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",18,"KTS","NW",4,"FT",4,"W","Choppy","None",0,"in water 15:08; at bottom 3 min; at surface 15:14; total 6 min"
+"4163",8/8/2003 0:00:00,"1300","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",19,"KTS","NW",4,"FT",3,"NW","Choppy","None",0,
+"4164",7/25/2003 0:00:00,"0859","PDT","CSD","Grab","Metro","DGPS",,"Overcast",2,"KTS","S",1,"FT",15,"W","Calm","None",0,
+"4164",7/28/2003 0:00:00,"0830","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",4,"KTS","N",3,"FT",9,"NW","Calm","None",0,"Lotek time: 14 min"
+"4165",7/23/2003 0:00:00,"0949","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",0,"KTS","XX",3,"FT",10,"SW","Calm","None",0,
+"4165",8/4/2003 0:00:00,"0818","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",2,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4165",8/14/2003 0:00:00,"1006","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4166",8/20/2003 0:00:00,"1205","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",2,"KTS","SW",1,"FT",6,"W","Calm","None",0,
+"4166",8/28/2003 0:00:00,"1333","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",10,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4167",8/25/2003 0:00:00,"0821","PST","MBC","Grab","Alguita","DGPS",,"Fog",5,"KTS","W",0,"M",4,"W","Choppy","None",0,
+"4167",9/3/2003 0:00:00,"1352","PST","MBC","Trawl","Alguita","DGPS",,"Clear",16,"KTS","W",1,"M",3,"W","Choppy","N",1,"Doors, lotek, & net lost due to obstructions on ocean floor."
+"4168",8/18/2003 0:00:00,"1330","PDT","MEC","Grab","MEC Avon","DGPS",25.07,"Clear",3,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"Offset, target coordinates on land"
+"4169",7/17/2003 0:00:00,"1208","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Partly Cloudy",5,"KTS","SE",0,"FT",0,"XX","Calm","G",1,"Net and boards lost, snagged on rocks."
+"4169",7/23/2003 0:00:00,"0828","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",3,"KTS","SE",1,"FT",10,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4170",8/21/2003 0:00:00,"1249","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",5,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4170",8/28/2003 0:00:00,"0741","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Fog",0,"KTS","XX",1,"FT",7,"W","Calm","None",0,
+"4171",7/22/2003 0:00:00,"1158","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",9,"KTS","W",4,"FT",3,"W","Choppy","None",0,"in water 11:59; at bottom 2 min; at surface 12:02; total 3 min; only water - may have hit rock"
+"4171",8/13/2003 0:00:00,"1345","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",10,"KTS","W",4,"FT",8,"W","Choppy","S",1,"Rocky Bottom"
+"4172",7/21/2003 0:00:00,"1140","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",11,"KTS","NW",3,"FT",11,"NW","Choppy","None",0,
+"4172",7/23/2003 0:00:00,"1052","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","NW",10,"FT",9,"NW","Calm","None",0,"Lotek Time: 15 min"
+"4173",7/22/2003 0:00:00,"0958","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",5,"KTS","SW",3,"FT",10,"SE","Calm","None",0,
+"4173",8/4/2003 0:00:00,"1218","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",5,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4173",8/11/2003 0:00:00,"1126","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","None",0,"hard bottom, net rocked, small tear in wing"
+"4174",7/29/2003 0:00:00,"1402","PST","MBC","Grab","None","DGPS",3.00,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","Other",1,"Salinity < 19 PSU.  Equipment type used - YSI"
+"4175",7/30/2003 0:00:00,"0842","PDT","ABC","Grab","Hey Jude","DGPS",,"Fog",2,"KTS","W",2,"FT",10,"W","Calm","M",1,"Kelp Bed, heavy oil slick"
+"4175",7/30/2003 0:00:00,"0845","PDT","ABC","Trawl","Hey Jude","DGPS",,"Fog",2,"KTS","W",2,"FT",10,"W","Calm","M",1,"Kelp Bed, heavy oil slick"
+"4176",9/5/2003 0:00:00,"1400","PDT","ABC","Grab","None","DGPS",0.00,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"Salinity <19 ppt"
+"4177",8/19/2003 0:00:00,"0940","PDT","OCSD","Trawl","Enchanter IV","DGPS",-99.00,"Overcast",5,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4177",9/3/2003 0:00:00,"0854","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4178",7/14/2003 0:00:00,"1339","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",12,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4178",8/6/2003 0:00:00,"1139","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",4,"KTS","S",0,"FT",0,"W","Calm","None",0,
+"4178",10/13/2003 0:00:00,"1608","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",0,"KTS","XX",0,"FT",0,"XX","Calm","N",1,"Station on Beach could not get within 1.4 km of target"
+"4179",8/5/2003 0:00:00,"1408","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",18,"KTS","SW",3,"FT",10,"W","Calm","None",0,
+"4179",8/26/2003 0:00:00,"0630","PST","MBC","Grab","Alguita","DGPS",,"Fog",6,"KTS","W",0,"M",5,"W","Choppy","None",0,
+"4180",7/17/2003 0:00:00,"1035","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",4,"KTS","NW",0,"FT",0,"XX","Calm","Other",1,"To shallow (2.5 m) depth at abandonment.  Could not get closer than 0.337 nm (624 m)  to site"
+"4180",9/29/2003 0:00:00,"0920","PDT","MEC","Trawl","JB","DGPS",,"Overcast",2,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4181",7/23/2003 0:00:00,"0842","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",3,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4181",8/4/2003 0:00:00,"0729","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",0,"KTS","XX",2,"FT",10,"SW","Calm","None",0,
+"4181",8/14/2003 0:00:00,"0852","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"SW","Calm","None",0,
+"4182",7/23/2003 0:00:00,"1330","PST","MBC","Grab","Portunus","DGPS",31.00,"Partly Cloudy",6,"KTS","SE",0,"M",0,"XX","Calm","None",0,"Station on land.  No Special Study Cores taken - too much terrestrial debris."
+"4183",7/29/2003 0:00:00,"1505","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",4,"KTS","SW",4,"FT",9,"SW","Calm","None",0,
+"4183",7/29/2003 0:00:00,"1515","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",4,"KTS","SW",4,"FT",9,"W","Calm","None",0,
+"4184",7/25/2003 0:00:00,"0752","PDT","CSD","Grab","Metro","DGPS",,"Overcast",4,"KTS","S",1,"FT",15,"W","Calm","None",0,
+"4184",7/28/2003 0:00:00,"1206","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",2,"KTS","N",3,"FT",9,"NW","Choppy","None",0,"Lotek time: 11 min"
+"4185",7/31/2003 0:00:00,"0651","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",8,"KTS","W",2,"FT",12,"SW","Calm","None",0,
+"4185",8/21/2003 0:00:00,"0755","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",4,"KTS","SW",2,"FT",12,"SW","Calm","Other",1,"crab traps as cause of failures"
+"4185",8/21/2003 0:00:00,"1532","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",16,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4186",8/19/2003 0:00:00,"1106","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",7,"KTS","E",1,"FT",7,"W","Choppy","None",0,
+"4186",8/22/2003 0:00:00,"0934","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",3,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4187",8/24/2003 0:00:00,"0654","PST","MBC","Grab","Alguita","DGPS",,"Clear",0,"KTS","XX",0,"M",5,"W","Calm","None",0,
+"4187",9/4/2003 0:00:00,"0948","PST","MBC","Trawl","Alguita","DGPS",,"Clear",6,"KTS","W",1,"M",5,"W","Choppy","None",0,
+"4188",7/19/2003 0:00:00,"1432","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",2,"KTS","NW",2,"FT",3,"W","Calm","None",0,"in water 14:33; at bottom 19 min; at surface 15:16; total 43 min; temp 42.1 F; ship visited stations in different order than scientific crew expected"
+"4189",7/23/2003 0:00:00,"0835","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",4,"KTS","SW",4,"FT",10,"W","Calm","None",0,
+"4189",7/23/2003 0:00:00,"0932","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","S",4,"FT",10,"SW","Calm","None",0,
+"4191",8/21/2003 0:00:00,"0858","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"NW","Calm","S",1,"rocky bottom"
+"4191",8/21/2003 0:00:00,"0858","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"NW","Calm","S",1,"pre-trawl survey indicates bottom too rocky to trawl"
+"4192",8/4/2003 0:00:00,"1115","PDT","MEC","Grab","JB","DGPS",,"Clear",4,"KTS","NW",2,"FT",12,"SW","Calm","None",0,
+"4192",8/8/2003 0:00:00,"1404","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",-99,"KTS","NR",-99,"FT",-99,"NR","Calm","None",1,"site is on series of reefs with heavy kelp."
+"4193",9/2/2003 0:00:00,"1150","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4193",10/7/2003 0:00:00,"0730","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Overcast",0,"KTS","XX",0,"FT",0,"XX","Calm","None",0,
+"4194",8/4/2003 0:00:00,"1407","PST","MBC","Grab","Portunus","DGPS",31.00,"Clear",8,"KTS","S",0,"M",0,"XX","Calm","None",0,
+"4195",8/25/2003 0:00:00,"1208","PST","MBC","Grab","Alguita","DGPS",,"Partly Cloudy",9,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4195",9/4/2003 0:00:00,"1829","PST","MBC","Trawl","Alguita","DGPS",,"Clear",0,"KTS","W",0,"M",0,"W","Choppy","S",1,"Three fathometer runs each showed rocky bottom."
+"4196",7/20/2003 0:00:00,"0325","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",2,"KTS","NW",2,"FT",3,"W","Calm","None",0,"in water 3:27; at bottom 11 min; at surface 3:52; total 25 min"
+"4197",8/20/2003 0:00:00,"0952","PDT","MEC","Grab","MEC Avon","DGPS",8.34,"Clear",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Sampled despite low salinity per instructions from Ken Schiff"
+"4198",8/21/2003 0:00:00,"1147","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",3,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4199",8/3/2003 0:00:00,"1038","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",18,"KTS","SW",3,"FT",10,"W","Choppy","None",0,
+"4199",8/23/2003 0:00:00,"0623","PST","MBC","Grab","Alguita","DGPS",,"Clear",12,"KTS","W",1,"M",4,"W","Choppy","None",0,
+"4200",8/6/2003 0:00:00,"1103","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"4200",8/7/2003 0:00:00,"1635","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",7,"KTS","W",3,"FT",8,"W","Choppy","None",0,
+"4201",7/22/2003 0:00:00,"0735","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",1,"KTS","N",1,"FT",8,"SW","Choppy","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4201",8/28/2003 0:00:00,"0718","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",3,"KTS","SE",1,"FT",10,"SW","Calm","None",0,
+"4202",8/20/2003 0:00:00,"0819","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",1,"KTS","NE",1,"FT",7,"W","Calm","None",0,
+"4202",8/28/2003 0:00:00,"0859","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",6,"KTS","W",1,"FT",7,"W","Calm","None",0,
+"4203",7/23/2003 0:00:00,"1138","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",8,"KTS","SW",4,"FT",10,"SW","Calm","None",0,
+"4203",7/23/2003 0:00:00,"1211","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",4,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4204",7/25/2003 0:00:00,"1310","PDT","CSD","Grab","Metro","DGPS",,"Overcast",5,"KTS","NW",0,"FT",0,"XX","Calm","None",0,"Mission Bay - Quivira Basin"
+"4204",10/1/2003 0:00:00,"0714","PDT","MEC","Trawl","JB","DGPS",,"Overcast",0,"KTS","XX",0,"FT",0,"XX","Calm","None",0,"site is in the marina.  Red tide is prominent."
+"4205",7/22/2003 0:00:00,"1118","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",4,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4205",8/4/2003 0:00:00,"1135","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",6,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4205",9/2/2003 0:00:00,"1142","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Overcast",5,"KTS","W",2,"FT",8,"SW","Calm","None",0,
+"4206",8/8/2003 0:00:00,"1130","PST","MBC","Grab","Portunus","DGPS",23.00,"Clear",4,"KTS","SE",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4207",7/24/2003 0:00:00,"1151","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",3,"FT",12,"SW","Calm","None",0,
+"4207",7/24/2003 0:00:00,"1214","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",12,"SW","Calm","None",0,
+"4208",8/7/2003 0:00:00,"1325","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",1,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4208",8/14/2003 0:00:00,"1108","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",2,"KTS","W",2,"FT",8,"W","Calm","None",0,
+"4209",7/28/2003 0:00:00,"0917","PDT","MEC","Grab","MEC Avon","DGPS",27.22,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Original site coordinates had depth < 0.5 m, offset to deeper water"
+"4210",7/15/2003 0:00:00,"1125","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",13,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4210",8/6/2003 0:00:00,"1252","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",8,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4210",10/13/2003 0:00:00,"1610","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4211",8/5/2003 0:00:00,"1148","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",15,"KTS","NW",3,"FT",10,"W","Calm","None",0,
+"4211",8/26/2003 0:00:00,"1027","PST","MBC","Grab","Alguita","DGPS",,"Clear",8,"KTS","SE",0,"M",5,"W","Choppy","None",0,
+"4212",7/17/2003 0:00:00,"1120","PDT","CSD","Grab","Metro","DGPS",,"Fog",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Station located within Coronado Cays in marina next to recrational boats"
+"4212",9/29/2003 0:00:00,"0815","PDT","MEC","Trawl","JB","DGPS",,"Overcast",2,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4213",9/16/2003 0:00:00,"0938","PDT","ABC","Grab","NR","DGPS",20.00,"Partly Cloudy",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4215",7/29/2003 0:00:00,"1123","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",2,"KTS","S",4,"FT",9,"W","Calm","None",0,
+"4215",7/29/2003 0:00:00,"1138","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",2,"KTS","S",4,"FT",9,"W","Calm","None",0,
+"4216",7/19/2003 0:00:00,"1927","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",2,"KTS","NW",2,"FT",2,"W","Calm","None",0,"in water 19:28; at bottom 18 min; at surface 20:10; total 42 min; temp: 42.9 degrees F"
+"4218",8/19/2003 0:00:00,"1154","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",4,"KTS","E",1,"FT",7,"W","Calm","None",0,
+"4219",7/18/2003 0:00:00,"1847","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",5,"KTS","NW",3,"FT",6,"W","Calm","None",0,
+"4220",7/19/2003 0:00:00,"2130","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",6,"KTS","NW",2,"FT",4,"NW","Calm","None",0,"in water 21:32; at bottom 16 min; at surface 22:09; total 37 min; temp: 32.9 degrees F"
+"4221",8/18/2003 0:00:00,"1119","PDT","MEC","Grab","MEC Avon","DGPS",30.65,"Clear",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4222",8/13/2003 0:00:00,"1146","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",10,"KTS","NW",3,"FT",8,"NW","Choppy","None",0,
+"4222",9/3/2003 0:00:00,"1225","PDT","SV","Grab","Early Bird","DGPS",,"Clear",15,"KTS","W",4,"FT",6,"W","Rough","None",0,
+"4223",8/20/2003 0:00:00,"0630","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",5,"KTS","S",1,"FT",8,"W","Calm","S",1,"Rocky Bottom"
+"4223",8/20/2003 0:00:00,"0630","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",5,"KTS","S",1,"FT",8,"W","Calm","S",1,"Rocky Bottom"
+"4224",7/20/2003 0:00:00,"0808","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",5,"KTS","SW",2,"FT",4,"W","Calm","None",0,"in water 8:09; at bottom 15 min; at surface 8:45; total 36 min"
+"4225",7/23/2003 0:00:00,"0900","PDT","MEC","Grab","MEC Avon","DGPS",13.83,"Overcast",3,"KTS","W",0,"FT",0,"XX","Calm","None",1,"Coordinates on land, offset 8 m. Station abandoned due to salinity less than 19 psu"
+"4226",7/16/2003 0:00:00,"0948","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",4,"KTS","SW",0,"FT",0,"XX","Calm","N",1,"Cannot sample station. Navagation hazard. Cable and pipeline crossing area."
+"4226",10/13/2003 0:00:00,"1518","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",8,"KTS","SW",0,"FT",0,"XX","Calm","N ",1,"Hard bottom, Structure off edge of oil Island- Station too close to oil Island"
+"4227",8/6/2003 0:00:00,"0829","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",10,"SW","Choppy","None",0,
+"4227",8/25/2003 0:00:00,"1243","PST","MBC","Grab","Alguita","DGPS",,"Partly Cloudy",9,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4228",7/25/2003 0:00:00,"1052","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",8,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"Mission Bay - Fiesta Island"
+"4230",7/21/2003 0:00:00,"1317","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",14,"KTS","W",2,"FT",10,"SW","Choppy","None",0,
+"4230",8/25/2003 0:00:00,"1210","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",8,"KTS","W",2,"FT",0,"SE","Calm","None",0,
+"4230",9/4/2003 0:00:00,"1141","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",10,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4232",8/5/2003 0:00:00,"1320","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","W",2,"FT",14,"SW","Calm","None",0,
+"4232",8/8/2003 0:00:00,"0846","PDT","MEC","Trawl","Zephyr","DGPS",,"Overcast",0,"KTS","XX",2,"FT",11,"W","Calm","None",0,
+"4233",7/19/2003 0:00:00,"0323","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",7,"KTS","N",3,"FT",2,"NW","Calm","None",0,"arrive 3:23; in water 3:30; total 22 min; temp 45.8 F; organic smell"
+"4234",8/18/2003 0:00:00,"0921","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",0,"KTS","XX",1,"FT",6,"W","Calm","None",0,
+"4235",7/22/2003 0:00:00,"0925","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",5,"KTS","S",3,"FT",3,"W","Choppy","None",0,"in water - 9:52;  at bottom - 2 minutes;  at surface - 9:55;  total 3 minutes"
+"4235",8/13/2003 0:00:00,"1220","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",10,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"4236",7/16/2003 0:00:00,"0901","PDT","CSD","Grab","Metro","DGPS",,"Fog",1,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4237",8/6/2003 0:00:00,"1130","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",9,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4237",8/19/2003 0:00:00,"1506","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",10,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4238",7/24/2003 0:00:00,"0844","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",4,"KTS","SW",1,"FT",4,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4238",8/25/2003 0:00:00,"1202","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",5,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4239",8/4/2003 0:00:00,"0652","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",15,"KTS","NW",3,"FT",10,"W","Choppy","None",0,
+"4239",8/23/2003 0:00:00,"1329","PST","MBC","Grab","Alguita","DGPS",,"Clear",13,"KTS","W",1,"M",2,"W","Choppy","None",0,
+"4240",8/6/2003 0:00:00,"0716","PDT","MEC","Grab","JB","DGPS",,"Overcast",3,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"4240",8/11/2003 0:00:00,"0632","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",12,"W","Calm","None",0,
+"4240",8/12/2003 0:00:00,"1446","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",5,"KTS","W",3,"FT",12,"W","Calm","None",0,
+"4241",7/29/2003 0:00:00,"0855","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",2,"KTS","SE",1,"FT",10,"SW","Calm","None",0,
+"4241",8/27/2003 0:00:00,"1053","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Overcast",5,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4242",7/16/2003 0:00:00,"1226","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",17,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4242",8/6/2003 0:00:00,"1338","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",12,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4243",7/22/2003 0:00:00,"1557","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",2,"KTS","SW",3,"FT",4,"NW","Calm","None",0,"in water 1:58; to bottom 2 min; at surface 16:02; total 3 min"
+"4243",8/14/2003 0:00:00,"0935","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",0,"KTS","XX",1,"FT",9,"W","Calm","None",0,
+"4244",7/22/2003 0:00:00,"1207","PDT","CSD","Grab","Metro","DGPS",,"Fog",6,"KTS","W",3,"FT",12,"NW","Calm","None",0,
+"4244",7/30/2003 0:00:00,"1054","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","SE",2,"FT",11,"SW","Calm","None",0,"Lotek 15 min"
+"4245",9/16/2003 0:00:00,"1100","PDT","ABC","Grab","None","DGPS",,"NR",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"No Access"
+"4246",8/8/2003 0:00:00,"1122","PDT","MEC","Grab","JB","DGPS",,"Clear",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4247",7/24/2003 0:00:00,"1425","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",12,"SW","Calm","S",1,"Reef in all locations. Past experience with lost trawl nets on same tracks. Total of 6 grabs attempted with no luck."
+"4247",7/24/2003 0:00:00,"1440","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",12,"SW","Calm","S",1,"Reef in all locations. Past experience with lost trawl nets on same tracks. Total of 6 grabs attempted with no luck."
+"4248",7/22/2003 0:00:00,"1230","PDT","CSD","Grab","Metro","DGPS",,"Fog",8,"KTS","W",3,"FT",12,"NW","Calm","None",0,
+"4248",7/30/2003 0:00:00,"0940","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",2,"KTS","NE",2,"FT",11,"SW","Calm","None",0,"Lotek 14 min"
+"4249",7/21/2003 0:00:00,"0632","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",11,"KTS","NW",4,"FT",4,"W","Choppy","None",0,"in water 6:34; to bottom 12 min; at surface 7:02; total 27 min"
+"4250",8/19/2003 0:00:00,"0743","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",7,"KTS","E",1,"FT",6,"W","Choppy","None",0,
+"4250",8/22/2003 0:00:00,"1000","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",8,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4251",8/22/2003 0:00:00,"0936","PST","MBC","Grab","Alguita","DGPS",,"Overcast",4,"KTS","SE",0,"M",4,"SW","Calm","None",0,
+"4251",8/27/2003 0:00:00,"0807","PST","MBC","Trawl","Alguita","DGPS",,"Clear",1,"KTS","W",0,"M",4,"W","Calm","H",1,"Torn net due to obstructions on ocean floor."
+"4252",7/19/2003 0:00:00,"0842","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",1,"KTS","SW",2,"FT",2,"N","Calm","None",0,"in water 8:44; total 16 min"
+"4253",7/22/2003 0:00:00,"1409","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",5,"KTS","SW",4,"FT",10,"SW","Calm","None",0,
+"4253",7/22/2003 0:00:00,"1428","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","SW",4,"FT",10,"SW","Confused","None",0,
+"4254",8/19/2003 0:00:00,"0920","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",6,"KTS","E",1,"FT",6,"W","Calm","None",0,
+"4254",8/22/2003 0:00:00,"0858","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",5,"KTS","NW",1,"FT",6,"W","Calm","None",0,
+"4254",8/25/2003 0:00:00,"0921","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",8,"KTS","NW",1,"FT",6,"W","Calm","None",0,
+"4255",8/20/2003 0:00:00,"1225","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",5,"KTS","NW",4,"FT",8,"NW","Calm","None",0,
+"4255",8/20/2003 0:00:00,"1225","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",8,"NW","Calm","None",0,
+"4256",7/21/2003 0:00:00,"1204","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",10,"KTS","NW",3,"FT",11,"NW","Choppy","None",0,"Dropped grab 4 because grab 5 didn't match for sediment type."
+"4256",7/23/2003 0:00:00,"1229","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","S",10,"FT",9,"NW","Calm","None",0,"Lotek time : 12 min"
+"4257",9/3/2003 0:00:00,"0822","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",4,"KTS","NW",0,"FT",0,"XX","Calm","None",0,
+"4258",7/29/2003 0:00:00,"1048","PST","MBC","Grab","Portunus","DGPS",31.00,"Clear",3,"KTS","S",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4259",7/22/2003 0:00:00,"0820","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",6,"KTS","SW",3,"FT",10,"SW","Confused","None",0,
+"4259",7/22/2003 0:00:00,"0846","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",3,"FT",10,"SW","Choppy","None",0,
+"4260",7/22/2003 0:00:00,"1011","PDT","CSD","Grab","Metro","DGPS",,"Fog",6,"KTS","NW",3,"FT",12,"NW","Calm","None",0,
+"4260",7/24/2003 0:00:00,"1013","PDT","CSD","Trawl","Monitor III","DGPS",,"Fog",5,"KTS","W",10,"FT",9,"W","Calm","None",0,"Station depth 124 m; Net on bottom for 12 min."
+"4261",7/31/2003 0:00:00,"1254","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Partly Cloudy",8,"KTS","W",2,"FT",12,"SW","Calm","None",0,"320 m nominal"
+"4261",8/21/2003 0:00:00,"1130","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",8,"KTS","NW",2,"FT",12,"SW","Calm","None",0,
+"4261",8/21/2003 0:00:00,"1333","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",11,"KTS","NW",2,"FT",12,"SW","Calm","None",0,
+"4262",8/21/2003 0:00:00,"0921","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4263",8/3/2003 0:00:00,"1349","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",23,"KTS","SW",3,"FT",9,"W","Rough","None",0,
+"4263",8/22/2003 0:00:00,"1626","PST","MBC","Grab","Alguita","DGPS",,"Partly Cloudy",10,"KTS","W",1,"M",4,"W","Choppy","None",0,
+"4264",7/25/2003 0:00:00,"0843","PDT","MEC","Grab","MEC Avon","DGPS",31.70,"Overcast",1,"KTS","E",0,"FT",0,"XX","Calm","None",0,
+"4265",7/29/2003 0:00:00,"0835","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",3,"KTS","E",1,"FT",10,"SW","Calm","None",0,
+"4265",8/27/2003 0:00:00,"0800","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Overcast",0,"KTS","XX",2,"FT",10,"SW","Calm","None",0,
+"4266",7/14/2003 0:00:00,"0822","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",10,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"Sampling 20 m from target coordinates"
+"4266",8/6/2003 0:00:00,"0744","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Overcast",7,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4266",8/20/2003 0:00:00,"0740","PDT","CLAEMD","Trawl","Marine Surveyor","DGPS",-99.00,"Clear",0,"KTS","XX",0,"FT",0,"XX","Calm","N",1,"Obstructions/obstacles on trawl route bottom"
+"4267",7/25/2003 0:00:00,"1325","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SE",4,"FT",10,"SW","Calm","None",0,
+"4267",7/25/2003 0:00:00,"1342","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",4,"FT",10,"SW","Calm","None",0,
+"4268",7/18/2003 0:00:00,"1035","PDT","CSD","Grab","Metro","DGPS",,"Fog",6,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"Off Baili Hai restaurant. Few sailboats nearby"
+"4269",7/23/2003 0:00:00,"1305","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",7,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4269",8/4/2003 0:00:00,"1033","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",3,"FT",8,"SW","Calm","None",0,
+"4269",9/2/2003 0:00:00,"0815","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Fog",4,"KTS","W",2,"FT",8,"S","Calm","None",0,
+"4270",8/8/2003 0:00:00,"0915","PST","MBC","Grab","Portunus","DGPS",25.00,"Clear",4,"KTS","SE",0,"M",0,"XX","Calm","None",0,
+"4272",7/21/2003 0:00:00,"1246","PDT","MEC","Grab","MEC Avon","DGPS",32.98,"Overcast",2,"KTS","SW",0,"FT",0,"XX","Calm","Other",0,"Station resampled because toxicity sample was not processed within holding time"
+"4272",8/21/2003 0:00:00,"0930","PDT","MEC","Grab","MEC Avon","DGPS",33.00,"Overcast",2,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Station resampled because toxicity sample was not processed within holding time"
+"4273",7/24/2003 0:00:00,"1315","PDT","MEC","Grab","MEC Avon","DGPS",33.53,"Clear",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"Original coordinates outside Santa Ana River, offset approx 60 m"
+"4274",7/16/2003 0:00:00,"1026","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4274",8/7/2003 0:00:00,"1231","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",12,"KTS","S",0,"FT",0,"W","Calm","None",0,
+"4276",7/25/2003 0:00:00,"1157","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",6,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Mission Bay - Sail bay Santa Clara Point"
+"4277",7/21/2003 0:00:00,"1345","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",12,"KTS","W",2,"FT",10,"SW","Choppy","None",0,
+"4277",8/25/2003 0:00:00,"1232","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",7,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4277",9/4/2003 0:00:00,"1303","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",10,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4278",7/22/2003 0:00:00,"0900","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",3,"KTS","SE",3,"FT",10,"SW","Calm","None",0,
+"4278",8/11/2003 0:00:00,"1249","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","S",1,"Net snagged on bottom and ripped in half"
+"4278",8/25/2003 0:00:00,"1128","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",7,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4279",8/25/2003 0:00:00,"0548","PST","MBC","Grab","Alguita","DGPS",,"Fog",5,"KTS","W",0,"M",4,"W","Choppy","None",0,
+"4279",9/3/2003 0:00:00,"1125","PST","MBC","Trawl","Alguita","DGPS",,"Partly Cloudy",20,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4280",8/5/2003 0:00:00,"0740","PDT","MEC","Grab","JB","DGPS",,"Overcast",1,"KTS","W",2,"FT",14,"SW","Calm","None",0,
+"4280",8/8/2003 0:00:00,"1104","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",2,"KTS","W",3,"FT",11,"W","Calm","None",0,
+"4282",8/20/2003 0:00:00,"1116","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",2,"KTS","S",1,"FT",6,"W","Calm","None",0,
+"4283",7/18/2003 0:00:00,"1600","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",3,"KTS","S",4,"FT",6,"W","Calm","None",0,"on deck 16:40; two doors open upon retrieval; took samples from closed grab chambers"
+"4284",7/18/2003 0:00:00,"0955","PDT","CSD","Grab","Metro","DGPS",,"Drizzle",5,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Station located inside Cortez Marina at Harbor Island"
+"4285",8/6/2003 0:00:00,"1258","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",15,"KTS","W",3,"FT",10,"SW","Calm","None",0,
+"4285",8/19/2003 0:00:00,"1423","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",10,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4286",7/24/2003 0:00:00,"0825","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",7,"KTS","SW",1,"FT",4,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4286",8/25/2003 0:00:00,"0950","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",5,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4287",8/22/2003 0:00:00,"1200","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",2,"KTS","S",1,"FT",6,"NW","Calm","M",1,"Kelp"
+"4287",8/22/2003 0:00:00,"1200","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",2,"KTS","W",1,"FT",6,"NW","Calm","M",1,"Station in middle of kelp bed"
+"4288",8/18/2003 0:00:00,"1249","PDT","MEC","Grab","MEC Avon","DGPS",24.77,"Clear",3,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4289",9/5/2003 0:00:00,"1400","PDT","ABC","Grab","None","DGPS",,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"No Access"
+"4290",8/19/2003 0:00:00,"1403","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",3,"KTS","S",1,"FT",6,"W","Calm","None",0,
+"4290",8/26/2003 0:00:00,"1328","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",11,"KTS","SW",1,"FT",6,"W","Calm","None",0,
+"4291",7/25/2003 0:00:00,"1108","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",6,"KTS","SE",4,"FT",10,"SW","Choppy","None",0,
+"4291",7/25/2003 0:00:00,"1120","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",4,"KTS","SE",4,"FT",10,"SW","Choppy","None",0,
+"4292",7/23/2003 0:00:00,"1047","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",6,"KTS","SW",1,"FT",14,"W","Calm","M",1,"Kelp bed w/in 1/2 mile radius of site."
+"4292",7/23/2003 0:00:00,"1054","PDT","CSD","Trawl","Metro","DGPS",,"Partly Cloudy",7,"KTS","SW",1,"FT",14,"W","Calm","M",1,"Kelp bed w/in 1/2 mi. radius around site. Depth 21 m"
+"4293",8/20/2003 0:00:00,"0921","PDT","MEC","Grab","MEC Avon","DGPS",,"Clear",2,"KTS","S",0,"FT",0,"XX","Calm","S",1,"Entire channel is rocky bottom, unable to sample"
+"4294",8/20/2003 0:00:00,"1312","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",5,"KTS","W",0,"FT",0,"W","Calm","None",0,
+"4294",8/28/2003 0:00:00,"1156","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",6,"KTS","W",1,"FT",5,"W","Calm","None",0,
+"4295",8/5/2003 0:00:00,"0749","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",6,"KTS","W",2,"FT",12,"SW","Calm","None",0,
+"4295",8/24/2003 0:00:00,"1212","PST","MBC","Grab","Alguita","DGPS",,"Clear",8,"KTS","W",1,"M",4,"W","Calm","None",0,
+"4296",8/6/2003 0:00:00,"1030","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",3,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"4296",8/14/2003 0:00:00,"0634","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",0,"KTS","XX",3,"FT",15,"W","Calm","None",0,
+"4297",7/22/2003 0:00:00,"0838","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",5,"KTS","SW",1,"FT",8,"SW","Choppy","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4297",8/28/2003 0:00:00,"1048","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",6,"KTS","SE",2,"FT",10,"SW","Calm","None",0,
+"4297",8/28/2003 0:00:00,"1052","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",5,"KTS","SE",2,"FT",10,"SW","Calm","G",1,"Floats crushed. Abandon station."
+"4298",7/20/2003 0:00:00,"2152","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",10,"KTS","W",3,"FT",3,"W","Calm","None",0,"in water 21:53; at bottom 14 min; at surface 22:24; total 31 min"
+"4299",7/22/2003 0:00:00,"0817","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",5,"KTS","S",3,"FT",3,"W","Choppy","None",0,"in water - 8:19;  at bottom - 2 minutes;  at surface 8:22;  total 3 minutes; slight shell hash; no infauna - insufficient depth"
+"4299",8/13/2003 0:00:00,"1500","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",4,"FT",8,"NW","Choppy","S",1,"Rocky Bottom"
+"4300",7/22/2003 0:00:00,"0741","PDT","CSD","Grab","Metro","DGPS",,"Fog",5,"KTS","NW",3,"FT",12,"NW","Calm","None",0,"Near shipping channel"
+"4300",7/24/2003 0:00:00,"0724","PDT","CSD","Trawl","Monitor III","DGPS",,"Fog",2,"KTS","NE",10,"FT",9,"SW","Calm","None",0,"Good trawl. Net on bottom for 12 min."
+"4301",7/22/2003 0:00:00,"0930","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",2,"KTS","W",3,"FT",10,"SW","Calm","None",0,
+"4301",8/25/2003 0:00:00,"1147","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",8,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4301",9/4/2003 0:00:00,"1122","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",10,"KTS","SW",2,"FT",10,"SW","Calm","Other",1,"High relief and crab traps"
+"4302",7/29/2003 0:00:00,"1411","PST","MBC","Grab","None","DGPS",2.00,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","Other",1,"Salinity < 19 PSU.  Equipment type used - YSI"
+"4304",7/21/2003 0:00:00,"1152","PDT","MEC","Grab","MEC Avon","DGPS",32.91,"Overcast",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4305",8/18/2003 0:00:00,"1030","PDT","MEC","Grab","MEC Avon","DGPS",31.80,"Clear",7,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4306",7/15/2003 0:00:00,"0952","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4306",8/6/2003 0:00:00,"1203","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",5,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4307",8/7/2003 0:00:00,"1020","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",3,"KTS","E",3,"FT",3,"S","Choppy","N",1,"Too close to shore to sample"
+"4307",8/7/2003 0:00:00,"1020","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",3,"KTS","E",3,"FT",3,"S","Choppy","N ",1,"Too close to shore to sample"
+"4308",7/17/2003 0:00:00,"0940","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",9,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4309",7/23/2003 0:00:00,"0717","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",3,"KTS","W",2,"FT",10,"SW","Calm","None",0,
+"4309",8/4/2003 0:00:00,"0638","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",2,"KTS","N",2,"FT",10,"SW","Calm","None",0,
+"4309",8/14/2003 0:00:00,"0718","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"SW","Calm","None",0,
+"4310",7/29/2003 0:00:00,"0830","PST","MBC","Grab","Portunus","DGPS",,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","C",1,"Hard clay prevented the jaw from penetrating and/or closing."
+"4312",7/25/2003 0:00:00,"0820","PDT","CSD","Grab","Metro","DGPS",,"Overcast",7,"KTS","S",1,"FT",15,"W","Calm","None",0,
+"4312",7/28/2003 0:00:00,"0945","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",12,"KTS","S",3,"FT",9,"NW","Calm","None",0,"Lotek time: 17 min; too long"
+"4312",7/28/2003 0:00:00,"1054","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",11,"KTS","S",3,"FT",9,"NW","Calm","None",0,"Lotek time: 14 min"
+"4314",8/20/2003 0:00:00,"1019","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",0,"KTS","XX",1,"FT",6,"W","Calm","None",0,"Target location was rocky.  Moved within 100 m to find soft bottom."
+"4315",7/30/2003 0:00:00,"1126","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",4,"KTS","W",3,"FT",10,"W","Calm","None",0,
+"4315",7/30/2003 0:00:00,"1132","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",4,"KTS","SW",2,"FT",10,"W","Calm","None",0,
+"4316",7/20/2003 0:00:00,"0142","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",5,"KTS","NW",2,"FT",4,"W","Calm","None",0,"in water 1:43; at bottom 19 min; at surface 2:26; total 43 min"
+"4317",7/23/2003 0:00:00,"0959","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",5,"KTS","S",4,"FT",10,"SW","Calm","None",0,
+"4317",7/23/2003 0:00:00,"1047","PDT","ABC","Trawl","Hey Jude","DGPS",,"Overcast",5,"KTS","S",4,"FT",10,"SW","Calm","None",0,
+"4318",9/3/2003 0:00:00,"1410","PDT","SV","Grab","Early Bird","DGPS",,"Clear",18,"KTS","W",0,"FT",0,"W","Calm","None",0,
+"4319",8/20/2003 0:00:00,"0820","PDT","CINMS","Grab","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",8,"NW","Calm","S",1,"Rocky Bottom"
+"4319",8/20/2003 0:00:00,"0820","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",8,"NW","Calm","S",1,"Rocky Bottom"
+"4320",8/4/2003 0:00:00,"0950","PDT","MEC","Grab","JB","DGPS",,"Clear",2,"KTS","NW",2,"FT",12,"SW","Calm","None",0,
+"4320",8/8/2003 0:00:00,"1215","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",4,"KTS","W",3,"FT",8,"SW","Calm","None",0,
+"4321",9/2/2003 0:00:00,"1212","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",8,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4322",8/4/2003 0:00:00,"1542","PST","MBC","Grab","Portunus","DGPS",30.00,"Clear",9,"KTS","SW",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4323",8/6/2003 0:00:00,"0705","PDT","ABC","Trawl","Yellowfin","DGPS",,"Partly Cloudy",10,"KTS","NW",4,"FT",10,"W","Choppy","None",0,
+"4323",8/25/2003 0:00:00,"1129","PST","MBC","Grab","Alguita","DGPS",,"Fog",10,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4326",8/20/2003 0:00:00,"1330","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",4,"KTS","SW",1,"FT",6,"W","Calm","None",0,
+"4326",8/28/2003 0:00:00,"1049","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Clear",6,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4327",8/4/2003 0:00:00,"0900","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",18,"KTS","NW",4,"FT",10,"W","Choppy","None",0,
+"4327",8/22/2003 0:00:00,"1429","PST","MBC","Grab","Alguita","DGPS",,"Partly Cloudy",7,"KTS","W",1,"M",4,"W","Choppy","None",0,
+"4328",8/6/2003 0:00:00,"1118","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"4328",8/7/2003 0:00:00,"1739","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",7,"KTS","W",3,"FT",8,"W","Choppy","None",0,
+"4329",7/23/2003 0:00:00,"1140","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",2,"KTS","SW",1,"FT",10,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4329",8/27/2003 0:00:00,"1209","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",4,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4330",8/18/2003 0:00:00,"1002","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",2,"KTS","SE",1,"FT",7,"W","Calm","None",0,
+"4331",7/23/2003 0:00:00,"1440","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","W",4,"FT",10,"SW","Choppy","None",0,
+"4331",7/23/2003 0:00:00,"1456","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","W",4,"FT",10,"SW","Choppy","None",0,
+"4332",7/25/2003 0:00:00,"0940","PDT","CSD","Grab","Metro","DGPS",,"Overcast",1,"KTS","W",1,"FT",15,"W","Calm","None",0,
+"4332",7/29/2003 0:00:00,"1255","PDT","CSD","Trawl","Monitor III","DGPS",,"Clear",8,"KTS","N",3,"FT",11,"W","Calm","N",1,"Station is right in the midst of wreck alley near an old navy tower. Lg. tower-like obstruction seen in mulit. Approaches to the station."
+"4334",8/8/2003 0:00:00,"1420","PST","MBC","Grab","Portunus","DGPS",,"Clear",3,"KTS","NW",0,"M",0,"XX","Calm","S",1,"Poor or no penetration occurred at all sites."
+"4336",8/13/2003 0:00:00,"0821","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",3,"KTS","W",2,"FT",14,"SW","Choppy","None",0,
+"4336",9/3/2003 0:00:00,"0826","PDT","SV","Grab","Early Bird","DGPS",,"Clear",3,"KTS","E",2,"FT",10,"W","Calm","None",0,
+"4337",8/18/2003 0:00:00,"1653","PDT","MEC","Grab","MEC Avon","DGPS",29.10,"Clear",10,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4338",7/15/2003 0:00:00,"1038","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4338",8/6/2003 0:00:00,"1237","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",8,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4339",7/22/2003 0:00:00,"1456","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",4,"KTS","SW",3,"FT",3,"W","Calm","None",0,"in water 2:57; to bottom 1 min; at surface 2:59; total 2 min"
+"4339",8/14/2003 0:00:00,"1130","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",0,"KTS","XX",1,"FT",9,"W","Calm","None",0,
+"4340",7/17/2003 0:00:00,"0827","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",9,"KTS","S",0,"FT",0,"XX","Calm","Other",0,"Between naval piers 5 and 6 restricted. Could not obtain accwss to get within Naval security zone."
+"4340",7/31/2003 0:00:00,"0925","PDT","CSD","Grab","Metro","DGPS",,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Between pier 5 and 4 near old sewer outfall inside navy security area."
+"4341",9/2/2003 0:00:00,"0750","PDT","ABC","Grab","Hey Jude","DGPS",,"Fog",2,"KTS","N",0,"FT",0,"XX","Calm","None",0,
+"4343",8/24/2003 0:00:00,"1327","PST","MBC","Grab","Alguita","DGPS",,"Clear",8,"KTS","W",1,"M",4,"W","Choppy","None",0,
+"4343",9/3/2003 0:00:00,"0728","PST","MBC","Trawl","Alguita","DGPS",,"Overcast",4,"KTS","W",0,"M",4,"W","Choppy","None",0,
+"4345",7/21/2003 0:00:00,"0312","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",10,"KTS","NW",3,"FT",3,"W","Calm","None",0,"in water 3:14; at bottom 17 min; at surface 3:53; total 39 min; lots of clay"
+"4346",8/19/2003 0:00:00,"1116","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Overcast",3,"KTS","E",1,"FT",6,"W","Calm","None",0,
+"4347",8/7/2003 0:00:00,"1020","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",10,"KTS","W",3,"FT",3,"S","Choppy","None",0,
+"4347",8/15/2003 0:00:00,"0945","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",13,"KTS","W",3,"FT",12,"W","Choppy","None",0,
+"4348",7/18/2003 0:00:00,"0723","PDT","CSD","Grab","Metro","DGPS",,"Fog",1,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Sampled outside turning basin for aircraft carrier (actual station located outside basin)."
+"4349",7/22/2003 0:00:00,"1230","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",6,"KTS","SW",5,"FT",13,"SW","Choppy","None",0,
+"4349",7/22/2003 0:00:00,"1301","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","SW",4,"FT",10,"SW","Confused","None",0,
+"4350",8/13/2003 0:00:00,"1234","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",10,"KTS","NW",3,"FT",8,"NW","Choppy","None",0,
+"4350",9/3/2003 0:00:00,"1152","PDT","SV","Grab","Early Bird","DGPS",,"Clear",15,"KTS","W",3,"FT",6,"W","Rough","None",0,
+"4351",8/21/2003 0:00:00,"1705","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",5,"KTS","W",3,"FT",8,"NW","Calm","None",0,
+"4351",8/21/2003 0:00:00,"1705","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",5,"KTS","W",2,"FT",8,"NW","Calm","None",0,
+"4352",7/20/2003 0:00:00,"1150","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",4,"KTS","NW",1,"FT",2,"W","Calm","None",0,"in water 11:51; at bottom 16 min; at surface 12:30; total 39 min"
+"4353",9/5/2003 0:00:00,"1400","PDT","ABC","Grab","None","DGPS",,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"Harbor seal sanctuary; access limited to canoes"
+"4354",7/15/2003 0:00:00,"1229","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4354",8/7/2003 0:00:00,"1021","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",6,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4356",8/1/2003 0:00:00,"1030","PDT","CSD","Grab","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","NW",1,"FT",7,"W","Choppy","None",0,
+"4356",8/11/2003 0:00:00,"1135","PDT","MEC","Trawl","Zephyr","DGPS",,"Partly Cloudy",5,"KTS","NW",2,"FT",10,"W","Calm","None",0,
+"4358",7/22/2003 0:00:00,"0744","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",5,"KTS","SW",3,"FT",12,"SW","Calm","None",0,
+"4358",8/11/2003 0:00:00,"1325","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Partly Cloudy",5,"KTS","NE",2,"FT",8,"W","Calm","S",1,"Too rocky to trawl"
+"4358",8/25/2003 0:00:00,"1113","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Fog",8,"KTS","W",3,"FT",10,"SW","Calm","None",0,
+"4359",7/18/2003 0:00:00,"1742","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",3,"KTS","W",3,"FT",5,"W","Calm","None",0,"60 yards off grab site (bottom); successful grab; temp: 45.11 F"
+"4360",7/22/2003 0:00:00,"0903","PDT","MEC","Grab","MEC Avon","DGPS",39.42,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Original site coordinates at 0.3 m depth"
+"4361",7/20/2003 0:00:00,"1300","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",6,"KTS","NW",1,"FT",3,"W","Calm","None",0,"in water 13:01; at bottom 17 min; at surface 13:41; total 40 min"
+"4362",8/20/2003 0:00:00,"1138","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Haze",2,"KTS","W",1,"FT",6,"W","Calm","None",0,
+"4363",7/22/2003 0:00:00,"0606","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",14,"KTS","W",4,"FT",4,"NW","Choppy","None",0,"in water-6:07; at bottom-4 min.; at surface-6:16; total-9 min; second grab ubsuccessful; top was open - washed"
+"4363",8/7/2003 0:00:00,"1402","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",3,"KTS","E",3,"FT",3,"S","Choppy","S",1,"Rocks in net"
+"4364",7/16/2003 0:00:00,"0929","PDT","CSD","Grab","Metro","DGPS",,"Fog",4,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4365",7/23/2003 0:00:00,"1353","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Partly Cloudy",9,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4365",8/4/2003 0:00:00,"1359","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",2,"FT",8,"SW","Calm","None",0,
+"4365",8/14/2003 0:00:00,"1224","PDT","CLAEMD","Trawl","La Mer","DGPS",-99.00,"Clear",8,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4366",7/24/2003 0:00:00,"0800","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",4,"KTS","SW",1,"FT",4,"SW","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4366",8/25/2003 0:00:00,"1030","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Haze",4,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"4367",7/30/2003 0:00:00,"0938","PDT","ABC","Grab","Hey Jude","DGPS",,"Fog",2,"KTS","W",2,"FT",10,"W","Calm","None",0,
+"4367",7/30/2003 0:00:00,"0945","PDT","ABC","Trawl","Hey Jude","DGPS",,"Fog",2,"KTS","W",2,"FT",10,"W","Calm","None",0,
+"4368",7/20/2003 0:00:00,"0707","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",4,"KTS","W",2,"FT",3,"W","Calm","None",0,"in water 7:10; at bottom 14 min; at surface 7:42; total 32 min"
+"4369",7/29/2003 0:00:00,"0749","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",0,"KTS","XX",1,"FT",10,"SW","Calm","None",0,
+"4369",8/27/2003 0:00:00,"1404","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",8,"KTS","S",2,"FT",10,"SW","Calm","None",0,
+"4370",7/15/2003 0:00:00,"1230","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",4,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4370",8/7/2003 0:00:00,"1036","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",12,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4371",7/21/2003 0:00:00,"1335","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",15,"KTS","NW",4,"FT",3,"W","Choppy","None",0,"in water 13:36; at bottom 1 min: at surface13:39; total 3 min; shallow site"
+"4371",8/8/2003 0:00:00,"1430","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",19,"KTS","NW",4,"FT",3,"NW","Choppy","None",0,
+"4372",7/17/2003 0:00:00,"1050","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",8,"KTS","SW",0,"FT",0,"XX","Calm","Other",1,"Too shallow. Closest to site 2.365 nm (491 m). Depth at abandonment 3.0 m (edge of channel)"
+"4373",9/16/2003 0:00:00,"1100","PDT","ABC","Grab","None","DGPS",,"NR",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"No Access"
+"4374",7/23/2003 0:00:00,"1340","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Clear",6,"KTS","SW",1,"FT",10,"SW","Choppy","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"4374",8/26/2003 0:00:00,"1321","PDT","OCSD","Trawl","Yellowfin","GPS",-99.00,"Clear",10,"KTS","SW",2,"FT",10,"SW","Choppy","None",0,
+"4375",7/24/2003 0:00:00,"1455","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",6,"KTS","SW",4,"FT",12,"SW","Calm","C",1,"7 grabs attempted. None good. Reef, cobble and rock in all locations. Trawl tracks no good either, nets lost in area on previous occasions."
+"4375",7/24/2003 0:00:00,"1530","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",6,"KTS","SW",4,"FT",12,"SW","Calm","Other",1,"1 hour spent attempting grabs with no luck. Reef throughout area. No good trawl tracks found. Nets lost in area on previous surveys."
+"4376",7/22/2003 0:00:00,"1059","PDT","CSD","Grab","Metro","DGPS",,"Fog",7,"KTS","NW",3,"FT",12,"NW","Calm","None",0,
+"4376",7/30/2003 0:00:00,"0801","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",6,"KTS","SE",2,"FT",11,"SW","Calm","None",0,"Lotek 13 min"
+"4377",7/18/2003 0:00:00,"2305","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",9,"KTS","NW",3,"FT",5,"S","Calm","None",0,"arrive 23:58; in water 23:59; total 14 min; 1st grab unsuccessful - grab did not hit bottom"
+"4378",8/18/2003 0:00:00,"1109","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",2,"KTS","SE",1,"FT",6,"W","Calm","None",0,
+"4378",8/26/2003 0:00:00,"0742","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",6,"KTS","NW",1,"FT",7,"W","Calm","S",1,"Unable to locate trawlable track free of rocky outcropping."
+"4379",8/24/2003 0:00:00,"0847","PST","MBC","Grab","Alguita","DGPS",,"Clear",0,"KTS","XX",0,"M",5,"W","Calm","None",0,
+"4379",9/4/2003 0:00:00,"1430","PST","MBC","Trawl","Alguita","DGPS",,"Clear",9,"KTS","W",1,"M",6,"W","Calm","S",1,"Three fathometer runs each showed rocky bottom."
+"4380",7/19/2003 0:00:00,"1008","PDT","CINMS","Grab","McArthur II","DGPS",,"Partly Cloudy",4,"KTS","SW",1,"FT",5,"N","Calm","None",0,"in water 10:10; at bottom 19 min; at surface 10:54; total 44 min; temp 42.8 F"
+"4381",7/22/2003 0:00:00,"1703","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",10,"KTS","SW",4,"FT",10,"SW","Choppy","None",0,
+"4381",7/22/2003 0:00:00,"1722","PDT","ABC","Trawl","Hey Jude","DGPS",,"Partly Cloudy",12,"KTS","SW",4,"FT",10,"SW","Confused","None",0,
+"4382",8/18/2003 0:00:00,"1240","PDT","LACSD","Grab","Ocean Sentinel","DGPS",-99.00,"Clear",0,"KTS","XX",1,"FT",8,"W","Calm","Other",0,"Site outside depth limit of stratum.  Unable to reoccupy within 100 m of target coordinates and within 10% of the 500 m stratum depth limit"
+"4382",8/25/2003 0:00:00,"2359","PDT","LACSD","Trawl","Ocean Sentinel","DGPS",-99.00,"Haze",-99,"KTS","NR",1,"FT",6,"NR","Calm","Other",1,"Based on investigation of site during benthic sampling, it was determined that site is outside depth limit of stratum.  Unable to locate trawl track within 100 m  of target coordinates and within 10% of the 500 m stratum depth limit.  "
+"4383",8/20/2003 0:00:00,"0900","PDT","CINMS","Grab","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",8,"NW","Calm","S",1,"rocky bottom"
+"4383",8/20/2003 0:00:00,"0900","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",8,"NW","Calm","S",1,"Pre-trawl survey indicated mountainous bottom"
+"4384",8/4/2003 0:00:00,"1140","PDT","MEC","Grab","JB","DGPS",,"Clear",2,"KTS","NW",4,"FT",12,"SW","Calm","None",0,
+"4384",8/7/2003 0:00:00,"1036","PDT","MEC","Trawl","Zephyr","DGPS",,"Clear",1,"KTS","W",3,"FT",12,"NW","Calm","None",0,
+"4386",7/25/2003 0:00:00,"1130","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",15,"KTS","SW",0,"FT",0,"XX","Calm","N",1,"Station is proximate to the dock, could get to within 90 m but with SW wind and boat traffic was unsafe.  The captain made the decision that it was not safe to trawl this site."
+"4386",8/8/2003 0:00:00,"0853","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4387",7/22/2003 0:00:00,"1857","PDT","ABC","Grab","Hey Jude","DGPS",,"Partly Cloudy",8,"KTS","SW",0,"FT",0,"XX","Calm","Other",1,"Site located on land. Closest possible sampling site over 100m from nominal location."
+"4388",7/21/2003 0:00:00,"0805","PDT","CSD","Grab","Metro","DGPS",,"Overcast",10,"KTS","N",3,"FT",11,"NW","Choppy","S",1,"Rocky bottom"
+"4388",7/21/2003 0:00:00,"0805","PDT","CSD","Trawl","Metro","DGPS",,"Overcast",10,"KTS","N",17,"FT",11,"NW","Choppy","S",1,"Rocky bottom"
+"4389",7/31/2003 0:00:00,"1119","PDT","CLAEMD","Grab","La Mer","DGPS",-99.00,"Overcast",10,"KTS","W",2,"FT",12,"SW","Calm","Other",1,"steep angle rocky bottom 96 m nominal  Abandoned: met grab attempt requirement"
+"4392",7/19/2003 0:00:00,"0741","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",4,"KTS","NW",3,"FT",4,"N","Calm","None",0,"in water 7:42, total time 16min; temp 44.7, perhaps thermometer error"
+"4398",7/20/2003 0:00:00,"0529","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",5,"KTS","SW",2,"FT",3,"W","Calm","None",0,"In water 5:30; time to depth 13min; at surface 06:01; total time in water 31 min"
+"4400",7/16/2003 0:00:00,"1146","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",18,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4400",7/25/2003 0:00:00,"1000","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Overcast",0,"KTS","XX",0,"FT",0,"XX","Calm","None",0,"In Long Beach Harbor, course arced at end to avoid sunken barge; the boat ended off the slope next to the breakwater, but the trawl was completed at the appropriate depth."
+"4400",8/6/2003 0:00:00,"1323","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4401",7/21/2003 0:00:00,"1158","PDT","CINMS","Grab","McArthur II","DGPS",,"Overcast",10,"KTS","NW",3,"FT",4,"W","Choppy","S",1,"in water 11:58; at bottom 2 min; at surface12:01; total 3 min; all attempted grabs (6) unsuccessful; shallow water"
+"4401",7/21/2003 0:00:00,"1158","PDT","CINMS","Trawl","McArthur II","DGPS",,"Overcast",10,"KTS","NW",3,"FT",4,"W","Choppy","S",1,"rocky bottom"
+"4402",9/29/2003 0:00:00,"1201","PDT","MEC","Trawl","JB","DGPS",,"Overcast",2,"KTS","SW",1,"FT",6,"W","Calm","None",0,
+"4404",8/8/2003 0:00:00,"1145","PDT","MEC","Grab","JB","DGPS",,"Clear",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4404",9/11/2003 0:00:00,"1145","PDT","VRG","Trawl","Larvae","GPS",-99.00,"Clear",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4408",7/16/2003 0:00:00,"0923","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4408",7/25/2003 0:00:00,"1054","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",10,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4408",8/7/2003 0:00:00,"1211","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",10,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4417",7/22/2003 0:00:00,"1039","PDT","CINMS","Grab","McArthur II","DGPS",,"Clear",15,"KTS","W",3,"FT",3,"SW","Choppy","None",0,"in water 11:19; at bottom 1 min; at surface 11:21; total 2 min"
+"4417",8/18/2003 0:00:00,"1716","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",25,"KTS","W",3,"FT",8,"W","Choppy","None",0,
+"4418",7/16/2003 0:00:00,"0844","PDT","CSD","Grab","Metro","DGPS",,"Fog",1,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4418",7/17/2003 0:00:00,"0950","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Net over within a marina; children's sailing class being conducted nearby, Very few fish. No invertebrates"
+"4418",7/17/2003 0:00:00,"1019","PDT","CSD","Trawl","Monitor III","DGPS",,"Partly Cloudy",1,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Net over within meters of dock and anchored sail boat."
+"4419",8/6/2003 0:00:00,"1443","PDT","ABC","Trawl","Yellowfin","DGPS",,"Clear",18,"KTS","W",3,"FT",10,"SW","Choppy","None",0,
+"4419",8/19/2003 0:00:00,"1604","PDT","ABC","Grab","Yellowfin","DGPS",,"Clear",12,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"4421",8/21/2003 0:00:00,"1024","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",2,"KTS","NW",2,"FT",8,"NW","Calm","None",0,
+"4421",8/21/2003 0:00:00,"1024","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",2,"KTS","NW",2,"FT",8,"NW","Calm","None",0,
+"4422",8/26/2003 0:00:00,"1600","PDT","ABC","Grab","None","DGPS",6.00,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"Salinity <19 ppt"
+"4423",8/19/2003 0:00:00,"1218","PDT","OCSD","Trawl","Enchanter IV","DGPS",-99.00,"Clear",6,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"4423",9/2/2003 0:00:00,"1004","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4424",7/25/2003 0:00:00,"1120","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Clear",0,"KTS","XX",0,"FT",0,"XX","Calm","N",1,"On beach- couldn't get within 240 m of target, also vessel was directly offshore of Alamitos Bay fuel dock."
+"4424",8/8/2003 0:00:00,"0940","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"4425",8/25/2003 0:00:00,"1100","PST","MBC","Grab","Alguita","DGPS",,"Fog",7,"KTS","W",1,"M",3,"W","Choppy","None",0,
+"4425",9/3/2003 0:00:00,"1736","PST","MBC","Trawl","Alguita","DGPS",,"Partly Cloudy",0,"KTS","W",0,"M",0,"W","Choppy","S",1,"Three fathometer runs each showed rocky bottom."
+"4426",7/23/2003 0:00:00,"0747","PDT","CSD","Grab","Metro","DGPS",,"Fog",2,"KTS","NW",1,"FT",14,"W","Calm","None",0,
+"4426",7/29/2003 0:00:00,"0855","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",3,"KTS","NW",3,"FT",11,"W","Rough","None",0,"Track line follows contour line along canyon slope. Station depth = 180m"
+"4436",8/8/2003 0:00:00,"1450","PST","MBC","Grab","Portunus","DGPS",26.00,"Clear",6,"KTS","NW",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4440",8/20/2003 0:00:00,"1035","PST","MBC","Grab","Portunus","DGPS",30.00,"Partly Cloudy",5,"KTS","SE",0,"M",0,"XX","Calm","Other",0,"Station on land. Station sampled twice - second sample processed"
+"4440",9/16/2003 0:00:00,"0910","PDT","KL","Grab","17FT WHALER","DGPS",30.60,"Overcast",3,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"Moved station because of rocky bottom(rip-rap)"
+"4442",7/16/2003 0:00:00,"1205","PDT","CSD","Grab","Metro","DGPS",,"Fog",8,"KTS","W",0,"FT",0,"XX","Calm","Other",1,"Station depth at a +1.3 m tide is 2.1 m. A 3.0 m depth within 100 m of station could not be found. Also station is located app. 50m into a no power boat zone."
+"4442",7/16/2003 0:00:00,"1205","PDT","CSD","Trawl","Metro","DGPS",,"Fog",8,"KTS","W",0,"FT",0,"XX","Calm","Other",1,"Station depth during a 1.3 m tide is 2.1 m. Unable to find a 3.0 m depth within 100 m of station. Also, station is located 50 m into a No Powerboat Zone."
+"4446",8/19/2003 0:00:00,"1350","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",5,"KTS","W",5,"FT",8,"W","Choppy","None",0,
+"4446",8/19/2003 0:00:00,"1350","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",5,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"4453",8/13/2003 0:00:00,"1030","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",15,"KTS","NW",4,"FT",7,"NW","Choppy","None",0,
+"4453",8/21/2003 0:00:00,"1540","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",2,"KTS","NW",3,"FT",4,"NE","Calm","None",0,
+"4456",8/20/2003 0:00:00,"1335","PST","MBC","Grab","Portunus","DGPS",33.00,"Clear",2,"KTS","SE",0,"M",0,"XX","Calm","None",0,
+"4458",7/21/2003 0:00:00,"0945","PDT","CSD","Grab","Metro","DGPS",,"Overcast",12,"KTS","W",3,"FT",11,"NW","Choppy","None",0,
+"4458",7/22/2003 0:00:00,"0804","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",6,"KTS","SW",10,"FT",9,"W","Calm","None",0,"Lotek time: 4 min; Stn depth 181m; 3 Invertebrate and 7 fish specimens vouchered from invalid trawl event #1. 2 Fish vouchered from invalid trawl #2"
+"4458",7/23/2003 0:00:00,"0756","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",4,"KTS","SW",10,"FT",9,"NW","Calm","None",0,"Station depth: 182 m Lotek time: 18 min."
+"4458",7/23/2003 0:00:00,"0925","PDT","CSD","Trawl","Monitor III","DGPS",,"Overcast",1,"KTS","NE",10,"FT",9,"NW","Calm","None",0,"Station Depth: 183m Lotek time: 11 min 45 sec"
+"4459",10/3/2003 0:00:00,"1249","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Overcast",11,"KTS","NW",2,"FT",8,"SW","Choppy","None",0,
+"4468",7/29/2003 0:00:00,"1411","PST","MBC","Grab","None","DGPS",6.00,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","Other",1,"Salinity < 19 PSU.  Equipment type used - YSI"
+"4479",10/2/2003 0:00:00,"1246","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Overcast",5,"KTS","NW",2,"FT",8,"SW","Calm","None",0,
+"4481",8/15/2003 0:00:00,"1150","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",15,"KTS","W",5,"FT",12,"W","Rough","None",0,
+"4481",8/18/2003 0:00:00,"1300","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",10,"KTS","NW",4,"FT",8,"NW","Choppy","None",0,
+"4483",10/4/2003 0:00:00,"1116","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",4,"FT",6,"NW","Calm","None",0,
+"4485",8/21/2003 0:00:00,"1636","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",2,"KTS","NW",3,"FT",4,"W","Calm","S",1,"rocky bottom"
+"4485",8/21/2003 0:00:00,"1636","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",2,"KTS","NW",3,"FT",4,"W","Calm","H",1,"Net torn"
+"4490",10/1/2003 0:00:00,"1034","PDT","MEC","Trawl","JB","DGPS",,"Partly Cloudy",10,"KTS","W",1,"FT",8,"SW","Calm","None",0,
+"4494",7/24/2003 0:00:00,"1515","PDT","MEC","Grab","MEC Avon","DGPS",32.41,"Partly Cloudy",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"4497",8/18/2003 0:00:00,"1450","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",18,"KTS","W",3,"FT",5,"W","Choppy","K",1,"Poor conditions for sampling - revisited site another day and determined unsampleable"
+"4497",8/18/2003 0:00:00,"1524","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",18,"KTS","W",3,"FT",5,"W","Choppy","I",0,"Current prevent successful sampling - will re-sample"
+"4497",8/18/2003 0:00:00,"1604","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",18,"KTS","W",3,"FT",5,"W","Choppy","L",0,"Net caught on door possibly due to current"
+"4497",8/19/2003 0:00:00,"0651","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",0,"KTS","W",11,"FT",4,"W","Calm","L",1,"Net twisted - apparently due to current; three attempts each failed at this site"
+"4505",8/22/2003 0:00:00,"1350","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",6,"NW","Choppy","N",1,"Less than 1/4 mile from island"
+"4505",8/22/2003 0:00:00,"1350","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",6,"NW","Choppy","N",1,"Less than 1/4 mile from island"
+"4508",8/1/2003 0:00:00,"1005","PST","MBC","Grab","Portunus","DGPS",,"Clear",2,"KTS","S",0,"M",0,"XX","Calm","S",1,"Station on land.  Rocks and terrestrial debris prevented the jaw from closing."
+"4510",9/29/2003 0:00:00,"1405","PDT","MEC","Trawl","JB","DGPS",,"Overcast",2,"KTS","SW",2,"FT",8,"W","Calm","None",1,"
+bottom was full of metal debris which ripped up the net."
+"4512",10/7/2003 0:00:00,"1353","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Overcast",4,"KTS","SW",2,"FT",4,"SW","Calm","S",1,"Too rocky to trawl"
+"4517",8/21/2003 0:00:00,"0930","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"NW","Calm","S",1,"rocky bottom"
+"4517",8/21/2003 0:00:00,"0930","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",8,"NW","Calm","S",1,"Pre-trawl survey revealed rocky bottom"
+"4520",7/29/2003 0:00:00,"1435","PST","MBC","Grab","Portunus","DGPS",30.00,"Clear",7,"KTS","SW",0,"M",0,"XX","Calm","None",0,
+"4522",8/4/2003 0:00:00,"0916","PDT","CSD","Grab","Monitor III","DGPS",,"Fog",4,"KTS","NW",2,"FT",8,"SW","Choppy","None",0,
+"4524",10/2/2003 0:00:00,"0735","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Overcast",0,"KTS","XX",2,"FT",8,"SW","Calm","None",0,
+"4528",8/8/2003 0:00:00,"1625","PST","MBC","Grab","Portunus","DGPS",,"Clear",3,"KTS","W",0,"M",0,"XX","Calm","S",1,"No penetration occurred at all sites.  Station on land."
+"4529",8/22/2003 0:00:00,"1616","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",19,"KTS","W",4,"FT",8,"W","Choppy","None",0,
+"4529",8/22/2003 0:00:00,"1616","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",19,"KTS","W",4,"FT",8,"W","Choppy","None",0,
+"4532",7/30/2003 0:00:00,"0930","PST","MBC","Grab","Portunus","DGPS",,"Overcast",0,"KTS","XX",0,"M",0,"XX","Calm","Q",1,"Station >140 meters out of water"
+"4545",8/22/2003 0:00:00,"1116","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",2,"KTS","W",1,"FT",6,"NW","Calm","None",0,
+"4545",8/22/2003 0:00:00,"1116","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",2,"KTS","W",2,"FT",6,"NW","Choppy","None",0,
+"4547",8/14/2003 0:00:00,"0845","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",12,"KTS","W",2,"FT",12,"W","Choppy","S",1,"Canyon, rocky"
+"4547",8/14/2003 0:00:00,"0845","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",12,"KTS","W",2,"FT",12,"W","Choppy","S",1,"Canyon, rocky"
+"4549",8/20/2003 0:00:00,"0740","PDT","CINMS","Grab","Shearwater","DGPS",,"Fog",5,"KTS","NW",2,"FT",10,"NW","Calm","S",1,"rocky bottom"
+"4549",8/20/2003 0:00:00,"0740","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",5,"KTS","NW",2,"FT",10,"NW","Calm","S",1,"Pre-trawl survey revealed rocky bottom"
+"4559",10/7/2003 0:00:00,"0850","PDT","VRG","Trawl","Vantuna","GPS",-99.00,"Overcast",0,"KTS","XX",2,"FT",10,"W","Calm","None",0,
+"4561",8/18/2003 0:00:00,"2023","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",18,"KTS","W",3,"FT",5,"W","Choppy","G",0,"Net caught on door possibly due to current"
+"4561",8/19/2003 0:00:00,"0800","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",10,"KTS","W",4,"FT",8,"W","Choppy","None",0,
+"4561",8/19/2003 0:00:00,"0809","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",10,"KTS","W",4,"FT",8,"W","Choppy","None",0,
+"4563",10/2/2003 0:00:00,"1102","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Overcast",5,"KTS","NW",2,"FT",8,"SW","Calm","None",0,
+"4564",7/29/2003 0:00:00,"1411","PST","MBC","Grab","None","DGPS",2.00,"Clear",0,"KTS","XX",0,"M",0,"XX","Calm","Other",1,"Salinity < 19 PSU.  Equipment type used - YSI"
+"4569",8/22/2003 0:00:00,"1504","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",6,"NW","Choppy","V",1,"Canyon"
+"4569",8/22/2003 0:00:00,"1504","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",6,"NW","Choppy","V",1,">10% depth from target - canyon - difficult to maintain depth on contour"
+"4574",8/19/2003 0:00:00,"1636","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",5,"KTS","W",6,"FT",4,"W","Choppy","None",0,
+"4574",8/19/2003 0:00:00,"1636","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",5,"KTS","W",6,"FT",4,"W","Choppy","None",0,
+"4575",10/3/2003 0:00:00,"1024","PDT","VRG","Trawl","Yellowfin","DGPS",-99.00,"Overcast",7,"KTS","SW",2,"FT",8,"SW","Calm","S",1,"Snagged and tore net 1ft diameter rocks in net"
+"4581",8/20/2003 0:00:00,"0910","PDT","CINMS","Grab","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",10,"NW","Calm","None",0,
+"4581",8/20/2003 0:00:00,"0910","PDT","CINMS","Trawl","Shearwater","DGPS",,"Fog",5,"KTS","NW",4,"FT",10,"NW","Calm","None",0,
+"4600",9/16/2003 0:00:00,"1627","PDT","KL","Grab","17FT WHALER","DGPS",31.70,"Clear",2,"KTS","S",0,"FT",0,"XX","Calm","None",0,"initial site over rip-rap, moved out into channel for first attempts"
+"4613",8/22/2003 0:00:00,"0657","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",2,"KTS","W",1,"FT",6,"NW","Calm","None",0,
+"4613",8/22/2003 0:00:00,"0657","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",2,"KTS","W",1,"FT",6,"NW","Calm","None",0,
+"4625",8/22/2003 0:00:00,"1430","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",6,"NW","Choppy","S",1,"rocky bottom"
+"4625",8/22/2003 0:00:00,"1430","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","W",3,"FT",6,"NW","Choppy","S",1,"Pre-trawl survey revealed rocky bottom"
+"4633",8/23/2003 0:00:00,"0700","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",8,"KTS","W",3,"FT",6,"W","Choppy","None",0,
+"4633",8/23/2003 0:00:00,"0700","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",8,"KTS","W",3,"FT",6,"W","Choppy","None",0,
+"4636",8/4/2003 0:00:00,"0917","PST","MBC","Grab","Portunus","DGPS",33.00,"Clear",4,"KTS","SE",0,"M",0,"XX","Calm","None",0,"Station on land."
+"4645",8/27/2003 0:00:00,"0852","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",12,"KTS","NW",5,"FT",10,"NW","Choppy","N",1,"Too close to Richardson Rock to sample safely"
+"4645",8/27/2003 0:00:00,"0852","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",12,"KTS","NW",5,"FT",10,"NW","Choppy","N",1,"Navigational hazard-too close to Richardson Rock."
+"4657",8/27/2003 0:00:00,"1602","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",19,"KTS","NW",4,"FT",6,"NW","Choppy","None",0,
+"4657",8/27/2003 0:00:00,"1800","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",19,"KTS","NW",4,"FT",6,"NW","Rough","Other",0,"premature closure on descent-poor seas, return another day; rough seas for grabbing"
+"4657",8/28/2003 0:00:00,"0630","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",18,"KTS","W",6,"FT",8,"W","Choppy","None",0,
+"4673",8/27/2003 0:00:00,"1445","PDT","CINMS","Grab","Shearwater","DGPS",,"Clear",17,"KTS","W",4,"FT",6,"W","Rough","S",1,"Rocky Bottom"
+"4673",8/27/2003 0:00:00,"1445","PDT","CINMS","Trawl","Shearwater","DGPS",,"Clear",17,"KTS","W",4,"FT",6,"W","Rough","S",1,"Pre-trawl survey revealed rocky bottom"
+"4677",8/27/2003 0:00:00,"0845","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",11,"KTS","NW",5,"FT",10,"NW","Choppy","S",1,"Rocky Bottom"
+"4677",8/27/2003 0:00:00,"0845","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",11,"KTS","NW",5,"FT",10,"NW","Choppy","S",1,"Pre-trawl survey revealed rocky bottom"
+"4683",10/2/2003 0:00:00,"1319","PDT","MEC","Grab","MEC Avon","DGPS",3.60,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Sampled despite low salinity per instructions from Ken Schiff; samples mislabeled with site id 2684"
+"4695",7/29/2003 0:00:00,"0943","PDT","MEC","Grab","MEC Avon","DGPS",32.50,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"4697",8/27/2003 0:00:00,"1125","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",17,"KTS","W",4,"FT",6,"W","Choppy","None",0,
+"4697",8/27/2003 0:00:00,"1200","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",15,"KTS","W",4,"FT",6,"W","Choppy","None",0,
+"4709",8/27/2003 0:00:00,"1025","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","NW",5,"FT",10,"NW","Choppy","N",1,"Canyon"
+"4709",8/27/2003 0:00:00,"1025","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",12,"KTS","NW",5,"FT",10,"NW","Choppy","N",1,"Can't maintain 10% depth from target-Canyon"
+"4728",9/16/2003 0:00:00,"1155","PDT","KL","Grab","17FT WHALER","DGPS",31.70,"Partly Cloudy",7,"KTS","S",0,"FT",0,"XX","Calm","S",1,"9 attempts across channel in vicinity, none successful due to poor closure."
+"4741",8/27/2003 0:00:00,"0832","PDT","CINMS","Grab","Shearwater","DGPS",,"Overcast",12,"KTS","NW",5,"FT",10,"NW","Choppy","S",1,"Rocky Bottom"
+"4741",8/27/2003 0:00:00,"0832","PDT","CINMS","Trawl","Shearwater","DGPS",,"Overcast",12,"KTS","NW",5,"FT",10,"NW","Choppy","S",1,"Rocky Bottom"
+"4778",8/4/2003 0:00:00,"1006","PDT","CSD","Grab","Monitor III","DGPS",,"Fog",2,"KTS","NW",2,"FT",8,"SW","Choppy","None",0,"Station located on slope. Depth changes significantly over short distance."
+"4788",9/16/2003 0:00:00,"1300","PDT","KL","Grab","17FT WHALER","DGPS",31.50,"Clear",5,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Station location over rocky area; moved location and began logging attempts"
+"4810",8/1/2003 0:00:00,"1221","PDT","CSD","Grab","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","NW",1,"FT",7,"W","Calm","None",0,
+"4852",9/17/2003 0:00:00,"1405","PDT","KL","Grab","17FT WHALER","DGPS",31.20,"Clear",7,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Initial station appears to be outside of channel"
+"4856",9/17/2003 0:00:00,"0850","PDT","KL","Grab","17FT WHALER","DGPS",32.09,"Overcast",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Initial station over rip-rap"
+"4913",8/28/2003 0:00:00,"0910","PDT","CINMS","Trawl","Shearwater","DGPS",,"Partly Cloudy",6,"KTS","W",3,"FT",6,"W","Calm","None",0,
+"4913",8/28/2003 0:00:00,"1130","PDT","CINMS","Grab","Shearwater","DGPS",,"Partly Cloudy",4,"KTS","S",3,"FT",6,"SW","Calm","None",0,
+"4939",8/20/2003 0:00:00,"1044","PDT","MEC","Grab","MEC Avon","DGPS",8.44,"Clear",2,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Sampled despite low salinity per instructions from Ken Schiff"
+"4948",9/17/2003 0:00:00,"1540","PDT","KL","Grab","17FT WHALER","DGPS",31.50,"Clear",7,"KTS","S",0,"FT",0,"XX","Calm","S",1,"Rocky bottom caused constant poor closure/zero recovery"
+"4999",8/26/2003 0:00:00,"1400","PDT","ABC","Grab","None","DGPS",8.00,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"Salinity <19 ppt"
+"5002",8/1/2003 0:00:00,"1148","PDT","CSD","Grab","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","NW",1,"FT",7,"W","Calm","None",0,
+"5012",9/17/2003 0:00:00,"1205","PDT","KL","Grab","17FT WHALER","DGPS",30.20,"Clear",5,"KTS","E",0,"FT",0,"XX","Calm","None",0,"Moved from first location due to poor recovery."
+"5014",8/19/2003 0:00:00,"1320","PDT","MEC","Grab","MEC Avon","DGPS",32.90,"Clear",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"5034",8/4/2003 0:00:00,"0825","PDT","CSD","Grab","Monitor III","DGPS",,"Fog",4,"KTS","NW",2,"FT",8,"SW","Choppy","None",0,
+"5108",9/17/2003 0:00:00,"1613","PDT","KL","Grab","17FT WHALER","DGPS",31.10,"Clear",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"some samples had low pen.,but top looked good; we sampled and let SCCWRP decide."
+"5301",7/23/2003 0:00:00,"1504","PDT","MEC","Grab","MEC Avon","DGPS",32.63,"Clear",3,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"5336",8/26/2003 0:00:00,"1500","PDT","ABC","Grab","None","DGPS",5.00,"Clear",-99,"NR","NR",-99,"NR",-99,"NR","NR","Other",1,"Salinity <19 ppt"
+"5723",10/6/2003 0:00:00,"1215","PDT","MEC","Grab","MEC Avon","DGPS",11.10,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",1,"Salinity below 20psu"
+"5731",10/6/2003 0:00:00,"1235","PDT","MEC","Grab","MEC Avon","DGPS",16.10,"Overcast",5,"KTS","W",0,"FT",0,"XX","Calm","None",1,"Salinity below 20psu"
+"5735",10/6/2003 0:00:00,"1111","PDT","MEC","Grab","MEC Avon","DGPS",25.50,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"5739",10/2/2003 0:00:00,"1150","PDT","MEC","Grab","MEC Avon","DGPS",2.30,"Overcast",4,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Sampled despite low salinity per instructions from Ken Schiff; samples mislabeled with site id 3832"
+"5763",10/6/2003 0:00:00,"1236","PDT","MEC","Grab","MEC Avon","DGPS",,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",1,"Upstream of 5731, salinity below 20psu"
+"5767",10/6/2003 0:00:00,"1339","PDT","MEC","Grab","MEC Avon","DGPS",30.10,"Overcast",6,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"5771",10/2/2003 0:00:00,"1425","PDT","MEC","Grab","MEC Avon","DGPS",3.60,"Overcast",2,"KTS","W",0,"FT",0,"XX","Calm","None",0,"Sampled despite low salinity per instructions from Ken Schiff; samples mislabeled with site id 3864"
+"5787",10/6/2003 0:00:00,"1400","PDT","MEC","Grab","MEC Avon","DGPS",30.40,"Overcast",6,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"A2 ",8/6/2003 0:00:00,"1135","PDT","MEC","Grab","JB","DGPS",,"Clear",3,"KTS","SW",3,"FT",14,"SW","Calm","None",0,
+"A2",8/7/2003 0:00:00,"0707","PDT","MEC","Trawl","Zephyr","DGPS",,"Overcast",0,"KTS","XX",2,"FT",8,"W","Calm","None",0,
+"B03W013",2/24/2004 0:00:00,"0846","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",3,"KTS","W",3,"FT",5,"W","Choppy","None",0,"Nitrogen sample collected"
+"B03W013",2/28/2004 0:00:00,"0811","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",10,"KTS","SE",6,"FT",5,"NW","Calm","None",0,
+"B03W013",2/29/2004 0:00:00,"0807","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",7,"KTS","SE",7,"FT",5,"W","Calm","None",0,
+"B03W014",2/24/2004 0:00:00,"0942","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",0,"KTS","XX",2,"FT",5,"W","Choppy","None",0,"Surface plume visible"
+"B03W014",2/28/2004 0:00:00,"0856","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",11,"KTS","N",6,"FT",5,"NW","Calm","None",0,
+"B03W014",2/29/2004 0:00:00,"0853","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","S",7,"FT",5,"W","Calm","None",0,"Surface waters no longer fresh; salinity reading - 33.1. Tox dup taken. Water still seems green"
+"B03W015",2/24/2004 0:00:00,"1006","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",4,"KTS","SW",3,"FT",5,"W","Choppy","None",0,"Surface plume visible, drift kelp, plastic bags, bacti rep collected"
+"B03W015",2/28/2004 0:00:00,"0915","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",9,"KTS","E",6,"FT",5,"NW","Calm","None",0,"Water very murky brown"
+"B03W015",2/29/2004 0:00:00,"0914","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","E",7,"FT",5,"W","Calm","None",0,"Olive-Green water visible to the south 100m and just beyond the breaking waves; more green on station"
+"B03W016",2/24/2004 0:00:00,"1027","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",2,"KTS","NE",3,"FT",5,"W","Choppy","None",0,"Surface plume visible, Patchy, Algal debris present, Nitrogen sample collected."
+"B03W016",2/28/2004 0:00:00,"0936","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","NE",6,"FT",5,"NW","Calm","None",0,"Lobster buoys nearby; Surf breaking outside our position to the north, Plume very visible as murky green with darker blue offshore."
+"B03W016",2/29/2004 0:00:00,"0930","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","NE",7,"FT",5,"W","Calm","None",0,"Plume evident as milky green color very fresh lens at very surface 32.4 ppt."
+"B03W017",2/24/2004 0:00:00,"1108","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",4,"KTS","S",3,"FT",5,"W","Choppy","None",0,"Surface plum visible, Nitrogen sample collected."
+"B03W017",2/28/2004 0:00:00,"1002","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","NE",6,"FT",5,"NW","Calm","None",0,
+"B03W017",2/29/2004 0:00:00,"1002","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","SW",7,"FT",5,"W","Calm","None",0,
+"B03W018",2/24/2004 0:00:00,"1136","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","S",3,"FT",7,"W","Calm","None",0,"Surface plume visible, Plastic debris, Nitrogen sample collected."
+"B03W018",2/28/2004 0:00:00,"1023","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","W",6,"FT",5,"NW","Calm","None",0,
+"B03W018",2/29/2004 0:00:00,"1018","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",5,"KTS","NW",7,"FT",5,"W","Calm","None",0,"Appears to be a band of plume water (green) offshore - 250 yeds but water at station is bluish-green with high transmissivity, Trash"
+"B03W019",2/24/2004 0:00:00,"1211","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",9,"KTS","E",3,"FT",7,"W","Calm","None",0,"Surface plume visible, Nitrogen sample collected "
+"B03W019",2/28/2004 0:00:00,"1056","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",6,"KTS","NE",6,"FT",5,"NW","Calm","None",0,
+"B03W019",2/29/2004 0:00:00,"1038","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",4,"KTS","SW",7,"FT",5,"W","Calm","None",0,"Water greenish-blue and clear, Kelp/kelp debris, Trash"
+"B03W020",2/24/2004 0:00:00,"1230","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",8,"KTS","SE",3,"FT",7,"W","Calm","None",0,"Surface plume visible"
+"B03W021",2/24/2004 0:00:00,"1248","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",7,"KTS","SW",3,"FT",7,"W","Calm","None",0,"Surface plume visible"
+"B03W022",2/24/2004 0:00:00,"1257","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",12,"KTS","NW",4,"FT",7,"W","Calm","None",0,"Surface plume visible"
+"B03W022",2/28/2004 0:00:00,"1213","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",5,"KTS","W",6,"FT",5,"NW","Calm","None",0,"Kelp/kelp debris"
+"B03W022",2/29/2004 0:00:00,"1151","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",8,"KTS","SE",7,"FT",5,"W","Calm","None",0,"Olive-Green water, Cluster of grebes to the NW, kelp/kelp debris"
+"B03W023",2/24/2004 0:00:00,"1323","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","SE",4,"FT",7,"W","Calm","None",0,
+"B03W023",2/28/2004 0:00:00,"1153","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",3,"KTS","SW",6,"FT",5,"NW","Calm","None",0,"Plume evident by milky green water color"
+"B03W023",2/29/2004 0:00:00,"1124","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",6,"KTS","N",7,"FT",5,"W","Calm","None",0,"Green water seems good evidence of plume presence"
+"B03W024",2/24/2004 0:00:00,"1342","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",7,"KTS","SE",3,"FT",9,"N","Calm","None",0,"Kelp and plastic debris"
+"B03W025",2/28/2004 0:00:00,"1210","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W025",3/1/2004 0:00:00,"1205","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W026",2/28/2004 0:00:00,"1220","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W026",3/1/2004 0:00:00,"1215","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W027",2/28/2004 0:00:00,"1235","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W027",3/1/2004 0:00:00,"1225","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W028",2/28/2004 0:00:00,"1250","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W028",3/1/2004 0:00:00,"1240","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W029",2/28/2004 0:00:00,"1203","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W029",3/1/2004 0:00:00,"1150","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W030",2/28/2004 0:00:00,"1145","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W030",3/1/2004 0:00:00,"1137","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W031",2/28/2004 0:00:00,"1139","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W031",3/1/2004 0:00:00,"1125","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W032",2/28/2004 0:00:00,"1125","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W032",3/1/2004 0:00:00,"1107","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SW",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W033",2/28/2004 0:00:00,"1030","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W033",3/1/2004 0:00:00,"1016","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W034",2/28/2004 0:00:00,"1040","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W034",3/1/2004 0:00:00,"1025","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W035",2/28/2004 0:00:00,"1052","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W035",3/1/2004 0:00:00,"1037","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W036",2/28/2004 0:00:00,"1110","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W036",3/1/2004 0:00:00,"1052","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W037",2/28/2004 0:00:00,"1014","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W037",3/1/2004 0:00:00,"1000","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W038",2/28/2004 0:00:00,"1005","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W038",3/1/2004 0:00:00,"0950","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W039",2/28/2004 0:00:00,"0955","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W039",3/1/2004 0:00:00,"0935","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W040",2/28/2004 0:00:00,"0935","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W040",3/1/2004 0:00:00,"0923","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W041",2/28/2004 0:00:00,"0810","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W041",3/1/2004 0:00:00,"0740","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W042",2/28/2004 0:00:00,"0817","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W042",3/1/2004 0:00:00,"0800","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W043",2/28/2004 0:00:00,"0835","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W043",3/1/2004 0:00:00,"0823","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W044",2/28/2004 0:00:00,"0900","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W044",3/1/2004 0:00:00,"0840","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W045",2/28/2004 0:00:00,"0915","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",7,"KTS","W",3,"FT",8,"W","CHOPPY","None",0,
+"B03W045",3/1/2004 0:00:00,"0857","PST","OCSD","WQ","Westwind","DGPS",-99.00,"Partly Cloudy",8,"KTS","SE",3,"FT",10,"SW","CHOPPY","None",0,
+"B03W046",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W046",2/28/2004 0:00:00,"1050","PST","MEC","WQ","ZEUS","DGPS",,"Clear",4,"KTS","W",3,"FT",14,"W","Choppy","None",0,
+"B03W046",3/1/2004 0:00:00,"1108","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W047",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W047",2/28/2004 0:00:00,"1110","PST","MEC","WQ","ZEUS","DGPS",,"Clear",10,"KTS","W",6,"FT",12,"W","Choppy","None",0,
+"B03W047",3/1/2004 0:00:00,"1119","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W048",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W048",2/29/2004 0:00:00,"1119","PST","MEC","WQ","ZEUS","DGPS",,"Clear",10,"KTS","W",6,"FT",12,"W","Choppy","None",0,
+"B03W048",3/1/2004 0:00:00,"1129","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W049",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W049",2/28/2004 0:00:00,"1133","PST","MEC","WQ","ZEUS","DGPS",,"Clear",10,"KTS","W",6,"FT",14,"W","Choppy","None",0,
+"B03W049",3/1/2004 0:00:00,"1146","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W050",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W050",2/28/2004 0:00:00,"1148","PST","MEC","WQ","ZEUS","DGPS",,"Clear",15,"KTS","W",6,"FT",14,"W","Choppy","None",0,
+"B03W050",3/1/2004 0:00:00,"1205","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W051",2/27/2004 0:00:00,"1143","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",22,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W051",2/28/2004 0:00:00,"1010","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","W",4,"FT",14,"W","Choppy","None",0,
+"B03W051",3/1/2004 0:00:00,"1017","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W052",2/27/2004 0:00:00,"1239","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",25,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W052",2/28/2004 0:00:00,"1020","PST","MEC","WQ","ZEUS","DGPS",,"Clear",4,"KTS","W",3,"FT",14,"W","Choppy","None",0,
+"B03W052",3/1/2004 0:00:00,"1030","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W053",2/27/2004 0:00:00,"1216","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",25,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W053",2/28/2004 0:00:00,"1032","PST","MEC","WQ","ZEUS","DGPS",,"Clear",4,"KTS","W",3,"FT",14,"W","Choppy","None",0,
+"B03W053",3/1/2004 0:00:00,"1050","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W054",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W054",2/28/2004 0:00:00,"1301","PST","MEC","WQ","ZEUS","DGPS",,"Clear",18,"KTS","W",5,"FT",12,"W","Rough","None",0,
+"B03W054",3/1/2004 0:00:00,"1257","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W055",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W055",2/28/2004 0:00:00,"1241","PST","MEC","WQ","ZEUS","DGPS",,"Clear",18,"KTS","W",6,"FT",12,"W","Choppy","None",0,
+"B03W055",3/1/2004 0:00:00,"1236","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W056",2/27/2004 0:00:00,"1122","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",22,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W056",2/28/2004 0:00:00,"0946","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","W",4,"FT",14,"W","Choppy","None",0,
+"B03W056",3/1/2004 0:00:00,"1000","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W057",2/27/2004 0:00:00,"1033","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",20,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W057",2/28/2004 0:00:00,"0933","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","W",4,"FT",14,"W","Choppy","None",0,
+"B03W057",3/1/2004 0:00:00,"0947","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",8,"KTS","W",5,"FT",14,"W","Choppy","None",0,
+"B03W058",2/27/2004 0:00:00,"1002","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",20,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W058",2/28/2004 0:00:00,"0920","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","E",4,"FT",14,"W","Calm","None",0,
+"B03W058",3/1/2004 0:00:00,"0935","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",8,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W059",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W059",2/28/2004 0:00:00,"0845","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","E",4,"FT",14,"W","Calm","None",0,
+"B03W059",3/1/2004 0:00:00,"0907","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",6,"KTS","SW",4,"FT",14,"W","Choppy","None",0,
+"B03W060",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W060",2/28/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"CTD FAILURE"
+"B03W060",3/1/2004 0:00:00,"1317","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W061",2/27/2004 0:00:00,"0927","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",15,"KTS","NW",4,"FT",14,"W","Choppy","None",0,
+"B03W061",2/28/2004 0:00:00,"0739","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","E",6,"FT",16,"W","Calm","None",0,
+"B03W061",3/1/2004 0:00:00,"0746","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",5,"KTS","SE",3,"FT",16,"W","Choppy","None",0,
+"B03W062",2/27/2004 0:00:00,"0949","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",20,"KTS","NW",8,"FT",14,"W","Confused","None",0,
+"B03W062",2/28/2004 0:00:00,"0806","PST","MEC","WQ","ZEUS","DGPS",,"Clear",3,"KTS","W",4,"FT",14,"W","Calm","None",0,
+"B03W062",3/1/2004 0:00:00,"0830","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",6,"KTS","SW",3,"FT",16,"W","Choppy","None",0,
+"B03W063",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W063",2/28/2004 0:00:00,"0828","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","E",4,"FT",14,"W","Calm","None",0,
+"B03W063",3/1/2004 0:00:00,"0848","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",6,"KTS","SW",4,"FT",14,"W","Choppy","None",0,
+"B03W064",2/27/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"DANGEROUS SEA CONDITIONS"
+"B03W064",2/28/2004 0:00:00,"-99","PST","MEC","WQ","ZEUS","DGPS",,"NR",-99,"KTS","NR",-99,"FT",-99,"NR","NR","Other",1,"CTD FAILURE"
+"B03W064",3/1/2004 0:00:00,"1335","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",5,"KTS","SW",5,"FT",14,"W","Choppy","None",0,
+"B03W065",2/27/2004 0:00:00,"0815","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",12,"KTS","NW",6,"FT",14,"W","Confused","None",0,
+"B03W065",2/28/2004 0:00:00,"0657","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","E",6,"FT",16,"W","Calm","None",0,
+"B03W065",3/1/2004 0:00:00,"0710","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",5,"KTS","SE",3,"FT",16,"W","Choppy","None",0,
+"B03W066",2/27/2004 0:00:00,"0902","PST","MEC","WQ","ZEUS","DGPS",,"Partly cloudy",16,"KTS","NW",2,"FT",14,"W","Choppy","None",0,
+"B03W066",2/28/2004 0:00:00,"0724","PST","MEC","WQ","ZEUS","DGPS",,"Clear",5,"KTS","E",5,"FT",16,"W","Calm","None",0,
+"B03W066",3/1/2004 0:00:00,"0814","PST","MEC","WQ","ZEUS","DGPS",,"Overcast",5,"KTS","SE",0,"FT",0,"XX","Choppy","None",0,
+"B03W067",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.90,"Partly Cloudy",13,"KTS","SW",3,"FT",7,"SW","Calm","None",0,
+"B03W067",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.10,"Partly Cloudy",6,"KTS","E",2,"FT",10,"W","Calm","None",0,
+"B03W067",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.80,"Overcast",7,"KTS","SW",1,"FT",10,"W","Calm","None",0,
+"B03W068",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.60,"Partly Cloudy",14,"KTS","W",3,"FT",10,"W","Calm","None",0,
+"B03W068",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Partly Cloudy",6,"KTS","NE",2,"FT",10,"W","Calm","None",0,
+"B03W068",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.50,"Partly Cloudy",5,"KTS","SW",1,"FT",10,"W","Calm","None",0,
+"B03W069",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.40,"Partly Cloudy",16,"KTS","W",4,"FT",10,"W","Choppy","None",0,
+"B03W069",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Partly Cloudy",12,"KTS","NW",3,"FT",10,"W","Calm","None",0,
+"B03W069",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.80,"Partly Cloudy",6,"KTS","SW",2,"FT",10,"W","Calm","None",0,
+"B03W070",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.90,"Partly Cloudy",13,"KTS","W",5,"FT",10,"W","Choppy","None",0,
+"B03W070",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.20,"Partly Cloudy",1,"KTS","W",3,"FT",10,"W","Calm","None",0,
+"B03W070",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Partly Cloudy",10,"KTS","SW",2,"FT",10,"W","Calm","None",0,
+"B03W071",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.50,"Partly Cloudy",15,"KTS","W",4,"FT",10,"W","Choppy","None",0,
+"B03W071",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.80,"Partly Cloudy",5,"KTS","N",1,"FT",10,"SW","Calm","None",0,
+"B03W071",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.40,"Partly Cloudy",1,"KTS","SE",1,"FT",10,"SW","Calm","None",0,
+"B03W072",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Partly Cloudy",14,"KTS","W",6,"FT",6,"W","Choppy","None",0,
+"B03W072",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.80,"Partly Cloudy",6,"KTS","N",2,"FT",10,"W","Calm","None",0,
+"B03W072",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Partly Cloudy",4,"KTS","SE",1,"FT",10,"SW","Calm","None",0,
+"B03W073",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Partly Cloudy",17,"KTS","W",6,"FT",6,"W","Choppy","None",0,
+"B03W073",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.20,"Partly Cloudy",10,"KTS","NW",2,"FT",10,"W","Calm","None",0,
+"B03W073",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Partly Cloudy",4,"KTS","SE",2,"FT",10,"SW","Calm","None",0,
+"B03W074",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Clear",17,"KTS","W",6,"FT",6,"W","Choppy","None",0,
+"B03W074",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Partly Cloudy",10,"KTS","NW",2,"FT",10,"W","Calm","None",0,
+"B03W074",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.90,"Partly Cloudy",3,"KTS","SE",2,"FT",10,"SW","Calm","None",0,
+"B03W075",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Clear",22,"KTS","W",3,"FT",6,"W","Choppy","None",0,
+"B03W075",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.20,"Partly Cloudy",9,"KTS","NW",3,"FT",10,"SW","Calm","None",0,
+"B03W075",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.80,"Partly Cloudy",3,"KTS","NE",2,"FT",10,"SW","Calm","None",0,
+"B03W076",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Clear",16,"KTS","W",4,"FT",6,"SW","Choppy","None",0,
+"B03W076",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.20,"Partly Cloudy",12,"KTS","N",3,"FT",10,"W","Calm","None",0,
+"B03W076",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.90,"Partly Cloudy",4,"KTS","N",1,"FT",10,"SW","Calm","None",0,
+"B03W077",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Clear",20,"KTS","W",5,"FT",6,"W","Choppy","None",0,
+"B03W077",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Partly Cloudy",2,"KTS","W",3,"FT",10,"W","Calm","None",0,
+"B03W077",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Partly Cloudy",1,"KTS","SE",2,"FT",10,"W","Calm","None",0,
+"B03W078",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Clear",20,"KTS","W",8,"FT",6,"W","Rough","None",0,
+"B03W078",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.10,"Partly Cloudy",10,"KTS","N",3,"FT",10,"W","Calm","None",0,
+"B03W078",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",33.00,"Partly Cloudy",1,"KTS","SE",3,"FT",10,"W","Calm","None",0,
+"B03W079",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",29.50,"Clear",1,"KTS","NW",0,"FT",0,"XX","Calm","None",0,
+"B03W079",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",27.90,"Partly Cloudy",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"B03W079",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",26.90,"Overcast",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"B03W080",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",30.90,"Clear",1,"KTS","NW",0,"FT",0,"XX","Calm","None",0,
+"B03W080",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",29.90,"Partly Cloudy",10,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"B03W080",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.20,"Overcast",4,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"B03W081",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",29.70,"Clear",12,"KTS","NW",0,"FT",0,"XX","Calm","None",0,
+"B03W081",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.40,"Partly Cloudy",16,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"B03W081",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.10,"Overcast",6,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"B03W082",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",30.90,"Clear",10,"KTS","NW",1,"FT",0,"W","Calm","None",0,
+"B03W082",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.60,"Partly Cloudy",14,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"B03W082",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.30,"Overcast",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"B03W083",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",29.90,"Clear",8,"KTS","NW",1,"FT",0,"W","Calm","None",0,
+"B03W083",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.00,"Partly Cloudy",13,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"B03W083",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.00,"Overcast",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"B03W084",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",30.80,"Clear",9,"KTS","W",1,"FT",4,"SW","Calm","None",0,
+"B03W084",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",31.80,"Partly Cloudy",5,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"B03W084",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.20,"Overcast",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"B03W085",2/27/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",29.60,"Clear",8,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"B03W085",2/28/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",32.00,"Partly Cloudy",3,"KTS","E",0,"FT",0,"XX","Calm","None",0,
+"B03W085",3/1/2004 0:00:00,"-99","PST","LACSD","WQ","Ocean Sentinel","DGPS",30.20,"Overcast",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"B03W086",2/27/2004 0:00:00,"1209","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",18,"KTS","SW",7,"FT",8,"SW","Choppy","None",0,
+"B03W086",2/28/2004 0:00:00,"0917","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",12,"KTS","W",4,"FT",8,"SW","Calm","None",0,
+"B03W086",3/1/2004 0:00:00,"1015","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",5,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"B03W087",2/28/2004 0:00:00,"0934","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",13,"KTS","W",4,"FT",8,"SW","Calm","None",0,"Snow covered mountains in the distance are beautiful"
+"B03W087",3/1/2004 0:00:00,"1035","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",4,"KTS","SW",3,"FT",10,"SW","Calm","None",0,
+"B03W088",2/27/2004 0:00:00,"1147","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",21,"KTS","W",5,"FT",10,"SW","Choppy","None",0,"trash floating on surface and subsurface"
+"B03W088",2/28/2004 0:00:00,"0855","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",1,"KTS","W",4,"FT",8,"SW","Choppy","None",0,
+"B03W088",3/1/2004 0:00:00,"0950","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",4,"KTS","SW",2,"FT",10,"SW","Calm","None",0,
+"B03W089",2/28/2004 0:00:00,"1017","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",13,"KTS","W",4,"FT",6,"W","Choppy","None",0,
+"B03W089",3/1/2004 0:00:00,"1108","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",6,"KTS","SW",3,"FT",8,"SW","Calm","None",0,
+"B03W090",2/28/2004 0:00:00,"1002","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",13,"KTS","W",4,"FT",8,"SW","Choppy","None",0,
+"B03W090",3/1/2004 0:00:00,"1055","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",4,"KTS","SW",3,"FT",8,"SW","Calm","None",0,
+"B03W091",2/27/2004 0:00:00,"1108","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",18,"KTS","W",2,"FT",10,"SW","Choppy","None",0,
+"B03W091",2/28/2004 0:00:00,"0829","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",16,"KTS","NW",3,"FT",8,"SW","Choppy","None",0,
+"B03W091",3/1/2004 0:00:00,"0920","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",2,"KTS","NE",2,"FT",10,"SW","Calm","None",0,
+"B03W092",2/28/2004 0:00:00,"1105","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",14,"KTS","W",4,"FT",6,"W","Choppy","None",0,
+"B03W092",3/1/2004 0:00:00,"1148","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",6,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W093",2/28/2004 0:00:00,"1121","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",19,"KTS","W",4,"FT",6,"W","Choppy","None",0,
+"B03W093",3/1/2004 0:00:00,"1200","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",7,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W094",2/28/2004 0:00:00,"1040","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",14,"KTS","W",4,"FT",6,"SW","Choppy","None",0,"Multiple depths collected for discrete samples, 1, 2, 8 m"
+"B03W094",3/1/2004 0:00:00,"1125","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",5,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W095",2/28/2004 0:00:00,"1130","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",13,"KTS","W",3,"FT",8,"W","Choppy","None",0,
+"B03W095",3/1/2004 0:00:00,"1210","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W096",2/28/2004 0:00:00,"1145","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",16,"KTS","SW",3,"FT",8,"SW","Choppy","None",0,
+"B03W096",3/1/2004 0:00:00,"1220","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",10,"KTS","W",10,"FT",3,"SW","Calm","None",0,
+"B03W097",2/28/2004 0:00:00,"1241","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",20,"KTS","SW",3,"FT",6,"SW","Choppy","None",0,
+"B03W097",3/1/2004 0:00:00,"1315","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",7,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W098",2/28/2004 0:00:00,"1227","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",16,"KTS","SW",4,"FT",6,"SW","Choppy","None",0,
+"B03W098",3/1/2004 0:00:00,"1305","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W099",2/28/2004 0:00:00,"1215","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",15,"KTS","SW",3,"FT",8,"SW","Calm","None",0,
+"B03W099",3/1/2004 0:00:00,"1250","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",12,"FT",3,"SW","Calm","None",0,
+"B03W100",2/28/2004 0:00:00,"1255","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",17,"KTS","SW",3,"FT",6,"SW","Choppy","None",0,
+"B03W100",3/1/2004 0:00:00,"1330","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",10,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W101",2/28/2004 0:00:00,"1313","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",18,"KTS","SW",3,"FT",6,"SW","Choppy","None",0,
+"B03W101",3/1/2004 0:00:00,"1345","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Partly Cloudy",13,"KTS","SW",10,"FT",3,"SW","Calm","None",0,
+"B03W102",2/27/2004 0:00:00,"1003","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",9,"KTS","W",4,"FT",10,"SW","Calm","None",0,"Bits of trash"
+"B03W102",2/28/2004 0:00:00,"0808","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Clear",8,"KTS","N",4,"FT",8,"SW","Calm","None",0,
+"B03W102",3/1/2004 0:00:00,"0852","PDT","CLAEMD","WQ","LaMer","DGPS",-99.00,"Overcast",1,"KTS","E",2,"FT",10,"W","Calm","None",0,
+"B03W111",2/29/2004 0:00:00,"0740","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",8,"KTS","NE",6,"FT",15,"SW","Choppy","None",0,
+"B03W113",2/29/2004 0:00:00,"0810","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",12,"KTS","NE",4,"FT",15,"SW","Choppy","None",0,
+"B03W120",2/29/2004 0:00:00,"0835","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",8,"KTS","N",4,"FT",15,"SW","Choppy","None",0,
+"B03W125",2/29/2004 0:00:00,"0715","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",8,"KTS","N",6,"FT",15,"SW","Choppy","None",0,
+"B03W128",2/29/2004 0:00:00,"0847","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",4,"KTS","NE",4,"FT",15,"SW","Calm","None",0,
+"B03W129",2/29/2004 0:00:00,"0908","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",4,"KTS","E",4,"FT",7,"SW","Calm","None",0,"Bull dozers closing Santa Clara Berm"
+"B03W141",2/29/2004 0:00:00,"1005","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Clear",4,"KTS","NE",4,"FT",10,"SW","Calm","None",0,
+"B03W143",2/29/2004 0:00:00,"0934","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",5,"KTS","E",4,"FT",8,"SW","Calm","None",0,
+"B03W154",2/24/2004 0:00:00,"0937","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",11,"W","Calm","None",0,
+"B03W154",2/28/2004 0:00:00,"1430","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",4,"KTS","NW",6,"FT",7,"W","Choppy","None",0,
+"B03W154",2/29/2004 0:00:00,"0912","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",3,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W155",2/24/2004 0:00:00,"1002","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",11,"W","Calm","None",0,
+"B03W155",2/28/2004 0:00:00,"0931","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W155",2/29/2004 0:00:00,"0940","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",3,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W156",2/24/2004 0:00:00,"1023","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",13,"W","Calm","None",0,
+"B03W156",2/28/2004 0:00:00,"0913","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W156",2/29/2004 0:00:00,"0927","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",3,"KTS","S",4,"FT",8,"W","Calm","None",0,
+"B03W157",2/24/2004 0:00:00,"1101","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",13,"W","Calm","None",0,
+"B03W157",2/28/2004 0:00:00,"1410","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W157",2/29/2004 0:00:00,"1051","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",5,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W158",2/24/2004 0:00:00,"1035","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",12,"W","Calm","None",0,
+"B03W158",2/28/2004 0:00:00,"0948","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W158",2/29/2004 0:00:00,"0952","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",3,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W159",2/24/2004 0:00:00,"1113","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",7,"W","Calm","None",0,
+"B03W159",2/28/2004 0:00:00,"1059","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W159",2/29/2004 0:00:00,"1115","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",4,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W160",2/24/2004 0:00:00,"1448","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","S",3,"FT",10,"W","Calm","None",0,
+"B03W160",2/28/2004 0:00:00,"1029","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",8,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W160",2/29/2004 0:00:00,"1018","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",3,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W161",2/24/2004 0:00:00,"1417","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","SW",3,"FT",11,"W","Calm","None",0,
+"B03W161",2/28/2004 0:00:00,"1346","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W161",2/29/2004 0:00:00,"1341","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",5,"KTS","SW",3,"FT",8,"W","Calm","None",0,
+"B03W162",2/24/2004 0:00:00,"1340","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","SW",3,"FT",11,"W","Calm","None",0,
+"B03W162",2/28/2004 0:00:00,"1307","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",6,"FT",7,"W","Choppy","None",0,
+"B03W162",2/29/2004 0:00:00,"1312","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",5,"KTS","SW",3,"FT",8,"W","Calm","None",0,
+"B03W163",2/24/2004 0:00:00,"1508","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","SW",3,"FT",12,"W","Calm","None",0,
+"B03W163",2/28/2004 0:00:00,"1321","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W163",2/29/2004 0:00:00,"1303","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",5,"KTS","W",4,"FT",8,"W","Calm","None",0,
+"B03W164",2/24/2004 0:00:00,"1320","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",2,"KTS","SW",3,"FT",11,"W","Calm","None",0,
+"B03W164",2/28/2004 0:00:00,"1252","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",6,"W","Choppy","None",0,
+"B03W164",2/29/2004 0:00:00,"1242","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",5,"KTS","W",3,"FT",8,"W","Calm","None",0,
+"B03W165",2/24/2004 0:00:00,"1301","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",6,"KTS","SW",3,"FT",11,"W","Calm","None",0,
+"B03W165",2/28/2004 0:00:00,"1238","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",7,"KTS","W",7,"FT",7,"W","Choppy","None",0,
+"B03W165",2/29/2004 0:00:00,"1230","PST","MEC","WQ","JOHN-B","DGPS",,"Clear",6,"KTS","SW",3,"FT",8,"W","Calm","None",0,
+"B03W166",2/29/2004 0:00:00,"1031","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",5,"KTS","NE",4,"FT",10,"SW","Calm","None",0,
+"B03W167",2/29/2004 0:00:00,"1056","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",3,"KTS","NE",3,"FT",10,"SW","Calm","None",0,
+"B03W168",2/29/2004 0:00:00,"1115","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",4,"KTS","NE",4,"FT",15,"SW","Calm","None",0,
+"B03W169",2/29/2004 0:00:00,"1135","PST","ABC","WQ","Hey Jude","DGPS",-99.00,"Partly Cloudy",3,"KTS","NE",4,"FT",15,"SW","Calm","None",0,
+"B03W170",2/28/2004 0:00:00,"1238","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",7,"KTS","SE",6,"FT",5,"NW","Calm","None",0,"Station moved to offshore of Silver Stand based on satellite pictures indicating that the plume is coastally trapped and moving northward.  Other stations remaind mostly as on the first day of sampling.  Water milky green, kelp/kelp debris"
+"B03W170",2/29/2004 0:00:00,"1221","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",10,"KTS","NW",7,"FT",5,"W","Calm","None",0,"Green water; Salinity right around 33.00, kelp/kelp debris"
+"B03W171",2/28/2004 0:00:00,"1302","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",8,"KTS","SE",5,"FT",5,"NW","Calm","None",0,"Station moved to offshore of the Hotel Del Coronado (I38) based on satellite pictures indicating that the plume is coastally trapped and moving northward.  Other stations remained mostly as on the first day of sampling."
+"B03W171",2/29/2004 0:00:00,"1246","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",7,"KTS","NW",7,"FT",5,"W","Calm","None",0,
+"B03W172",2/28/2004 0:00:00,"1135","PDT","CSD","WQ","Monitor III","DGPS",,"Clear",4,"KTS","E",6,"FT",5,"NW","Calm","None",0,"Salinity within this station's original coordinates was right at 33. 0 and was deemed to be ""in plume""; Station was moved .25nm offshore to get out the plume. Water very blue"
+"B03W172",2/29/2004 0:00:00,"1107","PDT","CSD","WQ","Monitor III","DGPS",,"Partly Cloudy",7,"KTS","NE",7,"FT",5,"W","Calm","None",0,"Station coordinates same as Day 2's sampling (.25nm offshore of original station location)."
+"B03W301",2/29/2004 0:00:00,"0925","PST","ABC","WQ","None","GPS",-99.00,"Partly Cloudy",0,"KTS","NW",-99,"NR",-99,"NR","NR","None",0,
+"B03W302",2/29/2004 0:00:00,"1112","PST","ABC","WQ","None","GPS",-99.00,"Partly Cloudy",5,"KTS","NW",-99,"NR",-99,"NR","NR","None",0,
+"BRI-01",9/2/2003 0:00:00,"1310","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"BRI-02",9/2/2003 0:00:00,"1114","PDT","ABC","Grab","Hey Jude","DGPS",,"Overcast",5,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"BRI-03",7/15/2003 0:00:00,"0852","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",5,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"nematode sample collected"
+"BRI-03",8/6/2003 0:00:00,"1118","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",10,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"BRI-04",7/14/2003 0:00:00,"0903","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",8,"KTS","SE",0,"FT",0,"XX","Calm","None",0,"Sampling directly at target coordinates, target distance malfunctioning"
+"BRI-04",8/6/2003 0:00:00,"0845","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",4,"KTS","S",0,"FT",0,"W","Calm","None",0,
+"BRI-05",7/14/2003 0:00:00,"1005","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",7,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"BRI-05",8/6/2003 0:00:00,"0857","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Partly Cloudy",5,"KTS","S",0,"FT",0,"XX","Calm","None",0,
+"BRI-06",7/16/2003 0:00:00,"0840","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",2,"KTS","SW",0,"FT",0,"XX","Calm","None",0,
+"BRI-06",8/7/2003 0:00:00,"1155","PDT","CLAEMD","Grab","Marine Surveyor","DGPS",-99.00,"Clear",6,"KTS","SE",0,"FT",0,"XX","Calm","None",0,
+"BRI-07",8/18/2003 0:00:00,"0904","PDT","MEC","Grab","MEC Avon","DGPS",32.30,"Clear",2,"KTS","E",0,"FT",0,"XX","Calm","None",0,
+"BRI-08",7/22/2003 0:00:00,"1205","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"BRI-09",7/22/2003 0:00:00,"1305","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",6,"KTS","S",0,"FT",0,"XX","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"BRI-10",7/22/2003 0:00:00,"1143","PDT","OCSD","Grab","Enchanter IV","DGPS",-99.00,"Overcast",7,"KTS","S",0,"FT",0,"XX","Calm","None",0,"This was hand-entered from hardcopy of field sheet 7/31/2003"
+"BRI-11",8/18/2003 0:00:00,"1441","PDT","MEC","Grab","MEC Avon","DGPS",31.28,"Clear",10,"KTS","W",0,"FT",0,"XX","Calm","None",0,
+"BRI-12",8/7/2003 0:00:00,"1739","PDT","MEC","Grab","JB","DGPS",,"Clear",6,"KTS","W",3,"FT",10,"SW","Calm","None",0,
+"BRI-13",8/7/2003 0:00:00,"1655","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",5,"KTS","W",3,"FT",10,"SW","Calm","None",0,
+"BRI-14",8/7/2003 0:00:00,"1525","PDT","MEC","Grab","JB","DGPS",,"Partly Cloudy",6,"KTS","W",3,"FT",10,"SW","Calm","None",0,
+"BRI-15",7/18/2003 0:00:00,"0900","PDT","CSD","Grab","Metro","DGPS",,"Fog",4,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Between slips A and B. East Basin marina, Harbor Island"
+"BRI-16",7/17/2003 0:00:00,"1213","PDT","CSD","Grab","Metro","DGPS",,"Fog",3,"KTS","E",0,"FT",0,"XX","Calm","None",0,"Station located inside the Marriott Marina"
+"BRI-17",7/17/2003 0:00:00,"0736","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Station located at Kelco pier. Grabs taken near the Kelco dock (main pier)."
+"BRI-18",7/17/2003 0:00:00,"0814","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",4,"KTS","S",0,"FT",0,"XX","Calm","Other",0,"Station is within a shipyard security zone. The actual station is on land and the surrounding area is closed by a boom. Could not get within 100 m of station."
+"BRI-18",7/31/2003 0:00:00,"1006","PDT","CSD","Grab","Metro","DGPS",,"Overcast",7,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"Next to/in front of Kelco near old dock pilings"
+"BRI-19",7/17/2003 0:00:00,"0901","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",3,"KTS","SW",0,"FT",0,"XX","Calm","Other",0,"Inside Naval piers 6 and 7. Could not obtain access within naval security zone."
+"BRI-19",7/31/2003 0:00:00,"0844","PDT","CSD","Grab","Metro","DGPS",,"Overcast",3,"KTS","S",0,"FT",0,"XX","Calm","None",0,"Naval security area between docks 5 and 6."
+"BRI-20",7/17/2003 0:00:00,"0905","PDT","CSD","Grab","Metro","DGPS",,"Partly Cloudy",6,"KTS","S",0,"FT",0,"XX","Calm","Other",0,"Within Naval security zone. Access denied between pier 10 and Quaywall"
+"BRI-20",7/31/2003 0:00:00,"0805","PDT","CSD","Grab","Metro","DGPS",,"Overcast",4,"KTS","SW",0,"FT",0,"XX","Calm","None",0,"7th Street channel in front of sewage and fuel barges. Navy security area"

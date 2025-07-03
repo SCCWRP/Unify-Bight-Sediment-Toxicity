@@ -1,0 +1,90 @@
+Sediment Toxicity Bioassay Water Quality Metadata
+September 13, 1996
+
+Program:  Southern California Bight Pilot Project (SCBPP)
+
+Source:  Southern California Coastal Water Research Project (SCCWRP)
+
+Contact:  Steven Bay
+
+Phone:  (714) 894-2222,  894-9699 (FAX)
+
+Number of Stations Sampled:  72
+
+Sampling Period:  13 July 1994 -- 22 August 1994
+
+Number Of Variables Measured:  7:  Data for pH, dissolved oxygen, salinity, temperature, total sulfides, 
+total ammonia and un-ionized ammonia in interstitial water samples from toxicity testing and overlying 
+water from whole sediment toxicity tests.  Bioassay data appears in the file TOX_DATA.TXT.
+
+Sampling Equipment Used:  Sediment for toxicity sampling was collected with a modified, chain-rigged 
+0.1m2 Van Veen grab.
+
+Analytical Techniques:  Interstitial water toxicity testing was performed at SCCWRP using embryos of the 
+purple sea urchin, Strongylocentrotus purpuratus, following methods of the EPA’s West Coast Manual.  
+Whole sediment testing was performed at SCCWRP and SAIC in Rhode Island.  Whole sediment tests used 
+the amphipod, Ampelisca abdita, by the methods in ASTM.
+
+Data Set Verification:  Data set verified by toxicologists from SCCWRP.
+
+General Comments:
+               This data set includes minimum and maximum values for water quality parameters measured 
+during the performance of toxicity tests for the SCBPP.  Each record has the following fields (variables):  
+Log Number, QA Batch, Lab Code, Parameter, Dilution, Minimum and Maximum.  The log number is a 10 
+digit code in the following form:
+                                            Digit
+                                                1                   -                           P for Pilot Project
+                                             2 & 3               -                           Agency collecting the sediment
+                                             4 & 5               -                           Type of data (ST = Sediment toxicity)
+                                             6 to 9               -                           Station number
+                                                10                 -                            Replicate number.
+
+For agency collecting sediment, EC = Control sediment collected by SCCWRP’s amphipod supplier; SA = 
+Control sediment collected by SAIC in Rhode Island;  SC= Centrifugation blank created in the SCCWRP 
+laboratory;  HY= Hyperion Treatment Plant;  LA= County Sanitation Districts of Los Angeles County;  
+ME= MEC Analytical Systems, Inc. and SD= City of San Diego.  The replicate digit will be 0 in all cases 
+except when a sample has been split between SCCWRP and SAIC for toxicity testing.  In those cases, the 
+replicate value is 0 for the sample tested by SCCWRP and 1 for the sample tested by SAIC.
+
+
+QA Batch is the internal experiment designation by either SCCWRP or SAIC.
+
+Lab Code is the two letter code for the laboratory that performed the bioassay.  Either SC for SCCWRP or 
+NG for SAIC in Rhode Island.
+
+Parameter is the water quality parameter measured.  PH = pH; DO = dissolved oxygen in milligrams/liter; 
+SAL = Salinity in grams/kilogram; TEMP = temperature in degrees centrigrade;  NH3T = total ammonia in 
+milligrams/liter;  STP = total sulfides in milligrams/liter;  NH3U= un-ionized ammonia in milligrams/liter.
+
+Dilution is percentage of sample that was interstitial water.  Null indicates 100% sample.
+
+Station locations can be found in the Benthic Master Sample File, except for the following three control 
+sites.  All log numbers having the EC agency code, except station 3002, were a negative control station 
+where the amphipods were collected in Rhode Island (lat:41.443889, long:71.456944).  Station 3002 was a 
+positive control site for the amphipod test.  This station was located in Wickford Harbor, Rhode Island 
+(lat:41.582222,long:71.425).  All stations with the SA agency code were for the negative control station 
+used by SAIC for there amphipod tests.  This station is located in Long Island Sound (lat:41.1325, 
+long:72.87833).  Descriptive data on sediment color and texture and depth of penetration of the grab for 
+SCBPP stations are available from SCCWRP on request.
+
+Field and Laboratory Techniques:  Measurements of pH were made using an Orion model 91-157 pH 
+Triode electrode attached to a Orion Model 290A portable meter.  Dissolved oxygen was measured with an 
+Orion Model 810 portable meter/electrode.  Conductivity was measured with an Orion model 124 
+meter/probe.  The conductivity measurements were converted to salinity mathematically.  Temperature was 
+continuously monitored during the experiments using electronic thermometers.  Total sulfides were 
+measured through a calorimetric method.  Total ammonia was measured using an Orion model 95-12 
+specific ion electrode attached to a Corning model 150 benchtop meter.  Un-ionized ammonia was 
+calculated by the methods of Hampson (1977).
+
+Quality Assurance And Quality Control Evaluation:  Calibrations were performed on all water quality 
+measurement apparatus on the days they were used.  Duplicate measurements were made on a subset of 
+samples to verify instrument reproducibility and stability.
+
+Data Use and Comparability:  The data are appropriate for determining water quality conditions during the 
+toxicity tests.  The data are appropriate for comparing conditions between exposures and between the 
+laboratories that conducted the bioassays.  Since the data were not collected in the field, they should not be 
+used for determining water quality conditions in the field.
+	For the interstitial water data, there was an interference in toxicity data caused by ammonia.  
+Ammonia levels were found to have increased greatly during storage of the sediments and led to many 
+samples appearing to be more toxic than would have been expected if no ammonia was present.  The 
+toxicity data must therefore be viewed in light of the water quality data.
