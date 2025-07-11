@@ -23,3 +23,5 @@ non_joining = non_joining |> dplyr::select(order(names(non_joining)))
 
 compare = dplyr::bind_cols(joining, non_joining)                                           
 
+readr::write_rds(compare, "data/compare-2018.rds")
+openxlsx::write.xlsx(compare, "data-compare/compare-2018.xlsx")
