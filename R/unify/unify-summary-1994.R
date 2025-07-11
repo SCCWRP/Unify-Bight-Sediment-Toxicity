@@ -37,7 +37,7 @@ control_stations = tibble(stationid = substr(unique(sort(DATA$controlcode)), 6, 
 results = DATA |>
   dplyr::mutate(
     result = 100 * value / `start count`,
-    units = "Percent"
+    units = "percentage"
   ) |>
   dplyr::rename(
     lab = `lab code`,

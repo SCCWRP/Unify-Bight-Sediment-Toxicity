@@ -49,7 +49,7 @@ results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt
     ),
     units = dplyr::case_match(
       units,
-      "%" ~ "Percent",
+      "%" ~ "percentage",
       .default = units
   ))
 

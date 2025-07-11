@@ -13,7 +13,6 @@ results = results |>
       "Bulk Sediment (whole sediment)" ~ "Whole Sediment",
       .default = matrix
     ),
-    units = "Percent",
     treatment = case_match(
       treatment,
       "None" ~ NA_character_,
