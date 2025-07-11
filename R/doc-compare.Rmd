@@ -1,0 +1,12 @@
+---
+title: "Compare unified summary to exisitng published summary"
+output: html_document
+---
+
+The purpose of `R/main-compare.R` is to generate comparison tables to see any
+differences between what `R/main-unify.R` produces versus what is published
+already in the SCCWRP data portal.
+
+Each script within compare maps the year's columns to the format that the unify
+scripts produce. This way we can sort by `year` and a `status` column, and
+related rows should be adjacent for easy comparison.
