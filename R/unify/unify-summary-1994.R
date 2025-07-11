@@ -31,7 +31,7 @@ DATA = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1994/TOX_DATA.TXT')
   dplyr::tibble() |>
   dplyr::rename_with(tolower)
 
-all_stations = tibble(stationid = substr(unique(sort(DATA$log.number)), 6, 9))
+all_stations = tibble(stationid = substr(unique(sort(DATA$`log number`)), 6, 9))
 control_stations = tibble(stationid = substr(unique(sort(DATA$controlcode)), 6, 9))
 
 results = DATA |>

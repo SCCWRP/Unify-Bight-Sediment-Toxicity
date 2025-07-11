@@ -2,13 +2,23 @@
 devtools::load_all('../SQOUnified-git/')
 
 #####
-# Year: 2018
+# Year: 2023
 #####
-# Prepare 2018 results data
+# Prepare 2023 results data
 ## This data was downloaded from the data portal
 results <- readr::read_csv('data-raw/from-bight2023-db/bight23results.csv') |>
   dplyr::mutate(
-    units = "Percent"
+    units = "Percent",
+      treatment = case_match(
+        treatment,
+        "None" ~ NA_character_,
+        .default = treatment
+      ),
+    dilution = ifelse("dilution" %in% pick(everything()), as.numeric(dilution), -88),
+    dilution = case_when(
+      dilution < 0 ~ NA,
+      .default = dilution
+    )
   )
 
 summary = tibble(surveyyear = 2023) |> dplyr::cross_join(SQOUnified::tox.summary(results))

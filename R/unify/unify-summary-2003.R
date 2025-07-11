@@ -29,6 +29,11 @@ results <- results |>
       sampletypecode,
       c("RESULT", "Result") ~ "Grab",
       .default = sampletypecode
+    ),
+    dilution = ifelse("dilution" %in% pick(everything()), as.numeric(dilution), -88),
+    dilution = case_when(
+      dilution < 0 ~ NA,
+      .default = dilution
     )
   )
 

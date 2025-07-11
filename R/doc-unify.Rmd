@@ -1,0 +1,17 @@
+---
+title: "Generate unified summary dataset"
+output: html_document
+---
+
+The unified summary depends on the package in the SCCWRP/SQOUnified repository.
+The code, as-is, assumes it is in a project rooted one level up from this
+package.
+
+To run the unified summary generation scripts, there is a centralized main
+script `R/main-unify.R`. This will run the summary generation for each specified
+year in the main script. If needed, edit the year vector to modify this
+behavior. Then run as the following from a shell:
+
+```
+Rscript R/main-unify.R
+```

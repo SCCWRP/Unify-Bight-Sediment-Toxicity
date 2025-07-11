@@ -70,7 +70,12 @@ results = results |>
     ),
     lab = with(agency_lookup, fullname[match(labcode, code)]),
     matrix = with(matrix_lookup, name[match(matrix, code)]),
-    units = "percent"
+    units = "percent",
+    dilution = ifelse("dilution" %in% pick(everything()), as.numeric(dilution), -88),
+    dilution = case_when(
+      dilution < 0 ~ NA,
+      .default = dilution
+    )
   )
 
 

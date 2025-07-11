@@ -7,4 +7,5 @@ for (y in years) {
   callr::rscript(paste0("R/unify/unify-summary-", y, ".R"))
 }
 
+print("Writing unified dataset")
 callr::rscript("R/unify/unify-summaries.R")
