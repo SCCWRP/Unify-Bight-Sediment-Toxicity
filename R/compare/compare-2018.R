@@ -1,15 +1,15 @@
 unify = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == 2018)
 
-published = readxl::read_excel("data-raw/DataPortalDownloads/ToxData-2018/Bight_18_Sediment_Toxicity_Summary_Results_9058230620704627381.xlsx") |>
+published_data = readxl::read_excel("data-raw/DataPortalDownloads/ToxData-2018/Bight_18_Sediment_Toxicity_Summary_Results_9058230620704627381.xlsx") |>
   dplyr::rename(
     adjusted_control_mean = pctcontrol,
   ) |>
 
 sort(names(unify_data))
-sort(names(published))
+sort(names(published_data))
 
-published = published |> dplyr::mutate(
+published = published_data |> dplyr::mutate(
     control_mean = NA_real_
   )
 

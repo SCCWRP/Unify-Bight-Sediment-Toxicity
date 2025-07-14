@@ -1,15 +1,15 @@
-unify = readr::read_rds("data/unified.rds") |>
+unify_data = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == 2023)
 
-published = readr::read_csv("data-raw/from-bight2023-db/bight23summary.csv")
+published_data = readr::read_csv("data-raw/from-bight2023-db/bight23summary.csv")
 
 sort(names(unify_data))
-sort(names(published))
+sort(names(published_data))
 
-common_cols = dplyr::intersect(names(unify), names(published))
+common_cols = dplyr::intersect(names(unify), names(published_data))
 
-unify = unify |> dplyr::select(all_of(common_cols))
-published = published |> dplyr::select(all_of(common_cols))
+unify = unify_data |> dplyr::select(all_of(common_cols))
+published = published_data |> dplyr::select(all_of(common_cols))
 
 joined = dplyr::full_join(published, unify, by=dplyr::join_by(stationid, lab, toxbatch, species, sampletypecode, fieldreplicate), suffix = c(".pub", ".uni"))
 
