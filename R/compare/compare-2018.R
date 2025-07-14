@@ -5,9 +5,14 @@ published = readxl::read_excel("data-raw/DataPortalDownloads/ToxData-2018/Bight_
   dplyr::rename(
     adjusted_control_mean = pctcontrol,
   ) |>
-  dplyr::mutate(
+
+sort(names(unify_data))
+sort(names(published))
+
+published = published |> dplyr::mutate(
     control_mean = NA_real_
   )
+
 
 
 common_cols = dplyr::intersect(names(unify), names(published))

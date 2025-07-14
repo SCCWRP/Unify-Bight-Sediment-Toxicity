@@ -1,6 +1,11 @@
 unify = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == 2023)
+
 published = readr::read_csv("data-raw/from-bight2023-db/bight23summary.csv")
+
+sort(names(unify_data))
+sort(names(published))
+
 common_cols = dplyr::intersect(names(unify), names(published))
 
 unify = unify |> dplyr::select(all_of(common_cols))

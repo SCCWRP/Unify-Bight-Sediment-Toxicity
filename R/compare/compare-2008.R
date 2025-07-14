@@ -1,25 +1,32 @@
 unify_data = readr::read_rds("data/unified.rds") |>
-  dplyr::filter(surveyyear == 2013)
+  dplyr::filter(surveyyear == 2008)
 
-published = readxl::read_excel("data-raw/DataPortalDownloads/ToxData-2013/Bight_13_Toxicity_Summary_Results2_-2502133100839271899.xlsx") |>
-  dplyr::rename(
-    adjusted_control_mean = pctcontrol,
-  )
+published_data = readr::read_csv("data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicitySummaryResults_CE.csv")
 
 sort(names(unify_data))
-sort(names(published))
+sort(names(published_data))
 
-published = published |> dplyr::mutate(
-    control_mean = NA_real_,
-    dilution = NA_real_,
-    fieldreplicate = NA_integer_,
-    pvalue = NA_real_,
+published = published_data |>
+  dplyr::mutate(
     coefficientvariance = NA_real_,
-    treatment = NA,
-    comments = comment,
-    matrix = NA_character_
+    control_mean = NA_real_,
+    diluiton = NA_real_,
+    fieldreplicate = NA_character_,
+    matrix = NA_character_) |>
+  dplyr::rename(
+    adjusted_control_mean = PctControl,
+    endpoint = EPCode,
+    lab = LabCode,
+    mean = Mean,
+    n = N,
+    sampletypecode = SampleType,
+    sigeffect = SigEffect,
+    species = Species,
+    stationid = StationID,
+    stddev = StdDev,
+    toxbatch = QABatch,
+    units = Units
   )
-
 
 common_cols = dplyr::intersect(names(unify_data), names(published))
 
