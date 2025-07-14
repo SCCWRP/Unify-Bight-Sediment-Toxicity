@@ -19,9 +19,12 @@ joined = dplyr::full_join(published, unify, by=dplyr::join_by(stationid, lab, to
 joining = joined |> dplyr::select(!ends_with(".pub") & !ends_with(".uni"))
 non_joining = dplyr::bind_cols(joined |> dplyr::select(ends_with(".pub")), joined |> dplyr::select(ends_with(".uni")))
 
+source("R/compare/compare-util.R")
+non_joining = non_joining |> compare()
+
 non_joining = non_joining |> dplyr::select(order(names(non_joining)))
 
-compare = dplyr::bind_cols(joining, non_joining)                                           
+compare = dplyr::bind_cols(joining, non_joining)
 
 readr::write_rds(compare, "data/compare-2018.rds")
 openxlsx::write.xlsx(compare, "data-compare/compare-2018.xlsx")
