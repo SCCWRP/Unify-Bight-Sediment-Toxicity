@@ -21,7 +21,7 @@ non_joining = dplyr::bind_cols(joined |> dplyr::select(ends_with(".pub")), joine
 source("R/compare/compare-util.R")
 non_joining = non_joining |> compare()
 
-non_joining = non_joining |> dplyr::select(order(names(non_joining)))
+non_joining = non_joining |> dplyr::select(all_of(order(names(non_joining))))
 
 compare = dplyr::bind_cols(joining, non_joining)
 
