@@ -25,6 +25,6 @@ results <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2018/Bight_18_S
     )
   )
 
-summary = tibble(surveyyear = 2018) |> dplyr::cross_join(SQOUnified::tox.summary(results))
+summary = tibble(surveyyear = 2018) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-2018.rds")

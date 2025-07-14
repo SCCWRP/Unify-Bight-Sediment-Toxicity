@@ -21,6 +21,6 @@ results <- readr::read_csv('data-raw/from-bight2023-db/bight23results.csv') |>
     )
   )
 
-summary = tibble(surveyyear = 2023) |> dplyr::cross_join(SQOUnified::tox.summary(results))
+summary = tibble(surveyyear = 2023) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-2023.rds")

@@ -166,6 +166,6 @@ results <- results |>
     matrix = with(lu_matrix, Matrix[match(matrix, Code)])
   )
 
-summary <- dplyr::tibble(surveyyear = 2003) |> dplyr::cross_join(SQOUnified::tox.summary(results))
+summary <- dplyr::tibble(surveyyear = 2003) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-2003.rds")

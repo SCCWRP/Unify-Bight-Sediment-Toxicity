@@ -24,6 +24,6 @@ results = results |>
       .default = dilution
     ))
 
-summary = dplyr::tibble(surveyyear = 2013) |> dplyr::cross_join(SQOUnified::tox.summary(results))
+summary = dplyr::tibble(surveyyear = 2013) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-2013.rds")

@@ -58,6 +58,6 @@ results = DATA |>
     )
   )
 
-summary <- dplyr::tibble(surveyyear = 1994) |> dplyr::cross_join(SQOUnified::tox.summary(results))
+summary <- dplyr::tibble(surveyyear = 1994) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-1994.rds")

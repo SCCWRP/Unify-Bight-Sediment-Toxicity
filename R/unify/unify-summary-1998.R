@@ -53,6 +53,6 @@ results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt
       .default = units
   ))
 
-summary <- dplyr::tibble(surveyyear = 1998) |> dplyr::cross_join(SQOUnified::tox.summary(results))
+summary <- dplyr::tibble(surveyyear = 1998) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-1998.rds")
