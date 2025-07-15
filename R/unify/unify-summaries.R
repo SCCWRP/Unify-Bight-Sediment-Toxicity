@@ -46,7 +46,7 @@ postprocessed <- preprocessed |>
     endpoint = `Endpoint Method`,
     mean = Mean,
     control_mean = pct_control,
-    adjusted_control_mean = `Control Adjusted Mean`,
+    pctcontrol = `Control Adjusted Mean`,
     stddev = `Standard Deviation`,
     coefficientvariance = `Coefficient of Variance`,
     pvalue = `P Value`,
