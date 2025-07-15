@@ -58,3 +58,5 @@ postprocessed = postprocessed |>
   dplyr::relocate(objectid, .before = surveyyear)
 
 readr::write_rds(postprocessed, "data/unified.rds")
+openxlsx::write.xlsx(postprocessed, "data-out/unified.xlsx")
+
