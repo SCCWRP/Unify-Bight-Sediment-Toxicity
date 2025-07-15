@@ -28,8 +28,6 @@ bool_diff = function (p, u, both.na.equal = FALSE) {
   }) |> as.logical()
 }
 
-names(non_joining)
-
 compare = function(non_joining) {
   if ("dilution.pub" %in% names(non_joining))
     non_joining = non_joining |> dplyr::mutate(dilution.zcomp = float_eq(dilution.pub, dilution.uni),
