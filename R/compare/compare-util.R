@@ -1,40 +1,60 @@
-pct_diff = function (p, u) { 
+float_eq = function (p, u) { 
   purrr::map2(p, u, function(pp, uu) {
     if(is.na(pp) && is.na(uu)) return(FALSE)
     if(is.na(pp) && !is.na(uu) || !is.na(pp) && is.na(uu)) return(FALSE)
     if(pp == uu) return(TRUE)
-    pd = (pp-uu) / pp
-    d = ifelse(is.na(pd), 0, pd)
-    ifelse(d > 0.1, FALSE, TRUE)
-  })
+    prelim = 100 * abs(pp-uu) / pp
+    diff = ifelse(is.na(prelim), -1, prelim)
+    ifelse(diff > 1 || diff < 0, FALSE, TRUE)
+  }) |> as.logical()
 }
+
+pct_diff = function (p, u) { 
+  purrr::map2(p, u, function(pp, uu) {
+    if(is.na(pp) && is.na(uu)) return(-1)
+    if(is.na(pp) && !is.na(uu) || !is.na(pp) && is.na(uu)) return(-1)
+    if(pp == uu) return(0)
+    prelim = 100 * abs(pp-uu) / pp
+    diff = ifelse(is.na(prelim), -1, prelim)
+    return(round(diff, digits = 3))
+  }) |> as.double()
+}
+
 bool_diff = function (p, u, both.na.equal = FALSE) {
   purrr::map2(p, u, function(pp, uu) {
     if(is.na(pp) && is.na(uu)) return(ifelse(both.na.equal, TRUE, FALSE))
     if(is.na(pp) && !is.na(uu) || !is.na(pp) && is.na(uu)) return(FALSE)
     return(pp == uu)
-  })
+  }) |> as.logical()
 }
 
 names(non_joining)
 
 compare = function(non_joining) {
   if ("dilution.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(dilution.zcomp = pct_diff(dilution.pub, dilution.uni))
+    non_joining = non_joining |> dplyr::mutate(dilution.zcomp = float_eq(dilution.pub, dilution.uni),
+                                               dilution.zpdiff = pct_diff(dilution.pub, dilution.uni))
   if ("pvalue.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(pvalue.zcomp =  pct_diff(pvalue.pub, pvalue.uni))
+    non_joining = non_joining |> dplyr::mutate(pvalue.zcomp =  float_eq(pvalue.pub, pvalue.uni),
+                                               pvalue.zpdiff = pct_diff(pvalue.pub, pvalue.uni))
   if ("mean.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(mean.zcomp = pct_diff(mean.pub, mean.uni))
+    non_joining = non_joining |> dplyr::mutate(mean.zcomp = float_eq(mean.pub, mean.uni),
+                                               mean.zpdiff = pct_diff(mean.pub, mean.uni))
   if ("control_mean.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(control_mean.zcomp = pct_diff(control_mean.pub, control_mean.uni))
+    non_joining = non_joining |> dplyr::mutate(control_mean.zcomp = float_eq(control_mean.pub, control_mean.uni),
+                                               control_mean.zpdiff = pct_diff(control_mean.pub, control_mean.uni))
   if ("adjusted_control_mean.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(adjusted_control_mean.zcomp = pct_diff(adjusted_control_mean.pub, adjusted_control_mean.uni))
+    non_joining = non_joining |> dplyr::mutate(adjusted_control_mean.zcomp = float_eq(adjusted_control_mean.pub, adjusted_control_mean.uni),
+                                               adjusted_control_mean.zpdiff = pct_diff(adjusted_control_mean.pub, adjusted_control_mean.uni))
   if ("stddev.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(stddev.zcomp = pct_diff(stddev.pub, stddev.uni))
+    non_joining = non_joining |> dplyr::mutate(stddev.zcomp = float_eq(stddev.pub, stddev.uni),
+                                               stddev.zpdiff = pct_diff(stddev.pub, stddev.uni))
   if ("coefficientvariance.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(coefficientvariance.zcomp = pct_diff(coefficientvariance.pub, coefficientvariance.uni))
+    non_joining = non_joining |> dplyr::mutate(coefficientvariance.zcomp = float_eq(coefficientvariance.pub, coefficientvariance.uni),
+                                               coefficientvariance.zpdiff = pct_diff(coefficientvariance.pub, coefficientvariance.uni))
   if ("n.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(n.zcomp = pct_diff(n.pub, n.uni))
+    non_joining = non_joining |> dplyr::mutate(n.zcomp = float_eq(n.pub, n.uni),
+                                               n.zpdiff = pct_diff(n.pub, n.uni))
   if ("units.pub" %in% names(non_joining))
     non_joining = non_joining |> dplyr::mutate(units.zcomp = bool_diff(units.pub, units.uni))
   if ("qacode.pub" %in% names(non_joining))
