@@ -1,20 +1,27 @@
 float_eq = function (p, u) { 
   purrr::map2(p, u, function(pp, uu) {
+    # Return FALSE if either of the published or unified data are NA
     if(is.na(pp) && is.na(uu)) return(FALSE)
     if(is.na(pp) && !is.na(uu) || !is.na(pp) && is.na(uu)) return(FALSE)
     if(pp == uu) return(TRUE)
+    # Published and unified values are not equal
+    # Assign 0 to preliminary value if divide by zero happens
     prelim = 100 * abs(pp-uu) / pp
     diff = ifelse(is.na(prelim), -1, prelim)
+    # Return FALSE if the difference wasn't small enough
     ifelse(diff > 1 || diff < 0, FALSE, TRUE)
   }) |> as.logical()
 }
 
 pct_diff = function (p, u) { 
   purrr::map2(p, u, function(pp, uu) {
+    # Return -1 if either of the published or unified data are NA
     if(is.na(pp) && is.na(uu)) return(-1)
     if(is.na(pp) && !is.na(uu) || !is.na(pp) && is.na(uu)) return(-1)
     if(pp == uu) return(0)
     prelim = 100 * abs(pp-uu) / pp
+    # Return -1 if preliminary comparison was NA or NaN,
+    #  likely due to division by 0.
     diff = ifelse(is.na(prelim), -1, prelim)
     return(round(diff, digits = 3))
   }) |> as.double()
