@@ -3,10 +3,7 @@ yr = 2013
 unify_data = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == yr)
 
-published_data = readxl::read_excel("data-raw/DataPortalDownloads/ToxData-2013/Bight_13_Toxicity_Summary_Results2_-2502133100839271899.xlsx") |>
-  dplyr::rename(
-    adjusted_control_mean = pctcontrol,
-  )
+published_data = readxl::read_excel("data-raw/DataPortalDownloads/ToxData-2013/Bight_13_Toxicity_Summary_Results2_-2502133100839271899.xlsx")
 
 published = published_data |> dplyr::mutate(
     control_mean = NA_real_,

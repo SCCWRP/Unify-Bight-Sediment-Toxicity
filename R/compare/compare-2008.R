@@ -18,7 +18,7 @@ published = published_data |>
     pvalue = NA_real_
   ) |>
   dplyr::rename(
-    adjusted_control_mean = PctControl,
+    pctcontrol = PctControl,
     comments = Comment,
     dilution = Dilution,
     endpoint = EPCode,
