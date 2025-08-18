@@ -1,8 +1,8 @@
 devtools::load_all('../SQOUnified-git/')
 
-results = read.csv('data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicityResults_CE.csv')
-stations = read.csv('data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicityStations_CE.csv')
-batch = read.csv('data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicityBatchInformation_CE.csv')
+results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicityResults_CE.csv', show_col_types = FALSE)
+stations = readr::read_csv('data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicityStations_CE.csv', show_col_types = FALSE)
+batch = readr::read_csv('data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicityBatchInformation_CE.csv', show_col_types = FALSE)
 
 agency_lookup <- dplyr::tibble(
   code = c(

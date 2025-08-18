@@ -27,7 +27,7 @@ lookup_endpoint = dplyr::tibble(
   EndpointName = c("NormalDev", "Survival")
 )
 
-DATA = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1994/TOX_DATA.TXT') |>
+DATA = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1994/TOX_DATA.TXT', show_col_types = FALSE) |>
   dplyr::tibble() |>
   dplyr::rename_with(tolower)
 

@@ -17,11 +17,11 @@ lookup_agency = dplyr::tibble(
   AgencyName = c("Aquatic Bioassay and Consulting", "Algalita Marine Research Foundation", "Aliso Water Management Authority", "Santa Barbara County Health Service", "Los Angeles County Dept. of Beaches & Harbors", "Center for Environmental Cooperation", "Southern California Edison", "Chevron USA Products Company", "Channel Islands National Marine Sanctuary", "Cabrillo Marine Aquarium", "Marine Corps Base - Camp Pendleton", "Columbia Analytical Services", "City of Ventura", "San Diego Regional Water Quality Control Board", "Los Angeles Department of Water and Power", "Orange County Environmental Health Division", "Encina Wastewater Authority", "Granite Canyon Marine Pollution Studies Lab", "Goleta Sanitation District", "Los Angeles County Dept. of Health Services", "City of Los Angeles Environmental Monitoring Division", "San Diego Interagency Water Quality Panel", "US EPA Region IX", "Los Angeles County Sanitation Districts", "City of Long Beach", "MEC Analytical Systems Inc.", "Southern California Marine Institute", "National Fisheries Institute of Mexico", "US Navy, Space & Naval Warfare Systems Center, San Diego", "Orange County Sanitation Districts", "City of Oceanside", "City of Oxnard", "Orange County Public Facilities and Resources", "Southeast Regional Reclamation Authority", "Los Angeles County Regional Water Quality Control Board", "US EPA Office of Research and Development", "Santa Monica Bay Restoration Project", "Santa Ana Regional Water Quality Control Board", "City of Santa Barbara", "Southern California Coastal Water Research Project", "City of San Diego", "San Elijo Joint Powers Authority", "Surfrider Foundation", "San Diego County Dept. of Environmental Health", "State Water Resources Control Board", "University Autonomous de Baja California", "University of California, Santa Barbara", "USC Wrigley Institute for Environmental Studies")
 )
 
-batch = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Batch.txt') |>
+batch = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Batch.txt', show_col_types = FALSE) |>
   dplyr::tibble() |>
   dplyr::rename_with(tolower)
 
-results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt') |>
+results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt', show_col_types = FALSE) |>
   dplyr::tibble() |>
   dplyr::rename_with(tolower) |>
   dplyr::rename(

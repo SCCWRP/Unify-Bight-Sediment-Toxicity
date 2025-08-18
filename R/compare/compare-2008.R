@@ -3,7 +3,7 @@ yr = 2008
 unify_data = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == yr)
 
-published_data = readr::read_csv("data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicitySummaryResults_CE.csv")
+published_data = readr::read_csv("data-raw/DataPortalDownloads/ToxData-2008/B08CEToxicitySummaryResults_CE.csv", show_col_types = FALSE)
 
 unify = unify_data |> dplyr::mutate(
   concentration = NA_real_,

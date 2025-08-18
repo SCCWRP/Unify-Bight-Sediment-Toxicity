@@ -6,7 +6,7 @@ yr = 2003
 unify_data = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == yr)
 
-published_data = readr::read_csv("data-raw/DataPortalDownloads/ToxData-2003/tblToxicitySummaryResults.txt")
+published_data = readr::read_csv("data-raw/DataPortalDownloads/ToxData-2003/tblToxicitySummaryResults.txt", show_col_types = FALSE)
 
 output_columns = readr::read_rds("data/output_columns.rds")
 

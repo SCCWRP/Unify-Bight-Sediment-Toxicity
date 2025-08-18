@@ -6,13 +6,13 @@ devtools::load_all('../SQOUnified-git/')
 #####
 # Script to preprocess, process, and post-process Bight Tox 2003 data
 
-results <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2003/tblToxicityResults.txt') |>
+results <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2003/tblToxicityResults.txt', show_col_types = FALSE) |>
   dplyr::rename_with(tolower)
 
-stations <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2003/tblStations.txt') |>
+stations <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2003/tblStations.txt', show_col_types = FALSE) |>
   dplyr::rename_with(tolower)
 
-batch <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2003/tblToxicityBatchInformation.txt') |>
+batch <- readr::read_csv('data-raw/DataPortalDownloads/ToxData-2003/tblToxicityBatchInformation.txt', show_col_types = FALSE) |>
   dplyr::rename_with(tolower)
 
 names(stations) = tolower(names(stations))

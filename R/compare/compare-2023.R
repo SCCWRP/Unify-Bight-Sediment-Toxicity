@@ -5,7 +5,7 @@ output_columns = readr::read_rds("data/output_columns.rds")
 unify_data = readr::read_rds("data/unified.rds") |>
   dplyr::filter(surveyyear == yr)
 
-published_data = readr::read_csv("data-raw/from-bight2023-db/bight23summary.csv") |>
+published_data = readr::read_csv("data-raw/from-bight2023-db/bight23summary.csv", show_col_types = FALSE) |>
   dplyr::rename_with(tolower)
 common_cols = dplyr::intersect(names(unify_data), names(published_data))
 
