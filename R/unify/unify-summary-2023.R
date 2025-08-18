@@ -6,7 +6,7 @@ devtools::load_all('../SQOUnified-git/')
 #####
 # Prepare 2023 results data
 ## This data was downloaded from the data portal
-results <- readr::read_csv('data-raw/from-bight2023-db/bight23results.csv') |>
+results <- readr::read_csv('data-raw/from-bight2023-db/bight23results.csv', show_col_types = FALSE) |>
   dplyr::mutate(
     units = "Percent",
       treatment = case_match(
