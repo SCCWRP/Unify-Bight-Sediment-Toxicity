@@ -8,8 +8,31 @@ devtools::load_all('../SQOUnified-git/')
 ## This data was downloaded from the data portal
 
 lookup_species = dplyr::tibble(
-  SpeciesCode = c("EE"),
-  SpeciesName = c("Eohaustorius estuarius")
+  SpeciesCode = c("EE", "VF", "GP", "PL", "HEPG2", "PF"),
+  SpeciesName = c("Eohaustorius estuarius", "Vibrio fisheri", "Gonyaulax polyedra", "Pyrocystis lunula", "RGS cell line", "Pyrocystis fusiformis")
+)
+
+lookup_endpoint = dplyr::tibble(
+  # EPCode EndPoint
+  # SP survial percent
+  # RL relative luminescence
+  # B[a]Peq Benzo [a] Pyrene equivalents
+  # EC50 median effective concentration
+  # IC50 median inhibatory concentration
+  EPCode = c("SP", "RL", "B[a]PEq", "EC50", "IC50"),
+  EndPoint = c("survial percent", "relative luminescence", "Benzo [a] Pyrene equivalents", "median effective concentration", "median inhibatory concentration")
+)
+
+lookup_matrix = dplyr::tibble(
+  # MatrixCode MatrixDescription
+  # "BS" "bulk sediment"
+  # "IW" "interstitial water"
+  # "EL" "elutriate"
+  # "EX" "extract"
+  # "OL" "overlaying water"
+  # "RT" "reference toxicant"
+  MatrixCode = c("BS", "IW", "EL", "EX", "OL", "RT"),
+  MatrixDescription = c("bulk sediment", "interstitial water", "elutriate", "extract", "overlaying water", "reference toxicant")
 )
 
 lookup_agency = dplyr::tibble(
