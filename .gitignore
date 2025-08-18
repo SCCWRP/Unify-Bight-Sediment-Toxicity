@@ -3,3 +3,7 @@
 .Rhistory
 .Rproj.user
 ~*
+data
+data-out
+data-compare
+
