@@ -45,7 +45,6 @@ postprocessed <- preprocessed |>
   dplyr::rename(
     endpoint = `Endpoint Method`,
     mean = Mean,
-    control_mean = pct_control,
     pctcontrol = `Control Adjusted Mean`,
     stddev = `Standard Deviation`,
     coefficientvariance = `Coefficient of Variance`,

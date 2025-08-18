@@ -48,9 +48,9 @@ compare = function(non_joining) {
   if ("control_mean.pub" %in% names(non_joining))
     non_joining = non_joining |> dplyr::mutate(control_mean.zcomp = float_eq(control_mean.pub, control_mean.uni),
                                                control_mean.zpdiff = pct_diff(control_mean.pub, control_mean.uni))
-  if ("adjusted_control_mean.pub" %in% names(non_joining))
-    non_joining = non_joining |> dplyr::mutate(adjusted_control_mean.zcomp = float_eq(adjusted_control_mean.pub, adjusted_control_mean.uni),
-                                               adjusted_control_mean.zpdiff = pct_diff(adjusted_control_mean.pub, adjusted_control_mean.uni))
+  if ("pctcontrol.pub" %in% names(non_joining))
+    non_joining = non_joining |> dplyr::mutate(pctcontrol.zcomp = float_eq(pctcontrol.pub, pctcontrol.uni),
+                                               pctcontrol.zpdiff = pct_diff(pctcontrol.pub, pctcontrol.uni))
   if ("stddev.pub" %in% names(non_joining))
     non_joining = non_joining |> dplyr::mutate(stddev.zcomp = float_eq(stddev.pub, stddev.uni),
                                                stddev.zpdiff = pct_diff(stddev.pub, stddev.uni))
