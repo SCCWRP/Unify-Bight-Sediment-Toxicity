@@ -1,6 +1,3 @@
-library(dplyr)
-library(readr)
-
 # Installing from local to pick up unmerged changes
 devtools::load_all('../SQOUnified-git/')
 
