@@ -10,5 +10,8 @@ for (y in years) {
 preprocessed = dplyr::bind_rows(datasets)
 postprocessed = preprocessed
 
+print("Writing data/comparison-combined.rds")
 readr::write_rds(postprocessed, "data/comparison-combined.rds")
+
+print("Writing data-compare/comparison-combined.xlsx")
 openxlsx::write.xlsx(postprocessed, "data-compare/comparison-combined.xlsx")
