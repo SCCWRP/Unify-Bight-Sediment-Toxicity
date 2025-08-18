@@ -1,0 +1,29 @@
+Documents for 2003 > Assessment > Sediment Toxicity
+
+DOCUMENT TITLE: Southern California Bight 2003 Regional Monitoring Program: I. Sediment Toxicity; May 19, 2005
+
+NOTE: I did not find categories published per-station, just a method of determine one of three categories.
+
+REFERENCES:
+
+* Executive Summary, Page (v):
+
+Three levels were delineated for assessing sediment toxicity in this study. The first level
+was “nontoxic” where amphipod survival was ≥83% relative to controls. The 83% level was based
+upon the minimum significant difference approach whereby amphipod survival <83% would be
+considered significant in at least 90% of the samples based on replicate variability. The second
+level was “moderately toxic” where amphipod survival was ≥50% and < 83% relative to control
+survival and was significantly different from controls using standardized t-tests. The third level was
+“highly toxic” where amphipod survival was <50% relative to control survival. The 50% level
+corresponds to a high probability of degraded benthos based on previous regional monitoring results
+from Bight’98.
+
+* Appendix B, Page (B-1)
+
+APPENDIX B. Test Results by Station. A summary of the toxicity test results and
+general characteristics of the samples is included below. The complete sediment toxicity
+database is available at www.sccwrp.org.
+
+* Table C-1, Page (C-6)
+
+See the table on this page for classifications. I mistakenly concluded these categories were for the Bight Regional Survey summary data, my mistake.
