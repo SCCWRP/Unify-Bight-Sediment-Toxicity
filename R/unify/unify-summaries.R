@@ -1,6 +1,3 @@
-# Installing from local to pick up unmerged changes
-devtools::load_all('../SQOUnified-git/')
-
 make_path = function(year) { paste0("data/unify-summary-", year, ".rds") }
 
 years = c("1994", "1998", "2003", "2008", "2013", "2018", "2023")
@@ -10,7 +7,7 @@ for (y in years) {
   datasets[[y]] = readr::read_rds(make_path(y))
 }
 
-preprocessed = dplyr::bind_rows(datasets) %>% dplyr::select(-endpoint)
+preprocessed = dplyr::bind_rows(datasets) |> dplyr::select(-endpoint)
 
 postprocessed <- preprocessed |>
   dplyr::rename(
@@ -18,29 +15,37 @@ postprocessed <- preprocessed |>
     sigeffect = sigdiff
   ) |>
   dplyr::mutate(
-    `Endpoint Method` = case_match(
+    `Endpoint Method` = dplyr::case_match(
       species,
       c("Ampelisca abdita", "Eohaustorius estuarius") ~ "10 day survival percent",
       c("Strongylocentrotus purpuratus", "Mytilus galloprovincialis") ~ "Percent normal-alive",
       "Neanthes arenaceodentata" ~ "Growth",
       .default = `Endpoint Method`
     ),
-    units = case_match(
+    units = dplyr::case_match(
       `Endpoint Method`,
       "10 day survival percent" ~ "percentage",
       "Percent normal-alive" ~ "percentage",
       "Growth" ~ "milligrams dry weight per day",
       .default = units
     ),
-    sigeffect = case_when(
+    sigeffect = dplyr::case_when(
       !sigeffect ~ "NSC",
       sigeffect ~ "SC"
     ),
     dilution = as.numeric(dilution),
-    dilution = case_when(
+    dilution = dplyr::case_when(
       dilution < 0 ~ NA,
       .default = dilution
+    ),
+    sampletypecode = dplyr::case_match(
+      sampletypecode,
+      c("Grab", "GRAB", "RESULT") ~ "Result",
+      .default = sampletypecode
     )
+  ) |>
+  dplyr::filter(
+    !startsWith(stationid, "Sample") 
   ) |>
   dplyr::rename(
     endpoint = `Endpoint Method`,

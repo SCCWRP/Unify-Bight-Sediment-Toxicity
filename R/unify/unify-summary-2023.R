@@ -8,6 +8,11 @@ devtools::load_all('../SQOUnified-git/')
 ## This data was downloaded from the data portal
 results <- readr::read_csv('data-raw/from-bight2023-db/bight23results.csv', show_col_types = FALSE) |>
   dplyr::mutate(
+    sampletypecode = case_match(
+      sampletypecode,
+      "Grab" ~ "Result",
+      .default = sampletypecode
+    ),
     units = "Percent",
       treatment = case_match(
         treatment,
@@ -21,6 +26,6 @@ results <- readr::read_csv('data-raw/from-bight2023-db/bight23results.csv', show
     )
   )
 
-summary = tibble(surveyyear = 2023) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
+summary = tibble(surveyyear = 2023) |> dplyr::cross_join(SQOUnified::tox.summary(results, results.sampletypes = "Result", include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-2023.rds")

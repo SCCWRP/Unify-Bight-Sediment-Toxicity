@@ -59,7 +59,7 @@ results = results |>
   dplyr::mutate(
     sampletypecode = dplyr::case_match(
       sampletypecode,
-      c("RESULT", "Result") ~ "Grab",
+      c("RESULT", "Result") ~ "Result",
       .default = sampletypecode
     ),
     species = dplyr::case_match(
@@ -78,8 +78,10 @@ results = results |>
     )
   )
 
-
-
-summary <- dplyr::tibble(surveyyear = 2008) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
+summary <- dplyr::tibble(surveyyear = 2008) |> dplyr::cross_join(SQOUnified::tox.summary(results, results.sampletypes = "Result", include.controls = T))
+summary = summary |>
+  dplyr::mutate(
+    Category = NA_character_
+  )
 
 readr::write_rds(summary, "data/unify-summary-2008.rds")

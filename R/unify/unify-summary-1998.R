@@ -61,10 +61,15 @@ results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt
     species = with(lookup_species, SpeciesName[match(species, SpeciesCode)]),
     sampletypecode = dplyr::case_match(
       sampletypecode,
-      "Result" ~ "Grab",
+      c("RESULT", "Result") ~ "Result",
       .default = sampletypecode
     ),
     lab = with(lookup_agency, AgencyName[match(lab, AgencyCode)]),
+    endpoint = dplyr::case_match(
+      endpoint,
+      "SP" ~ "10 day survival percent",
+      .default = endpoint
+    ),
     matrix = dplyr::case_match(
       matrix,
       'BS' ~ "Whole Sediment",
@@ -76,6 +81,10 @@ results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt
       .default = units
   ))
 
-summary <- dplyr::tibble(surveyyear = 1998) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
+summary <- dplyr::tibble(surveyyear = 1998) |> dplyr::cross_join(SQOUnified::tox.summary(results, results.sampletypes = "Result", include.controls = T))
+summary = summary |>
+  dplyr::mutate(
+    Category = NA_character_
+  )
 
 readr::write_rds(summary, "data/unify-summary-1998.rds")

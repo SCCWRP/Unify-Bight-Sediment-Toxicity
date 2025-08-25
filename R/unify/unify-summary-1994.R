@@ -54,10 +54,14 @@ results = DATA |>
     endpoint = with(lookup_endpoint, EndpointName[match(endpoint, EndpointCode)]),
     sampletypecode = case_when(
       stationid %in% control_stations$stationid ~ "CNEG",
-      TRUE ~ "Grab"
+      TRUE ~ "Result"
     )
   )
 
 summary <- dplyr::tibble(surveyyear = 1994) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
+summary = summary |>
+  dplyr::mutate(
+    Category = NA_character_
+  )
 
 readr::write_rds(summary, "data/unify-summary-1994.rds")

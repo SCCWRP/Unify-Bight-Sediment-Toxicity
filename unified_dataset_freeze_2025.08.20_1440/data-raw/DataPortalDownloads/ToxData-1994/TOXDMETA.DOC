@@ -1,0 +1,131 @@
+Sediment Toxicity Bioassay Metadata
+August 28, 1996
+
+Program:  Southern California Bight Pilot Project (SCBPP)
+
+Source:  Southern California Coastal Water Research Project (SCCWRP)
+
+Contact:  Steven Bay
+
+Phone:  (714) 894-2222,  894-9699 (FAX)
+
+Number of Stations Sampled:  72
+
+Sampling Period:  13 July 1994 -- 22 August 1994
+
+Number Of Variables Measured:  2:  Interstitial water toxicity measured as number of normal embryos and 
+whole sediment toxicity measured as number of surviving amphipods.  Water quality data from the 
+exposures appears in the file TOX_WQ.TXT.  Since the interstitial water tests were affected by 
+interference from ammonia, data from interstitial water tests should not be used without consideration of 
+this factor.  See "Data Use and Comparability" for more information.
+
+Sampling Equipment Used:  Sediment for toxicity sampling was collected with a modified, chain-rigged 
+0.1m2 Van Veen grab.
+
+Analytical Techniques:  Interstitial water toxicity testing was performed at SCCWRP using embryos of the 
+purple sea urchin, Strongylocentrotus purpuratus, following methods of the EPA’s West Coast Manual.  
+Whole sediment testing was performed at SCCWRP and SAIC in Rhode Island.  Whole sediment tests used 
+the amphipod, Ampelisca abdita, by the methods in ASTM.
+
+Data Set Verification:  Data set verified by toxicologists from SCCWRP.
+
+General Comments:
+	       This data set includes number of embryos counted and number normal for interstitial water tests 
+and the starting number of amphipods and number surviving for the whole sediment tests.  Each record has 
+the following fields (variables):  Log Number, QA Batch, Species, Phase, Dilution, ControlCode, Endpoint, 
+Lab Rep, Start Count, Value, QA Code, and Lab Code.  The log number is a 10 digit code in the following 
+form:
+					  Digit
+					     1             -            P for Pilot Project
+					   2 & 3           -            Agency collecting the sediment
+					   4 & 5           -            Type of data (ST = Sediment toxicity)
+					   6 to 9          -            Station number
+					     10            -            Replicate number
+
+For agency collecting sediment, EC = Control sediment collected by SCCWRP’s amphipod supplier; SA = 
+Control sediment collected by SAIC in Rhode Island;  SC= Centrifugation blank created in the SCCWRP 
+laboratory;  HY= Hyperion Treatment Plant;  LA= County Sanitation Districts of Los Angeles County;  
+ME= MEC Analytical Systems, Inc. and SD= City of San Diego.  The replicate digit will be 0 in all cases 
+except when a sample has been split between SCCWRP and SAIC for toxicity testing.  In those cases, the 
+replicate value is 0 for the sample tested by SCCWRP and 1 for the sample tested by SAIC.
+
+QA Batch is the internal experiment designation by either SCCWRP or SAIC.
+
+Species is for test species, either SP for Strongylocentrotus purpuratus or AB for Ampelisca abdita.
+
+Phase is for phase of sediment tested, either SP for solid phase (whole sediment) or WP for water phase 
+(interstitial water).
+
+Dilution is percentage of sample that was interstitial water.  Null indicates 100% sample.  All whole 
+sediment tests were 100% whole sediment.
+
+ControlCode is the log number of the control sample associated with the particular record.
+
+Endpoint is the measured endpoint for the record, either NN for number normal in embryo tests or NA for 
+number alive in amphipod tests.
+
+Lab Rep is the replicate number for the particular record.
+
+Start Count is either the total number of embryos counted for the urchin test or the number of amphipods 
+added to the beaker at the start of a whole sediment test.
+
+Value is either the number of normal embryos for the urchin test or the number of surviving amphipods for 
+that test.
+
+QA Code is a letter designation for deviations from the QA parameters set forth for the project.  More than 
+one letter may be present for any given record:
+	A       All QA criteria met
+	C       Reduced number of replicates
+	D       Control performance criteria not met
+	E       Sample stored greater than 30 days
+	J       Minor deviation in test conditions
+	N       Endpoint not evaluated for this record
+
+Lab Code is the 5 letter code for the laboratory that performed the bioassay.  Either CASCC for SCCWRP 
+or RISAI for SAIC in Rhode Island.
+
+Station locations can be found in the Benthic Master Sample File, except for the following three control 
+sites.  All log numbers having the EC agency code, except station 3002, were a negative control station 
+where the amphipods were collected in Rhode Island (lat:41.443889, long:71.456944).  Station 3002 was a 
+postitive control site for the amphipod test.  This station was located in Wickford Harbor, Rhode Island 
+(lat:41.582222,long:71.425).  All stations with the SA agency code were for the negative control station 
+used by SAIC for there amphipod tests.  This station is located in Long Island Sound (lat:41.1325, 
+long:72.87833).  Descriptive data on sediment color and texture and depth of penetration of the grab for 
+SCBPP stations are available from SCCWRP on request.
+
+Field and Laboratory Techniques:  Sediment for toxicity analysis was collected with a modified 0.1m2 Van 
+Veen grab.  A minimum of three liters of surface (top 2 cm) sediment was collected from each station.  
+Sediment was stored in one liter polyethylene jars at 3-5  C for up to four weeks.  For the amphipod tests, 
+sediment was homogenized by hand then passed through 1 mm screen for samples tested at SCCWRP or 2 
+mm screen for samples tested at SAIC.  A 2 cm layer of sediment was added to quart-sized canning jars 
+with 600 ml of 30 g/kg seawater on top.  Five replicates from each station were tested.  Twenty amphipods 
+were added the next day and the test was carried out for 10 days at 20  C, with survival as the endpoint.  
+Interstitial water was obtained by centrifuging approximately 400 ml of homogenized, unscreened 
+sediment at 3,000 x g for 30 min.  Samples with pH less than 7.5 were adjusted to 7.6-8.0.  Three 
+concentrations of interstitial water (100, 50 and 25%) were prepared if sufficient sample volume was 
+available.  Three replicates of each concentration were tested.  Purple sea urchin embryos were added to 
+the interstitial water and allowed to develop for 72 h at 15  C.  Embryo samples were then preserved and 
+examined microscopically for normal development.
+
+Quality Assurance And Quality Control Evaluation:  Most of the tests met the QA criteria set forth in the 
+SCBPP Quality Assurance Plan.  One amphipod survival test failed to meet the criteria and retesting of 
+these samples resulted in several samples being stored greater than 30 days and having less than 5 
+replicates.  An amphipod test was not performed for station 245 due to not enough sample volume.  Some 
+concentrations of interstitial water were not done because of insufficient sample volume.  Many of the 
+interstitial water samples have reduced numbers of replicates.  Reduced replication resulted when the lower 
+concentrations exhibited complete toxicity (0% normal).  When lower concentrations exhibited complete 
+toxicity, only one replicate of the higher concentration was examined microscopically to confirm toxicity.
+	Reference toxicant tests for both the urchin and amphipod bioassays indicated that the animals 
+were within expected sensitivity ranges for all experiments.  For 16 of the stations, splits of the whole 
+sediment were made and amphipod tests were performed by both SCCWRP and SAIC.  Both sets of data 
+appear in the file and there is good agreement between the results.
+
+Data Use and Comparability:  The data are appropriate for the comparison between stations at the time of 
+sampling.  The data are appropriate for the use with other data collected during the SCBPP.
+	For comparison of data between different bioassays within the SCBPP toxicity data set, the data 
+should be normalized to the control values.
+	For the interstitial water data, there was an interference by ammonia.  Ammonia levels were found 
+to have increased greatly during storage of the sediments and led to many samples appearing to be more 
+toxic than would have been expected if no ammonia was present.  SCCWRP has processed the data to 
+remove the ammonia interference.  After processing, each station was designated as toxic, non-toxic or 
+indeterminate.  That information appears in the file TOX_TOX.TXT.

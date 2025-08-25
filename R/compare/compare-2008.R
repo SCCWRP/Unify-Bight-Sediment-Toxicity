@@ -37,8 +37,8 @@ published = published_data |>
 
 common_cols = dplyr::intersect(names(unify_data), names(published))
 
-unify = unify_data |> dplyr::select(all_of(common_cols))
-published = published |> dplyr::select(all_of(common_cols))
+# unify = unify_data |> dplyr::select(all_of(common_cols))
+# published = published |> dplyr::select(all_of(common_cols))
 
 joined = dplyr::full_join(published, unify, by=dplyr::join_by(stationid, toxbatch), suffix = c(".pub", ".uni"))
 comparison_cols = dplyr::bind_cols(joined |> dplyr::select(ends_with(".pub")), joined |> dplyr::select(ends_with(".uni")))

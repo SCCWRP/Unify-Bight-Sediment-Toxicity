@@ -27,7 +27,7 @@ results <- results |>
   ) |> dplyr::mutate(
     sampletypecode = dplyr::case_match(
       sampletypecode,
-      c("RESULT", "Result") ~ "Grab",
+      c("RESULT") ~ "Result",
       .default = sampletypecode
     ),
     dilution = ifelse("dilution" %in% pick(everything()), as.numeric(dilution), -88),
@@ -166,6 +166,10 @@ results <- results |>
     matrix = with(lu_matrix, Matrix[match(matrix, Code)])
   )
 
-summary <- dplyr::tibble(surveyyear = 2003) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
+summary <- dplyr::tibble(surveyyear = 2003) |> dplyr::cross_join(SQOUnified::tox.summary(results, results.sampletypes = "Result", include.controls = T))
+summary = summary |>
+  dplyr::mutate(
+    Category = NA_character_
+  )
 
 readr::write_rds(summary, "data/unify-summary-2003.rds")

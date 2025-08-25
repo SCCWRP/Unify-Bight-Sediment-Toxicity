@@ -8,6 +8,11 @@ results = results |>
     lab = agency
   ) |>
   dplyr::mutate(
+    sampletypecode = case_match(
+      sampletypecode,
+      "Grab" ~ "Result",
+      .default = sampletypecode
+    ),
     matrix = dplyr::case_match(
       matrix,
       "Bulk Sediment (whole sediment)" ~ "Whole Sediment",
@@ -24,6 +29,6 @@ results = results |>
       .default = dilution
     ))
 
-summary = dplyr::tibble(surveyyear = 2013) |> dplyr::cross_join(SQOUnified::tox.summary(results, include.controls = T))
+summary = dplyr::tibble(surveyyear = 2013) |> dplyr::cross_join(SQOUnified::tox.summary(results, results.sampletypes = "Result", include.controls = T))
 
 readr::write_rds(summary, "data/unify-summary-2013.rds")

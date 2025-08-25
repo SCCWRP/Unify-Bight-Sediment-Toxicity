@@ -1,0 +1,1600 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        Southern California Coastal Water Research Project
+        (SCCWRP)
+      Publication_Date: 20040402
+      Publication_Time: 20040402
+      Title:
+        2003 Bight03 Coastal Ecology Sediment Toxicity
+        Batch Information
+      Edition: 1.0
+      Publication_Information:
+        Publication_Place: Westminster, California
+        Publisher:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Online_Linkage:
+      http://www.sccwrp.org:8000/query.php?project=20%2b2003 Bight 03 &parameter=6%2bToxicity [View a Map of this Data] 
+      http://www.sccwrp.org:8000/toolbox/php/csv/csv.php?star_project=20&star_parameter=6 [Download this Data as an Excel Friendly File] 
+      ftp://ftp.sccwrp.org/pub/download/BIGHT03/TOXICITY/ToxData.zip
+  Description:
+    Abstract:
+      Two hundred and twenty-eight sites between Point
+      Conception, California, and the United
+      States-Mexico international border were sampled
+      between July 1 and September 30, 2003.  Two
+      hundred and eight sites were selected using a
+      stratified random design to ensure
+      representativeness and minimize bias.  A total of
+      six strata were sampled.  Three strata were
+      located offshore and included the continental
+      shelf (5-200 m depth), the continental slope
+      (200-500 m depth), and the Channel Islands
+      (30-120m depth).  Three strata were located
+      inshore and included estuaries, marinas, and
+      ports/bays/harbors areas.  The remaining 20 sites
+      were not randomly chosen, but were selected from
+      within the inshore strata based on their proximity
+      to anthropogenic inputs and potential for sediment
+      toxicity.    Ten-day solid phase sediment toxicity
+      tests were conducted using the amphipod
+      Eohaustorius estuarius on all samples.  This
+      standardized test has been used by EPA, NOAA, and
+      was used in the previous SCB regional survey
+      (Bight'98).    Of the 208 randomly selected
+      stations collected, 191 (92%) were successfully
+      tested which exceeded our data quality objectives
+      of 90% success.  Control survival, holding times,
+      and reference toxicants were all acceptable for
+      these samples.  The remaining 17 samples were
+      discarded because control survival (76%) did not
+      meet quality control criteria (90%).  A pre-survey
+      intercalibration study using marine sediments
+      split among participating laboratories
+      demonstrated comparability between testing
+      facilities.  The intercalibration was repeated
+      during the survey with similar results.  Three
+      levels were delineated for assessing sediment
+      toxicity in this study.  The first level was
+      "nontoxic" where amphipod survival was >83%
+      relative to controls.  The 83% level was based
+      upon the minimum significant difference approach
+      whereby amphipod survival <83% would be considered
+      significant in at least 90% of the samples based
+      on replicate variability.  The second level was
+      "moderately toxic" where amphipod survival was
+      >50% and < 83% relative to control survival and
+      was significantly different from controls using
+      standardized t-tests.  The third level was "highly
+      toxic" where amphipod survival was <50% relative
+      to control survival.  The 50% level corresponds to
+      a high probability of degraded benthos based on
+      previous regional monitoring results from
+      Bight'98.  Sediment toxicity was not widespread in
+      the SCB.  No sediment toxicity was observed in an
+      estimated 7,807 km2 (83%) of the SCB.  Stations
+      located near the Channel Islands Marine Sanctuary
+      were found to have the lowest incidence of
+      toxicity (4%).  Marinas and estuaries contained
+      the greatest incidence of observed sediment
+      toxicity.  Toxicity was present in marinas and
+      estuaries at 50% and 41% of the area,
+      respectively.  In addition, marina and estuary
+      strata had the greatest relative contribution of
+      highly toxic sediments (16% and 14%,
+      respectively).    The extent of sediment toxicity
+      in the SCB has changed little over the past five
+      years.  Comparisons to Bight'98 indicate a similar
+      level (19%) of overall observed sediment toxicity
+      throughout the SCB.  Also similar to Bight'98, the
+      relative distribution of sediment toxicity was
+      greatest in marinas.  The confidence in temporal
+      comparisons will improve as additional surveys are
+      conducted.
+    Purpose:
+      The goal of this study was to answer two
+      questions: 1) What percent of area in the SCB
+      contains sediments toxic to marine organisms?; and
+      2) How does sediment toxicity compare among
+      specific areas of interest?  The batch information
+      file provides data on the conduct of individual
+      test batches, such as laboratory, date and quality
+      assurance information.
+    Supplemental_Information:
+      The full text of the Field Methods Document may be
+      obtained from
+      http://www.sccwrp.org/regional/03bight/03docs.html
+      Sediment toxicity:  Toxicity tests provide a
+      direct measure of the effect of contamination on
+      benthic organisms.  These tests complement
+      sediment chemistry measurements by providing a
+      measure of the combined toxic effect of the
+      complex mixture of contaminants present in
+      sediment or in the water in the pores between
+      sediment grains (interstitial water).  Sediment
+      samples will be collected from the top 2 cm of a
+      Van Veen grab sample.  The toxicity of bulk
+      sediments will be assessed using an amphipod
+      survival test conducted according to USEPA
+      methods.  Amphipods will be exposed to a 2 cm
+      layer of test sediment for 10 days and then
+      examined to determine the percent survival.  The
+      amphipod Eohaustorius estuarius was selected for
+      this study because of its wide tolerance to
+      variations in habitat characteristics and to
+      provide comparability with recent toxicity
+      information from other monitoring programs in
+      California.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20030725
+        Ending_Date: 20040819
+    Currentness_Reference: ground condition
+  Status:
+    Progress: COMPLETE
+    Maintenance_and_Update_Frequency: As Needed
+  Spatial_Domain:
+    Description_of_Geographic_Extent: Southern California Bight
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -120.45623
+      East_Bounding_Coordinate: -117.11608
+      North_Bounding_Coordinate: 34.46532
+      South_Bounding_Coordinate: 32.55048
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Sediment toxicity
+      Theme_Keyword: Eohaustorius estuarius
+      Theme_Keyword: amphipod survival
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: southern California Bight
+  Access_Constraints: None
+  Use_Constraints:
+    This database contains information for quality
+    assurance samples (e.g. split samples and
+    reference toxicants) as well as sediment samples.
+    Caution should be exercised in using the toxicity
+    results reported here as the sole basis for
+    describing sediment quality in the SCB.  Toxicity
+    tests, like other indicators of sediment quality
+    such as chemistry and benthic community
+    assessment, have limitations that result in a
+    likelihood that some errors in classification will
+    occur.  Each of the stations tested for sediment
+    toxicity was also analyzed for sediment chemistry
+    and benthic macrofauna community composition, and
+    the results for these parameters will be reported
+    in future Bight'03 documents.  The results from
+    all of these lines of evidence should be used to
+    make an assessment of sediment quality for the
+    SCB.  Data from one QA Batch of samples was
+    removed from the database because the controls did
+    not meet acceptability criteria and could not be
+    retested within the designated 28 day holding
+    time.  Three test batches met the acceptability
+    criteria of having a mean control survival of 90%
+    or greater, but did not achieve the single
+    replicate control survival criteria of 80%..  This
+    deviation occurred in control replicate 5 of Batch
+    3 (65% survival), control replicate 5 of Batch 10
+    (70% survival), and control replicate 4 of Batch
+    11 (75% survival).  An investigation was performed
+    on these batches to determine if the variability
+    within the control survival data impacted the
+    ability of these tests to determine significant
+    differences between the control and each of the
+    samples.  In order to assess potential bias, a
+    conceptual model was developed that included
+    comparing the batch sample results to a mock
+    control data set, which had the highest achievable
+    coefficient of variation (CV) while still meeting
+    acceptability criteria.  All possible combinations
+    of five-replicate data sets were generated and the
+    CV was calculated for each.  The greatest CV
+    calculated from these data sets was 11.91
+    (designated CVmax).  Batch 3 and Batch 11 had CV
+    values less than the CVmax (11.5 and 8,
+    respectively).  This indicates that the ability to
+    determine significant differences between the
+    controls and the sample treatments of the
+    respective batches was not less than the
+    worst-case scenario CVmax.  The data from these
+    two batches were accepted into the database, but
+    were flagged as not meeting control acceptability
+    criteria.  Batch 10, however, had a CV of 13.1,
+    exceeding the CVmax of 11.91.  In this case, the
+    survival from each station was analyzed for a
+    statistical difference to the survival of the mock
+    control data set that generated the CVmax.  This
+    information was compared to the data generated
+    with the original test batch control.  The results
+    of the statistical testing using the batch control
+    and the CVmax mock control were found to be
+    identical.  Batch 10 was accepted into the
+    database, but flagged as not meeting control
+    acceptability criteria.   There were three
+    stations that were inadvertently sampled on two
+    separate occasions and toxicity testing was
+    completed on both samples.  Chemistry values are
+    only available for one of the sampling times at
+    each station.  Since the toxicity data represent
+    the only repeated sampling at a station, the data
+    for both sample periods is in the database.  The
+    samples for which no matching chemistry is
+    available were flagged as QA samples.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Cooper or Information Manager
+        Contact_Organization:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: physical address
+        Address: 7171 Fenwick Lane
+        City: Westminster
+        State_or_Province: California
+        Postal_Code: 92683
+        Country: USA
+      Contact_Voice_Telephone: 714.894.2222
+      Contact_Facsimile_Telephone: 714.894.9699
+      Contact_Electronic_Mail_Address: larryc@sccwrp.org
+      Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+      Contact_Instructions: email preferred
+  Data_Set_Credit: Bight03 Participants
+  Native_Data_Set_Environment: Microsoft Access Version 2000
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Coordinates accurate to within 100 ft
+  Logical_Consistency_Report:
+    The tables may be related by the StationID field
+    or the SampleID field where applicable.
+  Completeness_Report:
+    The Following Stations were abandoned: StationID
+    FailureReason Comments 4013 Comment Required No
+    Access 4014 Poor Closure Rocks & hard clay
+    prevented jaw from closing correctly. 4016 Comment
+    Required Permission not granted by Camp Pendleton
+    to sample in harbor 4044 Comment Required Inside
+    sub base can't access 4046 Comment Required
+    Salinity < 19 PSU.  Equipment type used - YSI 4054
+    Rocky Bottom Penetration could not be obtained.
+    4078 Comment Required Salinity < 19 PSU.
+    Equipment type used - YSI 4081 Comment Required On
+    Land 4082 Rocky Bottom Cobble & rocks interfered
+    with the proper closure to the jaw. 4112 Comment
+    Required Target coordinates on land, closest water
+    is 0.1 mile away 4114 Comment Required Too shallow
+    to reach by boat, within shallow water habitat
+    4136 Comment Required Salinity <19 ppt 4139
+    Obstructions Site located on the inside of the
+    south Ventura Harbor jetty.Both grabs and trawls
+    unsafe due to boat traffic and public recreation.
+    4174 Comment Required Salinity < 19 PSU.
+    Equipment type used - YSI 4175 Kelp Bed Kelp Bed,
+    heavy oil slick 4176 Comment Required Salinity <19
+    ppt 4180 Comment Required To shallow (2.5 m) depth
+    at abandonment.  Could not get closer than 0.337
+    nm (624 m)  to site 4225 No Failure Coordinates on
+    land, offset 8 m. Station abandoned due to
+    salinity less than 19 psu 4226 Obstructions Cannot
+    sample station. Navagation hazard. Cable and
+    pipeline crossing area. 4245 Comment Required No
+    Access 4247 Rocky Bottom Reef in all locations.
+    Past experience with lost trawl nets on same
+    tracks. Total of 6 grabs attempted with no luck.
+    4289 Comment Required No Access 4292 Kelp Bed Kelp
+    bed w/in 1/2 mile radius of site. 4293 Rocky
+    Bottom Entire channel is rocky bottom, unable to
+    sample 4302 Comment Required Salinity < 19 PSU.
+    Equipment type used - YSI 4310 Poor Closure Hard
+    clay prevented the jaw from penetrating and/or
+    closing. 4334 Rocky Bottom Poor or no penetration
+    occurred at all sites. 4353 Comment Required
+    Harbor seal sanctuary; access limited to canoes
+    4372 Comment Required Too shallow. Closest to site
+    2.365 nm (491 m). Depth at abandonment 3.0 m (edge
+    of channel) 4373 Comment Required No Access 4375
+    Poor Closure 7 grabs attempted. None good. Reef,
+    cobble and rock in all locations. Trawl tracks no
+    good either, nets lost in area on previous
+    occasions. 4382 Comment Required Site outside
+    depth limit of stratum.  Unable to reoccupy within
+    100 m of target coordinates and within 10% of the
+    500 m stratum depth limit 4387 No Failure Site
+    located on land. Closest possible sampling site
+    over 100m from nominal location. 4388 Rocky Bottom
+    Rocky bottom 4389 Comment Required steep angle
+    rocky bottom 96 m nominal  Abandoned: met grab
+    attempt requirement 4422 Comment Required Salinity
+    <19 ppt 4442 Comment Required Station depth at a
+    +1.3 m tide is 2.1 m. A 3.0 m depth within 100 m
+    of station could not be found. Also station is
+    located app. 50m into a no power boat zone. 4468
+    Comment Required Salinity < 19 PSU.  Equipment
+    type used - YSI 4508 Rocky Bottom Station on land.
+    Rocks and terrestrial debris prevented the jaw
+    from closing. 4528 Rocky Bottom No penetration
+    occurred at all sites.  Station on land. 4532 >
+    200m Station >140 meters out of water 4564 Comment
+    Required Salinity < 19 PSU.  Equipment type used -
+    YSI 4728 Rocky Bottom 9 attempts across channel in
+    vicinity, none successful due to poor closure.
+    4948 Rocky Bottom Rocky bottom caused constant
+    poor closure/zero recovery 4999 Comment Required
+    Salinity <19 ppt 5336 Comment Required Salinity
+    <19 ppt 5723 No Failure Salinity below 20psu 5731
+    No Failure Salinity below 20psu 5763 No Failure
+    Upstream of 5731, salinity below 20psu
+  Lineage:
+    Methodology:
+      Methodology_Type: Analysis
+      Methodology_Description:
+        Data were analyzed using two methods: (1)
+        calculation of the mean response relative to the
+        control for each batch and (2) assessment of the
+        percent area within each stratum that was
+        classified as nontoxic, moderately toxic or highly
+        toxic on the basis of survival thresholds.
+        Calculation of the response relative to the
+        control is simply the amphipod survival at a given
+        station divided by the mean percent survival of
+        the associated control for that batch multiplied
+        by 100.  This adjustment is sometimes referred to
+        as Abbott's correction.  For the amphipod test,
+        two criteria had to be met before a sample could
+        be classified as toxic: (1) a statistically
+        significant reduction in survival compared to the
+        control; and (2) a minimum percent reduction in
+        survival between the sample and control.
+        Statistical significance was determined by
+        performing a t-test between the sample and control
+        with a 0.05 level of significance.  A reduction in
+        mean survival of greater than 17% relative to the
+        control (i.e., a control normalized survival of
+        less than 83%) was classified as toxic.  This
+        threshold was calculated using the minimum
+        significant difference (MSD) approach following
+        Phillips et al. (2001).  The 17% toxicity
+        threshold was established by first calculating MSD
+        relative to the control for every t-test in the
+        Bight'03 dataset.  The MSD values were then ranked
+        and the 90th percentile value was selected
+        (Phillips et al. 2001).  Based on this MSD
+        calculation, samples having a survival less than
+        83% of the control would be expected to be
+        significantly different from the control 90% of
+        the time.    Samples that were identified as toxic
+        were further separated into two categories.  A
+        sample with a survival that was less than 50% of
+        the control was classified as "highly toxic".  The
+        threshold for high toxicity was chosen to
+        correspond to a high probability of occurrence of
+        a degraded benthos, based on the results of the
+        Bight'98 study (Ranasinghe et al. 2003).  The 50%
+        survival threshold also represented a response
+        that was certain to be significantly different
+        from the control; there was less than a 0.001%
+        chance of obtaining <50% survival for a sample by
+        chance.  Samples that were significantly different
+        from the control and with survival between 50 and
+        83% of the control were classified as "moderately
+        toxic".  Area weights were calculated by taking
+        the total area (km2) of a given strata and
+        dividing by the number of samples in that strata.
+        The total area determined to be nontoxic,
+        moderately toxic and highly toxic for a given
+        strata were calculated by summing the area weights
+        for each station that fell into a given category
+        of toxicity. Percent area was calculated by taking
+        the total area for a given strata and toxicity
+        level and dividing by the total area for the given
+        strata.  A Harvitz-Thompson ratio estimator was
+        used to calculate the confidence intervals.
+        Variance estimates for the proportion estimates
+        were calculated using the simple random sampling
+        (SRS) variance estimator.  Confidence bounds were
+        calculated using a Normal distribution multiplier
+        (Diaz-Ramos et al. 1996).
+      Methodology_Type: Field
+      Methodology_Identifier:
+        Methodology_Keyword_Thesaurus: None
+      Methodology_Description:
+        Two hundred and eight sites on the continental
+        shelf between Point Conception, California, and
+        the United States-Mexico international border were
+        sampled between July 1 and September 30, 2003.
+        Sites were selected using a stratified random
+        design (Stevens 1997).  A total of six strata were
+        sampled.  Three offshore strata included the
+        Channel Islands and two strata that were
+        characterized by depth; Shelf (5-200 m) and Slope
+        (mainland slope at depths of 200-500 m).  Three
+        strata were located inshore within embayments;
+        Estuaries, Ports/Bays/Harbors, and Marinas.  In
+        addition to the stratified random sites, 20
+        non-random sites were located in areas expected to
+        have benthic community impacts, in order to refine
+        the Benthic Response Index (BRI) (Smith et al.
+        2001).  Methods for the selection of the BRI
+        stations are presented in Appendix C of the
+        report.  	Sites were selected randomly within each
+        stratum, rather than by investigator
+        pre-selection, to ensure that they were
+        representative and could be extrapolated to the
+        response of the entire stratum.  For all strata, a
+        systematic component was added to the selection
+        process to minimize clustering of sample sites.
+        The systematic element was accomplished by using
+        an extension of the sampling design used in the
+        Bight'98 regional survey and in the Environmental
+        Protection Agency's (EPA's) Environmental
+        Monitoring and Assessment Program (EMAP) (Stevens
+        1997).  A hexagonal grid was placed over a map of
+        the sampling area, a random subsample of hexagon
+        cells was chosen from this population, and one
+        sample was obtained at a randomly selected site
+        within each grid cell.  The hexagonal grid
+        structure ensures systematic separation of the
+        sampling effort, while the random selection of
+        sites within grid cells ensures an unbiased
+        estimate of ecological condition.  Additional
+        details of this site selection process are
+        provided in the Coastal Ecology Work Plan (Bight
+        '03 Steering Committee 2003).  Sediment samples
+        were collected with a 0.1 m2 modified Van Veen
+        grab.  Up to 2.5 L of sediment were collected for
+        measurement of sediment toxicity using the
+        amphipod survival test.  A plastic (high-density
+        polyethylene [HDPE], polycarbonate, or Teflon)
+        scoop was used to collect sediment from the top 2
+        cm of the undisturbed surface material in the
+        grab.  Contact with sediment within 1 cm of the
+        side of the grab was avoided in order to minimize
+        cross-contamination.  The sediment was placed in
+        clean HDPE containers and distributed to the
+        testing laboratories.  Following collection,
+        samples were stored on wet ice or refrigerated in
+        the dark at 4  C for no longer than four weeks
+        prior to testing.
+      Methodology_Type: Field
+      Methodology_Description:
+        Sediment Toxicity Samples  Following the
+        collection of sediment chemistry samples, grabs
+        will be taken for sediment toxicity analysis.
+        More than one grab may be necessary to meet the
+        sample volume requirements of this sample type.
+        If a second grab is necessary, the sediment from
+        each grab will be distributed evenly among the
+        individual sample containers. Sediments will not
+        be homogenized in the field.   Sediment samples
+        will be collected by randomly sub-sampling the top
+        2 cm of the undisturbed surface material with a
+        plastic scoop.  At the very minimum, the scoop
+        will be washed with soap and water and rinsed with
+        de-ionized (DI) water between stations. Use of a
+        new scoop with each sample is also acceptable.
+        Sediment within 1 cm of the metal sides of the
+        grab will be avoided to prevent sample
+        contamination.  High-density polyethylene (HDPE)
+        containers will be used for collection of sediment
+        toxicity samples. The toxicity laboratories
+        performing the required analysis will provide
+        sample containers.   Sample volume requirements
+        for sediment toxicity samples are:  •	2.5 liters
+        of sediment is the target volume at stations where
+        sediment collection is not problematic. However,
+        if after nine grab attempts at a site yielding
+        intermittent success insufficient sample volume is
+        available, 1.0 liter of sediment will satisfy the
+        minimum sampling requirement.  Sample volumes less
+        than 1.0 L will be considered unacceptable, the
+        sample will be discarded and the reason for
+        incomplete sampling at the site will be recorded.
+        The 2.5 L of sediment will be distributed among
+        three high-density polyethylene (HDPE) containers
+        with Teflon-lined lids.  Each labeled container
+        should then be refrigerated, or placed on wet ice.
+        Do not freeze these samples.  Samples may be held
+        in the field, or laboratory, on wet ice, or in a
+        refrigerator at 4o C, for no more than three days
+        before transport to the laboratory or SCCWRP.  The
+        transport time  will not exceed 24 hours and
+        storage temperature will not exceed 4o C.
+        Labeling of sample containers will be the
+        responsibility of the field sampling crews with
+        the following minimum information required on each
+        sample label: 1) station number; 2) sampling date;
+        3) parameter; and 4) split (if required).   If the
+        samples will be analyzed by other laboratories,
+        they will be transported to SCCWRP for later
+        distribution.  It is recommended that SCCWRP
+        (Darrin Greenstein, 714/372-9224) be contacted
+        prior to delivery of samples so that arrangements
+        can be made to transfer custody.  A completed
+        chain of custody form must accompany all shipments
+        of samples (Appendix 6).  Allow time for
+        verification of the chain of custody.
+      Methodology_Type: Lab
+      Methodology_Description:
+        VII.   SEDIMENT TOXICITY TESTING   A.   Overview
+        This section describes QA/QC procedures that will
+        be used for the assessment of sediment toxicity
+        during the Bight’03 Survey.  Only one toxicity
+        test will be used for assessment of the sediment.
+        The toxicity of whole sediment will be measured
+        using an amphipod (Eohaustorius estuarius)
+        survival test.   B.   Laboratory Capability
+        Prior to participating in the Bight 03 survey,
+        the test laboratory must document their ability to
+        conduct the tests with the selected test species.
+        This should consist of a record of at least three
+        prior tests in which test acceptability was
+        attained.  In addition, the laboratory should have
+        conducted at least three prior reference toxicant
+        tests so that a control chart can be constructed.
+        A written description of the test method used must
+        also be provided to the Steering Committee prior
+        to the analysis of samples.   C.   Interlaboratory
+        Comparability  	All laboratories conducting the
+        amphipod survival tests must participate in an
+        interlaboratory comparison exercise prior to
+        sample testing.  This exercise will include the
+        analysis of field collected sediments and a
+        reference toxicant test.  Successful completion of
+        this exercise by a laboratory will be evaluated
+        using two criteria: 1) attainment of test
+        acceptability criteria, and 2) agreement of
+        results between laboratories.  The criteria for
+        establishing agreement of results will be
+        determined by the Toxicology Committee.
+        Laboratories unable to successfully complete the
+        interlaboratory comparison exercise will be asked
+        to examine their test procedures, make suggested
+        changes, and retest the comparison samples.
+        Failure to meet the interlaboratory comparison
+        criteria will result in the addition of a
+        cautionary data qualifier flag to that
+        laboratory’s data.  	In additon to the
+        intercalibration before sample testing, additonal
+        split samples will be tested by the laboratories
+        during the project.  These samples will be used to
+        verify that the results remain comparable during
+        the course of testing.  The results of these
+        additional samples will be for informational
+        purposes only.  D.   Sample Collection  	Methods
+        for collection of sediment are described in the
+        Field Operations Manual.  Surface sediment (top 2
+        cm) will be collected from Van Veen grabs and
+        stored in precleaned polyethylene jars.  Samples
+        may be stored in the dark at 4 ?C  for up to two
+        weeks before testing.  Sediment samples should be
+        press sieved through a 2 mm screen and homogenized
+        in the laboratory before testing.  	All samples
+        shall be accompanied by chain of custody and
+        sample tracking forms.  These forms should include
+        dates of receipt, homogenization, and testing of
+        each sample, as well as storage conditions.  E.
+        Amphipod Survival Test  	An amphipod survival test
+        will be conducted according to (EPA 1994)
+        guidelines.  This test consists of a 10-day
+        exposure of Eohaustorius estuarius to sediment
+        under static conditions.  Amphipods are placed in
+        glass chambers containing seawater and a 2 cm
+        layer of test sediment.  The number of surviving
+        amphipods is measured at the end of the test and
+        used to calculate the percentage survival.
+        Quality of test organisms  	All test organisms
+        will be obtained from a common source during the
+        survey.  Species identification should be verified
+        through consultation with a taxonomist, if
+        necessary.  Individuals selected for testing
+        should be visually inspected to confirm that they
+        are the proper size and in good condition (i.e.,
+        no external damage).  Holding time prior to
+        testing should be 10 days or less.  Accuracy and
+        precision  	The accuracy of sediment toxicity
+        tests of field samples cannot be determined since
+        a reference material of known toxicity is not
+        available.  A reference toxicant test will be run
+        with every batch of test samples in order to
+        document amphipod relative sensitivity and test
+        precision. This test will consist of a 96-hour
+        exposure to five different concentrations of
+        cadmium dissolved in seawater.  Cadmium
+        concentrations will be selected to provide an
+        estimate of the LC50 and will be verified by
+        chemical analysis of one of the exposure
+        treatments (e.g., the median test concentration).
+        Reference toxicant test results that fall outside
+        of control chart limits (2 sd of mean) will
+        trigger a review of test procedures and a possible
+        retest of the corresponding sediment samples.
+        Test conditions  	Water quality of the overlying
+        water and pore water will be measured for each
+        sample type at the beginning and end of the
+        exposure.  Temperature will be measured
+        continuously in the exposure room.  Instruments
+        will be calibrated daily.  Deviations in water
+        quality will be noted on the data files.
+        Interference by ammonia  	The presence of high
+        concentrations of ammonia in pore water may be a
+        confounding factor for sediment toxicity tests
+        with Eohaustorius.  Laboratories will be required
+        to measure the concentration of un-ionized ammonia
+        in the pore water from each station, prior to the
+        start of toxicity testing.  If the pore water
+        concentration exceeds the limit of 0.8 mg/L
+        un-ionized ammonia for any station within a batch,
+        the laboratory will be required to perform a
+        similtaneous ammonia reference toxicant test along
+        with that batch.  The results of the ammonia
+        reference toxicant testing will be compared to the
+        concentrations of ammonia in the test samples to
+        determine if the levels are high enough to account
+        for any observed toxicity in the sediment samples.
+        Test acceptability 	 	This toxicity test
+        procedure is considered unacceptable if amphipod
+        survival in "home sediment" is less than 90%, or
+        if survival in any control replicate is less than
+        80%.  Reference toxicant results must also be
+        within two standard deviations of the mean
+        response specific to the laboratory.  Water
+        quality parameters (salinity, temperature, pH, and
+        ammonia) should also be within the tolerance range
+        of the test organism, as specified in EPA (1994)
+        guidance.    	A sediment holding time of no more
+        than two weeks has been established in order to
+        minimize the potential alteration of the  sediment
+        toxicity due to storage; this time period is not a
+        criterion for judging test acceptability.  Tests
+        on samples that are stored from greater than two
+        weeks up to four weeks will also be considered
+        valid, but a data qualifier will be attached to
+        the record to indicate that the desired storage
+        time was been exceeded.   Samples stored for more
+        than four weeks before the start of toxicity
+        testing will be considered unacceptable for
+        testing and the data will not be included in the
+        project database.
+      Methodology_Type: Lab
+      Methodology_Description:
+        Two hundred and eight sites on the continental
+        shelf between Point Conception, California, and
+        the United States-Mexico international border were
+        sampled between July 1 and September 30, 2003.
+        Sites were selected using a stratified random
+        design (Stevens 1997).  A total of six strata were
+        sampled.  Three offshore strata included the
+        Channel Islands and two strata that were
+        characterized by depth; Shelf (5-200 m) and Slope
+        (mainland slope at depths of 200-500 m).  Three
+        strata were located inshore within embayments;
+        Estuaries, Ports/Bays/Harbors, and Marinas.  In
+        addition to the stratified random sites, 20
+        non-random sites were located in areas expected to
+        have benthic community impacts, in order to refine
+        the Benthic Response Index (BRI) (Smith et al.
+        2001).  Methods for the selection of the BRI
+        stations are presented in Appendix C of the
+        report.  	Sites were selected randomly within each
+        stratum, rather than by investigator
+        pre-selection, to ensure that they were
+        representative and could be extrapolated to the
+        response of the entire stratum.  For all strata, a
+        systematic component was added to the selection
+        process to minimize clustering of sample sites.
+        The systematic element was accomplished by using
+        an extension of the sampling design used in the
+        Bight'98 regional survey and in the Environmental
+        Protection Agency's (EPA's) Environmental
+        Monitoring and Assessment Program (EMAP) (Stevens
+        1997).  A hexagonal grid was placed over a map of
+        the sampling area, a random subsample of hexagon
+        cells was chosen from this population, and one
+        sample was obtained at a randomly selected site
+        within each grid cell.  The hexagonal grid
+        structure ensures systematic separation of the
+        sampling effort, while the random selection of
+        sites within grid cells ensures an unbiased
+        estimate of ecological condition.  Additional
+        details of this site selection process are
+        provided in the Coastal Ecology Work Plan (Bight
+        '03 Steering Committee 2003).  Sediment samples
+        were collected with a 0.1 m2 modified Van Veen
+        grab.  Up to 2.5 L of sediment were collected for
+        measurement of sediment toxicity using the
+        amphipod survival test.  A plastic (high-density
+        polyethylene [HDPE], polycarbonate, or Teflon)
+        scoop was used to collect sediment from the top 2
+        cm of the undisturbed surface material in the
+        grab.  Contact with sediment within 1 cm of the
+        side of the grab was avoided in order to minimize
+        cross-contamination.  The sediment was placed in
+        clean HDPE containers and distributed to the
+        testing laboratories.  Following collection,
+        samples were stored on wet ice or refrigerated in
+        the dark at 4  C for no longer than four weeks
+        prior to testing.
+    Process_Step:
+      Process_Description: All data was processed through QA Procedures
+      Process_Date: 20040819
+Spatial_Data_Organization_Information:
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodedic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio:
+        298.257
+        4.2.2.1 Depth Datum Name:
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: TestAcceptability
+      Attribute_Definition:
+        Evaluation of the test results from
+        luList39_ToxicityTestAcceptabilityCodes.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition: Test Acceptability Codes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: A
+      Attribute_Definition: Acceptable
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: AEHJ
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: AH
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: AHJ
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: AJ
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: AK
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: C
+      Attribute_Definition: Reduced number of replicates
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: CDEH
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: D
+      Attribute_Definition: Control performance criteria not met
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: DE
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: DEH
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: DJ
+      Attribute_Definition: Combination of codes D and J
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: E
+      Attribute_Definition: Sample stored > 14 days
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: EK
+      Attribute_Definition: combination of codes E and K
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: G
+      Attribute_Definition: Reference test missing or outside limits
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: H
+      Attribute_Definition: Water quality data incomplete
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: HD
+      Attribute_Definition: Combination Code
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: J
+      Attribute_Definition: Minor deviation in test conditions
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: K
+      Attribute_Definition: Incoming sample temperature exceeds limits
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+    Attribute:
+      Attribute_Label: Q
+      Attribute_Definition:
+        Control did not meet replicate acceptability
+        criterion (>or=80% in any one rep)
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Accept Code
+          Enumerated_Domain_Value_Definition: luList39_SedimentToxTestAcceptabilityCodes
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: QABatch
+      Attribute_Definition: The batch code for the sample precessing batch.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Unrepresentable_Domain:
+          An internal identifier for all samples processed
+          together.
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: SpeciesCode
+      Attribute_Definition: The species code from luList34_ToxicitySpecies.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList34_SedimentToxictySpecies
+          Enumerated_Domain_Value_Definition: Toxicty Species
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: EE
+      Attribute_Definition: Eohaustorius estuarius
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SpeciesCode
+          Enumerated_Domain_Value_Definition: luList34_SedimentToxicitySpecies
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: SP
+      Attribute_Definition: Strongylocentrotus purpuratus
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SpeciesCode
+          Enumerated_Domain_Value_Definition: luList34_SedimentToxicitySpecies
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Comments
+      Attribute_Definition: Additional remarks.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Additional Remarks
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: LabCode
+      Attribute_Definition:
+        The agency code from luList01_AgencyCodes of the
+        processing laboratory.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList01_AgencyCodes
+          Enumerated_Domain_Value_Definition: A list of participating agencies
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: OCSD
+      Attribute_Definition: Orange County Sanitation Districts
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Agency Codes
+          Enumerated_Domain_Value_Definition:
+            list 1 Agency
+            Codes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: ABC
+      Attribute_Definition: Aquatic Bioassay and Consulting Laboratories
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Agency Codes
+          Enumerated_Domain_Value_Definition:
+            list 1 Agency
+            Codes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: MEC
+      Attribute_Definition:
+        Marine Environmental Consulting Analytical Systems
+        Inc.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Agency Codes
+          Enumerated_Domain_Value_Definition:
+            list 1 Agency
+            Codes
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Protocol
+      Attribute_Definition: The test protocol from luList35_ToxicityProtocols.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList35_SedimentToxProtocols
+          Enumerated_Domain_Value_Definition: Protocols
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: ASTM 1853
+      Attribute_Definition: ASTM. 1997. E 1853-96
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: EPA 1994
+      Attribute_Definition: EPA amphipod test method (EPA/600/R-94/025)
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: EPA 4425
+      Attribute_Definition: From Standard Methods
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: USGS F10.6
+      Attribute_Definition: From Standard Methods
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: USGS F10.7
+      Attribute_Definition: From Standard Methods
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: USGS SOP F10.6
+      Attribute_Definition: Sea Urchin Fertilization Toxicity Test
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: USGS SOP F10.7
+      Attribute_Definition: Sea Urchin Embryological Development Test
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ProtocolCode
+          Enumerated_Domain_Value_Definition: luList35_ToxicityProtocols
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: TestDurationUnits
+      Attribute_Definition: From luList28_Units (Days or Hours).
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList28_Units
+          Enumerated_Domain_Value_Definition: A list of units used in the project
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Days
+      Attribute_Definition: Days
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: Hours
+      Attribute_Definition: Hours
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Matrix
+      Attribute_Definition: The test matrix from luList36_ToxicityMatrices.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList36_SedimentToxMatrix
+          Enumerated_Domain_Value_Definition: Matrix
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: BS
+      Attribute_Definition: bulk sediment
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: DW
+      Attribute_Definition: Dilution Water
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: EL
+      Attribute_Definition: elutriate
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: EX
+      Attribute_Definition: extract
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: IW
+      Attribute_Definition: interstitial water
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: OL
+      Attribute_Definition: overlaying water
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Attribute:
+      Attribute_Label: RT
+      Attribute_Definition: reference toxicant
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Matrix Code
+          Enumerated_Domain_Value_Definition: luList36_ToxicityMatrices
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: tblToxicityBatchInformation
+          Codeset_Source: Bight03 Information Management Plan
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: TestDate
+      Attribute_Definition:
+        The starting date of the test expressed as
+        dd-mmm-yyyy.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 7-25-2003
+          Range_Domain_Maximum: 8-19-2004
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: TemperatureUnits
+      Attribute_Definition: From luList28_Units.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: luList28_Units
+          Enumerated_Domain_Value_Definition: Units
+          Enumerated_Domain_Value_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: C
+      Attribute_Definition: Centigrade
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Units
+          Enumerated_Domain_Value_Definition: luList28_Units
+
+          Enumerated_Domain_Value_Definition_Source:
+            Bight03
+            Information Management Plan
+
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: Temperature
+      Attribute_Definition:
+        The temperature at which the test was conducted
+        (degrees C).
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 15
+          Range_Domain_Maximum: 15
+    Entity_Type:
+      Entity_Type_Label: tblToxicityBatchInformation
+      Entity_Type_Definition: TABLE
+      Entity_Type_Definition_Source: Bight03 Information Management Plan
+    Attribute:
+      Attribute_Label: TestDuration
+      Attribute_Definition: The duration of the test expressed in days.
+      Attribute_Definition_Source: Bight03 Information Management Plan
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 4
+          Range_Domain_Maximum: 10
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Cooper or Information Manager
+        Contact_Organization:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 7171 Fenwick
+        City: Westminster
+        State_or_Province: California
+        Postal_Code: 92683
+        Country: USA
+      Contact_Voice_Telephone: 714.894.2222
+      Contact_Facsimile_Telephone: 714.894.9699
+      Contact_Electronic_Mail_Address: larryc@sccwrp.org
+      Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+      Contact_Instructions: email preferred
+  Distribution_Liability:
+    Although these data have been processed
+    successfully on a computer system at SCCWRP, no
+    warranty expressed or implied is made regarding
+    the accuracy or utility of the data on any other
+    system or for general or scientific purposes, nor
+    shall the act of distribution constitute any such
+    warranty. This disclaimer applies both to
+    individual use of the data and aggregate use with
+    other data.  It is strongly recommended that these
+    data are directly acquired from a MLML server, and
+    not indirectly through other sources which may
+    have changed the data in some way.  It is also
+    strongly recommended that careful attention be
+    paid to the contents of the metadata file
+    associated with these data.  MLML shall not be
+    held liable for improper or incorrect use of the
+    data described and/or contained herein.
+Metadata_Reference_Information:
+  Metadata_Date: 20050209
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Cooper or Information Manager
+        Contact_Organization:
+          Southern California Coastal Water Research Project
+          (SCCWRP)
+      Contact_Position: Information Manager
+      Contact_Address:
+        Address_Type: physical address
+        Address: 7171 Fenwick Lane
+        City: Westminster
+        State_or_Province: California
+        Postal_Code: 92683
+        Country: USA
+      Contact_Voice_Telephone: 714.894.2222
+      Contact_Facsimile_Telephone: 714.894.9699
+      Contact_Electronic_Mail_Address: larryc@sccwrp.org
+      Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+      Contact_Instructions: email preferred
+  Metadata_Standard_Name:
+    NBII Content Standard for National Biological
+    Information Infrastructure Metadata
+  Metadata_Standard_Version: December 1985
+  Metadata_Time_Convention: Local Time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
