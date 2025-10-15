@@ -44,7 +44,7 @@ batch = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Batch.txt', s
   dplyr::tibble() |>
   dplyr::rename_with(tolower)
 
-results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt', show_col_types = FALSE) |>
+results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt.csv', show_col_types = FALSE) |>
   dplyr::tibble() |>
   dplyr::rename_with(tolower) |>
   dplyr::rename(
@@ -65,21 +65,9 @@ results = readr::read_csv('data-raw/DataPortalDownloads/ToxData-1998/Results.txt
       .default = sampletypecode
     ),
     lab = with(lookup_agency, AgencyName[match(lab, AgencyCode)]),
-    endpoint = dplyr::case_match(
-      endpoint,
-      "SP" ~ "10 day survival percent",
-      .default = endpoint
-    ),
-    matrix = dplyr::case_match(
-      matrix,
-      'BS' ~ "Whole Sediment",
-      .default = matrix
-    ),
-    units = dplyr::case_match(
-      units,
-      "%" ~ "percentage",
-      .default = units
-  ))
+    endpoint = with(lookup_endpoint, EndPoint[match(endpoint, EPCode)]),
+    matrix = with(lookup_matrix, MatrixDescription[match(matrix, MatrixCode)])
+  )
 
 summary <- dplyr::tibble(surveyyear = 1998) |> dplyr::cross_join(SQOUnified::tox.summary(results, results.sampletypes = "Result", include.controls = T))
 summary = summary |>
@@ -88,3 +76,47 @@ summary = summary |>
   )
 
 readr::write_rds(summary, "data/unify-summary-1998.rds")
+
+corrections_20251015 = summary |>
+  dplyr::rename(
+    sqocategory = Category,
+    mean = Mean,
+    stddev = `Standard Deviation`,
+    adjusted_control_mean = `Control Adjusted Mean`,
+    sigeffect = sigdiff,
+    pvalue = `P Value`,
+    coefficientvariance = `Coefficient of Variance`
+  ) |>
+  dplyr::mutate(
+    fieldreplicate = 1,
+    sigeffect = dplyr::case_when(
+      FALSE ~ "NSC",
+      TRUE ~ "SC"
+    )
+  ) |> 
+  dplyr::select(
+    stationid,
+    lab,
+    sampletypecode,
+    toxbatch,
+    species,
+    endpoint,
+    units,
+    sqocategory,
+    mean,
+    n,
+    stddev,
+    adjusted_control_mean,
+    sigeffect,
+    qacode,
+    pvalue,
+    comments,
+    coefficientvariance,
+    dilution,
+    fieldreplicate,
+    matrix,
+    treatment,
+    surveyyear
+)
+
+readr::write_csv(corrections_20251015, "~/Downloads/corrections_sedtox1998_20251015.csv")
